@@ -1,0 +1,3299 @@
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S110S65-67_reads_fixed_f.fasta 100%
+50154488 nt in 137706 seqs, min 330, max 443, avg 364
+Dereplicating 100%
+Sorting 100%
+50209 unique sequences, avg cluster 2.7, median 1, max 9255
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S125S75-77_reads_fixed_f.fasta 100%
+44802664 nt in 123100 seqs, min 330, max 445, avg 364
+Dereplicating 100%
+Sorting 100%
+49284 unique sequences, avg cluster 2.5, median 1, max 11104
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S129S60-62_reads_fixed_f.fasta 100%
+44167789 nt in 121335 seqs, min 330, max 447, avg 364
+Dereplicating 100%
+Sorting 100%
+38221 unique sequences, avg cluster 3.2, median 1, max 10596
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S133S80-82_reads_fixed_f.fasta 100%
+44156465 nt in 121335 seqs, min 330, max 450, avg 364
+Dereplicating 100%
+Sorting 100%
+48466 unique sequences, avg cluster 2.5, median 1, max 4550
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S134SOSS04_reads_fixed_f.fasta 100%
+44454459 nt in 121656 seqs, min 330, max 434, avg 365
+Dereplicating 100%
+Sorting 100%
+36351 unique sequences, avg cluster 3.3, median 1, max 14309
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S135SOSS04_reads_fixed_f.fasta 100%
+41129267 nt in 112495 seqs, min 333, max 431, avg 366
+Dereplicating 100%
+Sorting 100%
+34619 unique sequences, avg cluster 3.2, median 1, max 15126
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S136SOSS04_reads_fixed_f.fasta 100%
+40356927 nt in 110872 seqs, min 330, max 444, avg 364
+Dereplicating 100%
+Sorting 100%
+35044 unique sequences, avg cluster 3.2, median 1, max 5360
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S137SOSS11_reads_fixed_f.fasta 100%
+47054801 nt in 128437 seqs, min 330, max 440, avg 366
+Dereplicating 100%
+Sorting 100%
+35080 unique sequences, avg cluster 3.7, median 1, max 23500
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S138SOSS11_reads_fixed_f.fasta 100%
+46755086 nt in 128433 seqs, min 330, max 444, avg 364
+Dereplicating 100%
+Sorting 100%
+46986 unique sequences, avg cluster 2.7, median 1, max 8834
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S139SOSS11_reads_fixed_f.fasta 100%
+47162887 nt in 128918 seqs, min 331, max 446, avg 366
+Dereplicating 100%
+Sorting 100%
+41400 unique sequences, avg cluster 3.1, median 1, max 16295
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S140SOSS11A1_reads_fixed_f.fasta 100%
+47993398 nt in 131585 seqs, min 330, max 439, avg 365
+Dereplicating 100%
+Sorting 100%
+45254 unique sequences, avg cluster 2.9, median 1, max 12260
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S141SOSS11A1_reads_fixed_f.fasta 100%
+60184714 nt in 165676 seqs, min 330, max 439, avg 363
+Dereplicating 100%
+Sorting 100%
+48737 unique sequences, avg cluster 3.4, median 1, max 12748
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S142SOSS11A1_reads_fixed_f.fasta 100%
+50464668 nt in 138971 seqs, min 330, max 441, avg 363
+Dereplicating 100%
+Sorting 100%
+37865 unique sequences, avg cluster 3.7, median 1, max 10371
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S143SOSS21A1_reads_fixed_f.fasta 100%
+63151263 nt in 173522 seqs, min 331, max 434, avg 364
+Dereplicating 100%
+Sorting 100%
+29296 unique sequences, avg cluster 5.9, median 1, max 77636
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S144SOSS21A1_reads_fixed_f.fasta 100%
+41025291 nt in 112976 seqs, min 330, max 449, avg 363
+Dereplicating 100%
+Sorting 100%
+36233 unique sequences, avg cluster 3.1, median 1, max 9028
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S145SOSS21A1_reads_fixed_f.fasta 100%
+40678855 nt in 111813 seqs, min 331, max 447, avg 364
+Dereplicating 100%
+Sorting 100%
+36009 unique sequences, avg cluster 3.1, median 1, max 16304
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S146SOSS22A1_reads_fixed_f.fasta 100%
+40496387 nt in 111339 seqs, min 332, max 438, avg 364
+Dereplicating 100%
+Sorting 100%
+41187 unique sequences, avg cluster 2.7, median 1, max 9954
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S147SOSS22A1_reads_fixed_f.fasta 100%
+40976523 nt in 112604 seqs, min 330, max 447, avg 364
+Dereplicating 100%
+Sorting 100%
+43569 unique sequences, avg cluster 2.6, median 1, max 5573
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S148SOSS22A1_reads_fixed_f.fasta 100%
+39222068 nt in 107550 seqs, min 330, max 446, avg 365
+Dereplicating 100%
+Sorting 100%
+36119 unique sequences, avg cluster 3.0, median 1, max 9210
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S149SOSS11B1_reads_fixed_f.fasta 100%
+39555337 nt in 107979 seqs, min 332, max 444, avg 366
+Dereplicating 100%
+Sorting 100%
+32800 unique sequences, avg cluster 3.3, median 1, max 14847
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S150SOSS11B1_reads_fixed_f.fasta 100%
+42879799 nt in 117937 seqs, min 332, max 434, avg 364
+Dereplicating 100%
+Sorting 100%
+27650 unique sequences, avg cluster 4.3, median 1, max 36048
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S151SOSS11B1_reads_fixed_f.fasta 100%
+40848031 nt in 112214 seqs, min 332, max 434, avg 364
+Dereplicating 100%
+Sorting 100%
+16507 unique sequences, avg cluster 6.8, median 1, max 57177
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S152SOSS21B1_reads_fixed_f.fasta 100%
+39752500 nt in 106497 seqs, min 330, max 434, avg 373
+Dereplicating 100%
+Sorting 100%
+19356 unique sequences, avg cluster 5.5, median 1, max 22582
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S153SOSS21B1_reads_fixed_f.fasta 100%
+45210520 nt in 122664 seqs, min 331, max 434, avg 369
+Dereplicating 100%
+Sorting 100%
+21246 unique sequences, avg cluster 5.8, median 1, max 45440
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S154SOSS21B1_reads_fixed_f.fasta 100%
+46472430 nt in 125512 seqs, min 330, max 432, avg 370
+Dereplicating 100%
+Sorting 100%
+23702 unique sequences, avg cluster 5.3, median 1, max 34606
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S155SOSS22B1_reads_fixed_f.fasta 100%
+46582417 nt in 127816 seqs, min 330, max 432, avg 364
+Dereplicating 100%
+Sorting 100%
+28201 unique sequences, avg cluster 4.5, median 1, max 43226
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S156SOSS22B1_reads_fixed_f.fasta 100%
+39171787 nt in 107464 seqs, min 330, max 446, avg 365
+Dereplicating 100%
+Sorting 100%
+36939 unique sequences, avg cluster 2.9, median 1, max 8214
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S157SOSS11D1_reads_fixed_f.fasta 100%
+44812486 nt in 122833 seqs, min 330, max 442, avg 365
+Dereplicating 100%
+Sorting 100%
+45690 unique sequences, avg cluster 2.7, median 1, max 5972
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S158SOSS11D1_reads_fixed_f.fasta 100%
+48442042 nt in 133322 seqs, min 330, max 446, avg 363
+Dereplicating 100%
+Sorting 100%
+50578 unique sequences, avg cluster 2.6, median 1, max 10498
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S159SOSS11D1_reads_fixed_f.fasta 100%
+44768674 nt in 122975 seqs, min 330, max 446, avg 364
+Dereplicating 100%
+Sorting 100%
+46909 unique sequences, avg cluster 2.6, median 1, max 4616
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S160SR319_reads_fixed_f.fasta 100%
+43267621 nt in 118939 seqs, min 330, max 444, avg 364
+Dereplicating 100%
+Sorting 100%
+44737 unique sequences, avg cluster 2.7, median 1, max 10241
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S161SR319_reads_fixed_f.fasta 100%
+33846381 nt in 90595 seqs, min 330, max 431, avg 374
+Dereplicating 100%
+Sorting 100%
+21377 unique sequences, avg cluster 4.2, median 1, max 30027
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S162SR319_reads_fixed_f.fasta 100%
+30980007 nt in 84951 seqs, min 331, max 440, avg 365
+Dereplicating 100%
+Sorting 100%
+31957 unique sequences, avg cluster 2.7, median 1, max 3582
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S163SOSC08_reads_fixed_f.fasta 100%
+36136060 nt in 99505 seqs, min 330, max 447, avg 363
+Dereplicating 100%
+Sorting 100%
+34240 unique sequences, avg cluster 2.9, median 1, max 6416
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S164SOSC08_reads_fixed_f.fasta 100%
+40357535 nt in 110972 seqs, min 330, max 428, avg 364
+Dereplicating 100%
+Sorting 100%
+37363 unique sequences, avg cluster 3.0, median 1, max 2702
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S165SOSC08_reads_fixed_f.fasta 100%
+30324068 nt in 82466 seqs, min 330, max 428, avg 368
+Dereplicating 100%
+Sorting 100%
+27674 unique sequences, avg cluster 3.0, median 1, max 3898
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S166SRIN34_reads_fixed_f.fasta 100%
+30119811 nt in 82750 seqs, min 330, max 435, avg 364
+Dereplicating 100%
+Sorting 100%
+24078 unique sequences, avg cluster 3.4, median 1, max 11977
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S167SRIN34_reads_fixed_f.fasta 100%
+51782360 nt in 141837 seqs, min 330, max 446, avg 365
+Dereplicating 100%
+Sorting 100%
+49252 unique sequences, avg cluster 2.9, median 1, max 10390
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S168SRIN34_reads_fixed_f.fasta 100%
+45864656 nt in 125868 seqs, min 330, max 446, avg 364
+Dereplicating 100%
+Sorting 100%
+45498 unique sequences, avg cluster 2.8, median 1, max 10321
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S169SRIN35_reads_fixed_f.fasta 100%
+55453475 nt in 152053 seqs, min 330, max 447, avg 365
+Dereplicating 100%
+Sorting 100%
+45355 unique sequences, avg cluster 3.4, median 1, max 12228
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S170SRIN35_reads_fixed_f.fasta 100%
+67806824 nt in 186349 seqs, min 330, max 441, avg 364
+Dereplicating 100%
+Sorting 100%
+56723 unique sequences, avg cluster 3.3, median 1, max 11948
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S171SRIN35_reads_fixed_f.fasta 100%
+51583507 nt in 141252 seqs, min 330, max 446, avg 365
+Dereplicating 100%
+Sorting 100%
+49118 unique sequences, avg cluster 2.9, median 1, max 6717
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S172SRIN36_reads_fixed_f.fasta 100%
+42847790 nt in 117400 seqs, min 332, max 448, avg 365
+Dereplicating 100%
+Sorting 100%
+24443 unique sequences, avg cluster 4.8, median 1, max 13841
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S173SRIN37_reads_fixed_f.fasta 100%
+57279628 nt in 157231 seqs, min 330, max 428, avg 364
+Dereplicating 100%
+Sorting 100%
+44175 unique sequences, avg cluster 3.6, median 1, max 17627
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S174SRIN38_reads_fixed_f.fasta 100%
+60926121 nt in 167404 seqs, min 330, max 447, avg 364
+Dereplicating 100%
+Sorting 100%
+66770 unique sequences, avg cluster 2.5, median 1, max 5755
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S175SRIN38_reads_fixed_f.fasta 100%
+63317862 nt in 174188 seqs, min 330, max 447, avg 364
+Dereplicating 100%
+Sorting 100%
+67663 unique sequences, avg cluster 2.6, median 1, max 9747
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S176SRIN38_reads_fixed_f.fasta 100%
+34558765 nt in 94811 seqs, min 330, max 447, avg 365
+Dereplicating 100%
+Sorting 100%
+35312 unique sequences, avg cluster 2.7, median 1, max 11288
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S177SRIN39_reads_fixed_f.fasta 100%
+56851519 nt in 155768 seqs, min 330, max 428, avg 365
+Dereplicating 100%
+Sorting 100%
+48410 unique sequences, avg cluster 3.2, median 1, max 11756
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S178SRIN39_reads_fixed_f.fasta 100%
+45908387 nt in 125818 seqs, min 330, max 439, avg 365
+Dereplicating 100%
+Sorting 100%
+43902 unique sequences, avg cluster 2.9, median 1, max 11038
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S179SRIN39_reads_fixed_f.fasta 100%
+47439731 nt in 130153 seqs, min 330, max 444, avg 364
+Dereplicating 100%
+Sorting 100%
+53668 unique sequences, avg cluster 2.4, median 1, max 5593
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S180SRIN40_reads_fixed_f.fasta 100%
+40589857 nt in 110941 seqs, min 330, max 447, avg 366
+Dereplicating 100%
+Sorting 100%
+41021 unique sequences, avg cluster 2.7, median 1, max 4940
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S181SRIN40_reads_fixed_f.fasta 100%
+43041352 nt in 117989 seqs, min 330, max 440, avg 365
+Dereplicating 100%
+Sorting 100%
+44059 unique sequences, avg cluster 2.7, median 1, max 4414
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S182SRIN40_reads_fixed_f.fasta 100%
+45199218 nt in 124118 seqs, min 330, max 446, avg 364
+Dereplicating 100%
+Sorting 100%
+46240 unique sequences, avg cluster 2.7, median 1, max 6901
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S183SR220_reads_fixed_f.fasta 100%
+47402400 nt in 129375 seqs, min 330, max 447, avg 366
+Dereplicating 100%
+Sorting 100%
+47475 unique sequences, avg cluster 2.7, median 1, max 6137
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S184SR220_reads_fixed_f.fasta 100%
+55807377 nt in 152376 seqs, min 330, max 445, avg 366
+Dereplicating 100%
+Sorting 100%
+57244 unique sequences, avg cluster 2.7, median 1, max 7840
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S185SR220_reads_fixed_f.fasta 100%
+47357414 nt in 128158 seqs, min 330, max 446, avg 370
+Dereplicating 100%
+Sorting 100%
+40083 unique sequences, avg cluster 3.2, median 1, max 19144
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S186SBLEX2_reads_fixed_f.fasta 100%
+29118 nt in 79 seqs, min 350, max 428, avg 369
+Dereplicating 100%
+Sorting 100%
+71 unique sequences, avg cluster 1.1, median 1, max 4
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S189SBLEX4_reads_fixed_f.fasta 100%
+20148 nt in 55 seqs, min 351, max 387, avg 366
+Dereplicating 100%
+Sorting 100%
+54 unique sequences, avg cluster 1.0, median 1, max 2
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S189SMOCK_reads_fixed_f.fasta 100%
+46485207 nt in 128311 seqs, min 339, max 391, avg 362
+Dereplicating 100%
+Sorting 100%
+28561 unique sequences, avg cluster 4.5, median 1, max 4826
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S192SBLPCR_reads_fixed_f.fasta 100%
+58037 nt in 159 seqs, min 343, max 427, avg 365
+Dereplicating 100%
+Sorting 100%
+140 unique sequences, avg cluster 1.1, median 1, max 5
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S277S-REG313_reads_fixed_f.fasta 100%
+25353097 nt in 69153 seqs, min 330, max 431, avg 367
+Dereplicating 100%
+Sorting 100%
+24188 unique sequences, avg cluster 2.9, median 1, max 11160
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S278S-REG313_reads_fixed_f.fasta 100%
+28006735 nt in 76889 seqs, min 331, max 428, avg 364
+Dereplicating 100%
+Sorting 100%
+31789 unique sequences, avg cluster 2.4, median 1, max 3187
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S279S-REG313_reads_fixed_f.fasta 100%
+30466536 nt in 84072 seqs, min 330, max 438, avg 362
+Dereplicating 100%
+Sorting 100%
+31020 unique sequences, avg cluster 2.7, median 1, max 5965
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S280S-REG314_reads_fixed_f.fasta 100%
+24244294 nt in 66238 seqs, min 330, max 445, avg 366
+Dereplicating 100%
+Sorting 100%
+27890 unique sequences, avg cluster 2.4, median 1, max 2904
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S281S-REG314_reads_fixed_f.fasta 100%
+23673414 nt in 64508 seqs, min 330, max 445, avg 367
+Dereplicating 100%
+Sorting 100%
+25004 unique sequences, avg cluster 2.6, median 1, max 8459
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S282S-REG314_reads_fixed_f.fasta 100%
+27814321 nt in 75726 seqs, min 330, max 439, avg 367
+Dereplicating 100%
+Sorting 100%
+28254 unique sequences, avg cluster 2.7, median 1, max 7692
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S283S-REG315_reads_fixed_f.fasta 100%
+34390627 nt in 94419 seqs, min 331, max 446, avg 364
+Dereplicating 100%
+Sorting 100%
+37703 unique sequences, avg cluster 2.5, median 1, max 4958
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S284S-REG315_reads_fixed_f.fasta 100%
+40627483 nt in 111901 seqs, min 330, max 439, avg 363
+Dereplicating 100%
+Sorting 100%
+39095 unique sequences, avg cluster 2.9, median 1, max 6060
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S285S-REG315_reads_fixed_f.fasta 100%
+42158961 nt in 116109 seqs, min 330, max 442, avg 363
+Dereplicating 100%
+Sorting 100%
+39721 unique sequences, avg cluster 2.9, median 1, max 8517
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S286S-OSC08_reads_fixed_f.fasta 100%
+32953329 nt in 90517 seqs, min 330, max 428, avg 364
+Dereplicating 100%
+Sorting 100%
+36143 unique sequences, avg cluster 2.5, median 1, max 1913
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S287S-OSC08_reads_fixed_f.fasta 100%
+41708631 nt in 113978 seqs, min 330, max 431, avg 366
+Dereplicating 100%
+Sorting 100%
+41259 unique sequences, avg cluster 2.8, median 1, max 4111
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S288S-BLEX4_reads_fixed_f.fasta 100%
+29179 nt in 80 seqs, min 339, max 381, avg 365
+Dereplicating 100%
+Sorting 100%
+72 unique sequences, avg cluster 1.1, median 1, max 3
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S289S-DA6_reads_fixed_f.fasta 100%
+35399515 nt in 97392 seqs, min 330, max 446, avg 363
+Dereplicating 100%
+Sorting 100%
+37262 unique sequences, avg cluster 2.6, median 1, max 7095
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S290S-DA6_reads_fixed_f.fasta 100%
+63602986 nt in 174539 seqs, min 330, max 444, avg 364
+Dereplicating 100%
+Sorting 100%
+58363 unique sequences, avg cluster 3.0, median 1, max 14469
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S291S-DA6_reads_fixed_f.fasta 100%
+43967092 nt in 120838 seqs, min 330, max 444, avg 364
+Dereplicating 100%
+Sorting 100%
+42608 unique sequences, avg cluster 2.8, median 1, max 9468
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S292S-DA7_reads_fixed_f.fasta 100%
+44135410 nt in 120875 seqs, min 330, max 444, avg 365
+Dereplicating 100%
+Sorting 100%
+40454 unique sequences, avg cluster 3.0, median 1, max 11258
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S293S-DA7_reads_fixed_f.fasta 100%
+34066225 nt in 93533 seqs, min 330, max 447, avg 364
+Dereplicating 100%
+Sorting 100%
+34888 unique sequences, avg cluster 2.7, median 1, max 7706
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S294S-DA7_reads_fixed_f.fasta 100%
+26026404 nt in 71498 seqs, min 330, max 446, avg 364
+Dereplicating 100%
+Sorting 100%
+28441 unique sequences, avg cluster 2.5, median 1, max 4588
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S295S-DA8_reads_fixed_f.fasta 100%
+25458767 nt in 69661 seqs, min 330, max 446, avg 365
+Dereplicating 100%
+Sorting 100%
+25076 unique sequences, avg cluster 2.8, median 1, max 8052
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S296S-DA8_reads_fixed_f.fasta 100%
+88483574 nt in 243369 seqs, min 330, max 446, avg 364
+Dereplicating 100%
+Sorting 100%
+75605 unique sequences, avg cluster 3.2, median 1, max 22440
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S297S-DA8_reads_fixed_f.fasta 100%
+32375435 nt in 88959 seqs, min 330, max 447, avg 364
+Dereplicating 100%
+Sorting 100%
+36191 unique sequences, avg cluster 2.5, median 1, max 5636
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S298S-DA9_reads_fixed_f.fasta 100%
+63984938 nt in 175923 seqs, min 330, max 446, avg 364
+Dereplicating 100%
+Sorting 100%
+63320 unique sequences, avg cluster 2.8, median 1, max 9366
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S299S-DA9_reads_fixed_f.fasta 100%
+30788106 nt in 84629 seqs, min 330, max 446, avg 364
+Dereplicating 100%
+Sorting 100%
+30294 unique sequences, avg cluster 2.8, median 1, max 7082
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S300S-DA9_reads_fixed_f.fasta 100%
+39096527 nt in 107229 seqs, min 330, max 444, avg 365
+Dereplicating 100%
+Sorting 100%
+38372 unique sequences, avg cluster 2.8, median 1, max 7563
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S301S-DA10_reads_fixed_f.fasta 100%
+35255359 nt in 96875 seqs, min 330, max 446, avg 364
+Dereplicating 100%
+Sorting 100%
+33380 unique sequences, avg cluster 2.9, median 1, max 13838
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S302S-DA10_reads_fixed_f.fasta 100%
+35112620 nt in 96435 seqs, min 330, max 446, avg 364
+Dereplicating 100%
+Sorting 100%
+37008 unique sequences, avg cluster 2.6, median 1, max 5317
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S303S-DA10_reads_fixed_f.fasta 100%
+36154434 nt in 99171 seqs, min 330, max 434, avg 365
+Dereplicating 100%
+Sorting 100%
+33651 unique sequences, avg cluster 2.9, median 1, max 11895
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S304S-DA11_reads_fixed_f.fasta 100%
+31794318 nt in 87285 seqs, min 331, max 446, avg 364
+Dereplicating 100%
+Sorting 100%
+32710 unique sequences, avg cluster 2.7, median 1, max 5529
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S305S-DA11_reads_fixed_f.fasta 100%
+40576345 nt in 110868 seqs, min 330, max 447, avg 366
+Dereplicating 100%
+Sorting 100%
+30120 unique sequences, avg cluster 3.7, median 1, max 26819
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S306S-DA11_reads_fixed_f.fasta 100%
+56455901 nt in 155194 seqs, min 330, max 447, avg 364
+Dereplicating 100%
+Sorting 100%
+51611 unique sequences, avg cluster 3.0, median 1, max 8601
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S307S-DA12_reads_fixed_f.fasta 100%
+41904771 nt in 114914 seqs, min 330, max 444, avg 365
+Dereplicating 100%
+Sorting 100%
+38264 unique sequences, avg cluster 3.0, median 1, max 9731
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S308S-DA12_reads_fixed_f.fasta 100%
+36374553 nt in 99951 seqs, min 330, max 442, avg 364
+Dereplicating 100%
+Sorting 100%
+33266 unique sequences, avg cluster 3.0, median 1, max 6661
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S309S-DA12_reads_fixed_f.fasta 100%
+43304587 nt in 118759 seqs, min 330, max 450, avg 365
+Dereplicating 100%
+Sorting 100%
+41004 unique sequences, avg cluster 2.9, median 1, max 8434
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S310S-DA13_reads_fixed_f.fasta 100%
+38775990 nt in 106591 seqs, min 330, max 447, avg 364
+Dereplicating 100%
+Sorting 100%
+36195 unique sequences, avg cluster 2.9, median 1, max 11868
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S311S-DA13_reads_fixed_f.fasta 100%
+33769850 nt in 92813 seqs, min 330, max 445, avg 364
+Dereplicating 100%
+Sorting 100%
+31500 unique sequences, avg cluster 2.9, median 1, max 10298
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S312S-DA13_reads_fixed_f.fasta 100%
+39258277 nt in 108016 seqs, min 330, max 446, avg 363
+Dereplicating 100%
+Sorting 100%
+35272 unique sequences, avg cluster 3.1, median 1, max 10248
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S313S-OSC32_reads_fixed_f.fasta 100%
+31228438 nt in 85690 seqs, min 331, max 444, avg 364
+Dereplicating 100%
+Sorting 100%
+30259 unique sequences, avg cluster 2.8, median 1, max 3921
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S314S-OSC32_reads_fixed_f.fasta 100%
+34394974 nt in 94083 seqs, min 330, max 438, avg 366
+Dereplicating 100%
+Sorting 100%
+30710 unique sequences, avg cluster 3.1, median 1, max 9389
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S315S-OSC32_reads_fixed_f.fasta 100%
+37068880 nt in 101937 seqs, min 330, max 437, avg 364
+Dereplicating 100%
+Sorting 100%
+32770 unique sequences, avg cluster 3.1, median 1, max 5746
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S316S-OSC16_reads_fixed_f.fasta 100%
+48765454 nt in 134099 seqs, min 330, max 442, avg 364
+Dereplicating 100%
+Sorting 100%
+41056 unique sequences, avg cluster 3.3, median 1, max 8540
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S317S-OSC16_reads_fixed_f.fasta 100%
+34776176 nt in 95376 seqs, min 330, max 428, avg 365
+Dereplicating 100%
+Sorting 100%
+32803 unique sequences, avg cluster 2.9, median 1, max 3324
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S318S-OSC16_reads_fixed_f.fasta 100%
+37548188 nt in 103222 seqs, min 330, max 425, avg 364
+Dereplicating 100%
+Sorting 100%
+33334 unique sequences, avg cluster 3.1, median 1, max 5199
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S319S-OSC20_reads_fixed_f.fasta 100%
+45779472 nt in 125395 seqs, min 330, max 428, avg 365
+Dereplicating 100%
+Sorting 100%
+35370 unique sequences, avg cluster 3.5, median 1, max 20682
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S320S-BLEX5_reads_fixed_f.fasta 100%
+35672974 nt in 97767 seqs, min 330, max 449, avg 365
+Dereplicating 100%
+Sorting 100%
+37527 unique sequences, avg cluster 2.6, median 1, max 4450
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S321S-OSC20_reads_fixed_f.fasta 100%
+38715550 nt in 106308 seqs, min 330, max 432, avg 364
+Dereplicating 100%
+Sorting 100%
+36601 unique sequences, avg cluster 2.9, median 1, max 4833
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S322S-OSC20_reads_fixed_f.fasta 100%
+42437745 nt in 116809 seqs, min 330, max 440, avg 363
+Dereplicating 100%
+Sorting 100%
+35882 unique sequences, avg cluster 3.3, median 1, max 9564
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S323S-OSC30_reads_fixed_f.fasta 100%
+56022357 nt in 153819 seqs, min 330, max 447, avg 364
+Dereplicating 100%
+Sorting 100%
+47687 unique sequences, avg cluster 3.2, median 1, max 4113
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S324S-OSC30_reads_fixed_f.fasta 100%
+42125155 nt in 115536 seqs, min 330, max 444, avg 365
+Dereplicating 100%
+Sorting 100%
+38838 unique sequences, avg cluster 3.0, median 1, max 2972
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S325S-OSC30_reads_fixed_f.fasta 100%
+25219930 nt in 69464 seqs, min 330, max 432, avg 363
+Dereplicating 100%
+Sorting 100%
+21772 unique sequences, avg cluster 3.2, median 1, max 10783
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S326S-D19_reads_fixed_f.fasta 100%
+25957679 nt in 71357 seqs, min 330, max 441, avg 364
+Dereplicating 100%
+Sorting 100%
+25616 unique sequences, avg cluster 2.8, median 1, max 6701
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S327S-D19_reads_fixed_f.fasta 100%
+31787164 nt in 87247 seqs, min 330, max 446, avg 364
+Dereplicating 100%
+Sorting 100%
+29737 unique sequences, avg cluster 2.9, median 1, max 8384
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S328S-D19_reads_fixed_f.fasta 100%
+31929214 nt in 87768 seqs, min 330, max 446, avg 364
+Dereplicating 100%
+Sorting 100%
+29910 unique sequences, avg cluster 2.9, median 1, max 7378
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S329S-D2_reads_fixed_f.fasta 100%
+36722244 nt in 100901 seqs, min 330, max 436, avg 364
+Dereplicating 100%
+Sorting 100%
+33909 unique sequences, avg cluster 3.0, median 1, max 8205
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S330S-D2_reads_fixed_f.fasta 100%
+32736903 nt in 90055 seqs, min 330, max 446, avg 364
+Dereplicating 100%
+Sorting 100%
+30818 unique sequences, avg cluster 2.9, median 1, max 5841
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S331S-D2_reads_fixed_f.fasta 100%
+28943056 nt in 79402 seqs, min 331, max 443, avg 365
+Dereplicating 100%
+Sorting 100%
+28223 unique sequences, avg cluster 2.8, median 1, max 5803
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S332S-D22_reads_fixed_f.fasta 100%
+37029851 nt in 101809 seqs, min 330, max 436, avg 364
+Dereplicating 100%
+Sorting 100%
+35518 unique sequences, avg cluster 2.9, median 1, max 8386
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S333S-D22_reads_fixed_f.fasta 100%
+51793693 nt in 142419 seqs, min 333, max 428, avg 364
+Dereplicating 100%
+Sorting 100%
+41948 unique sequences, avg cluster 3.4, median 1, max 13897
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S334S-D22_reads_fixed_f.fasta 100%
+47136161 nt in 129544 seqs, min 330, max 446, avg 364
+Dereplicating 100%
+Sorting 100%
+41967 unique sequences, avg cluster 3.1, median 1, max 10897
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S335S-D23_reads_fixed_f.fasta 100%
+49526268 nt in 136148 seqs, min 330, max 441, avg 364
+Dereplicating 100%
+Sorting 100%
+45123 unique sequences, avg cluster 3.0, median 1, max 12052
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S336S-D23_reads_fixed_f.fasta 100%
+38141879 nt in 104504 seqs, min 331, max 448, avg 365
+Dereplicating 100%
+Sorting 100%
+33835 unique sequences, avg cluster 3.1, median 1, max 7144
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S337S-D23_reads_fixed_f.fasta 100%
+81877956 nt in 224989 seqs, min 331, max 433, avg 364
+Dereplicating 100%
+Sorting 100%
+68062 unique sequences, avg cluster 3.3, median 1, max 19034
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S338S-D27_reads_fixed_f.fasta 100%
+63373842 nt in 174314 seqs, min 330, max 450, avg 364
+Dereplicating 100%
+Sorting 100%
+47791 unique sequences, avg cluster 3.6, median 1, max 18411
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S339S-D27_reads_fixed_f.fasta 100%
+54465816 nt in 149290 seqs, min 330, max 428, avg 365
+Dereplicating 100%
+Sorting 100%
+40364 unique sequences, avg cluster 3.7, median 1, max 21156
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S340S-D27_reads_fixed_f.fasta 100%
+66297032 nt in 181487 seqs, min 331, max 442, avg 365
+Dereplicating 100%
+Sorting 100%
+51566 unique sequences, avg cluster 3.5, median 1, max 16306
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S341S-D28_reads_fixed_f.fasta 100%
+34487778 nt in 94798 seqs, min 330, max 428, avg 364
+Dereplicating 100%
+Sorting 100%
+30955 unique sequences, avg cluster 3.1, median 1, max 7370
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S342S-D28_reads_fixed_f.fasta 100%
+32360149 nt in 88833 seqs, min 330, max 436, avg 364
+Dereplicating 100%
+Sorting 100%
+29325 unique sequences, avg cluster 3.0, median 1, max 5269
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S343S-D28_reads_fixed_f.fasta 100%
+40894469 nt in 112134 seqs, min 330, max 436, avg 365
+Dereplicating 100%
+Sorting 100%
+35826 unique sequences, avg cluster 3.1, median 1, max 8641
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S344S-D29_reads_fixed_f.fasta 100%
+30702338 nt in 84455 seqs, min 330, max 446, avg 364
+Dereplicating 100%
+Sorting 100%
+25783 unique sequences, avg cluster 3.3, median 1, max 10997
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S345S-D29_reads_fixed_f.fasta 100%
+41464305 nt in 113933 seqs, min 330, max 436, avg 364
+Dereplicating 100%
+Sorting 100%
+36819 unique sequences, avg cluster 3.1, median 1, max 10145
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S346S-D29_reads_fixed_f.fasta 100%
+36139742 nt in 99341 seqs, min 331, max 446, avg 364
+Dereplicating 100%
+Sorting 100%
+31622 unique sequences, avg cluster 3.1, median 1, max 8855
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S347S-D3_reads_fixed_f.fasta 100%
+45119186 nt in 124143 seqs, min 330, max 442, avg 363
+Dereplicating 100%
+Sorting 100%
+37721 unique sequences, avg cluster 3.3, median 1, max 15714
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S348S-D3_reads_fixed_f.fasta 100%
+49661498 nt in 136679 seqs, min 330, max 442, avg 363
+Dereplicating 100%
+Sorting 100%
+41991 unique sequences, avg cluster 3.3, median 1, max 9429
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S349S-D3_reads_fixed_f.fasta 100%
+31724856 nt in 87272 seqs, min 330, max 436, avg 364
+Dereplicating 100%
+Sorting 100%
+30065 unique sequences, avg cluster 2.9, median 1, max 8037
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S350S-D30_reads_fixed_f.fasta 100%
+57434123 nt in 157789 seqs, min 330, max 450, avg 364
+Dereplicating 100%
+Sorting 100%
+46047 unique sequences, avg cluster 3.4, median 1, max 13464
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S351S-D30_reads_fixed_f.fasta 100%
+63329708 nt in 173720 seqs, min 330, max 428, avg 365
+Dereplicating 100%
+Sorting 100%
+48630 unique sequences, avg cluster 3.6, median 1, max 18202
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S352S-BLEX6_reads_fixed_f.fasta 100%
+43286 nt in 119 seqs, min 343, max 378, avg 364
+Dereplicating 100%
+Sorting 100%
+102 unique sequences, avg cluster 1.2, median 1, max 7
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S353S-D30_reads_fixed_f.fasta 100%
+35700397 nt in 98124 seqs, min 330, max 444, avg 364
+Dereplicating 100%
+Sorting 100%
+29295 unique sequences, avg cluster 3.3, median 1, max 11433
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S354S-D31_reads_fixed_f.fasta 100%
+46939949 nt in 129082 seqs, min 330, max 442, avg 364
+Dereplicating 100%
+Sorting 100%
+41672 unique sequences, avg cluster 3.1, median 1, max 9941
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S355S-D31_reads_fixed_f.fasta 100%
+39339586 nt in 108123 seqs, min 330, max 442, avg 364
+Dereplicating 100%
+Sorting 100%
+36589 unique sequences, avg cluster 3.0, median 1, max 8050
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S356S-D31_reads_fixed_f.fasta 100%
+52819343 nt in 144970 seqs, min 330, max 450, avg 364
+Dereplicating 100%
+Sorting 100%
+50107 unique sequences, avg cluster 2.9, median 1, max 9054
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S357S-D33_reads_fixed_f.fasta 100%
+28861960 nt in 78984 seqs, min 330, max 442, avg 365
+Dereplicating 100%
+Sorting 100%
+28375 unique sequences, avg cluster 2.8, median 1, max 4889
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S358S-D33_reads_fixed_f.fasta 100%
+33370311 nt in 91616 seqs, min 330, max 450, avg 364
+Dereplicating 100%
+Sorting 100%
+30387 unique sequences, avg cluster 3.0, median 1, max 8908
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S359S-D33_reads_fixed_f.fasta 100%
+37088228 nt in 101157 seqs, min 330, max 432, avg 367
+Dereplicating 100%
+Sorting 100%
+25444 unique sequences, avg cluster 4.0, median 1, max 31852
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S360S-D35_reads_fixed_f.fasta 100%
+35846174 nt in 98298 seqs, min 330, max 437, avg 365
+Dereplicating 100%
+Sorting 100%
+37071 unique sequences, avg cluster 2.7, median 1, max 4735
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S361S-D35_reads_fixed_f.fasta 100%
+31336206 nt in 85059 seqs, min 330, max 446, avg 368
+Dereplicating 100%
+Sorting 100%
+20134 unique sequences, avg cluster 4.2, median 1, max 28513
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S362S-D35_reads_fixed_f.fasta 100%
+37733463 nt in 103718 seqs, min 330, max 447, avg 364
+Dereplicating 100%
+Sorting 100%
+37117 unique sequences, avg cluster 2.8, median 1, max 7504
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S363S-D5_reads_fixed_f.fasta 100%
+36469296 nt in 100080 seqs, min 330, max 447, avg 364
+Dereplicating 100%
+Sorting 100%
+36323 unique sequences, avg cluster 2.8, median 1, max 6186
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S364S-D5_reads_fixed_f.fasta 100%
+32733814 nt in 89965 seqs, min 330, max 442, avg 364
+Dereplicating 100%
+Sorting 100%
+31503 unique sequences, avg cluster 2.9, median 1, max 6560
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S365S-D5_reads_fixed_f.fasta 100%
+38001092 nt in 104431 seqs, min 330, max 447, avg 364
+Dereplicating 100%
+Sorting 100%
+39586 unique sequences, avg cluster 2.6, median 1, max 5339
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S366S-DP32_reads_fixed_f.fasta 100%
+42074608 nt in 115639 seqs, min 330, max 444, avg 364
+Dereplicating 100%
+Sorting 100%
+41187 unique sequences, avg cluster 2.8, median 1, max 10631
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S367S-DP32_reads_fixed_f.fasta 100%
+51093878 nt in 139862 seqs, min 330, max 447, avg 365
+Dereplicating 100%
+Sorting 100%
+50852 unique sequences, avg cluster 2.8, median 1, max 8746
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S368S-DP32_reads_fixed_f.fasta 100%
+38137760 nt in 104603 seqs, min 330, max 446, avg 365
+Dereplicating 100%
+Sorting 100%
+40558 unique sequences, avg cluster 2.6, median 1, max 4619
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S369S-BAL16_reads_fixed_f.fasta 100%
+79347549 nt in 216765 seqs, min 330, max 447, avg 366
+Dereplicating 100%
+Sorting 100%
+75260 unique sequences, avg cluster 2.9, median 1, max 6597
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S370S-BAL16_reads_fixed_f.fasta 100%
+45645353 nt in 125338 seqs, min 330, max 447, avg 364
+Dereplicating 100%
+Sorting 100%
+43885 unique sequences, avg cluster 2.9, median 1, max 3642
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S371S-BAL16_reads_fixed_f.fasta 100%
+43080247 nt in 118903 seqs, min 340, max 428, avg 362
+Dereplicating 100%
+Sorting 100%
+25989 unique sequences, avg cluster 4.6, median 1, max 4753
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S372S-BLANK_reads_fixed_f.fasta 100%
+78424 nt in 216 seqs, min 343, max 383, avg 363
+Dereplicating 100%
+Sorting 100%
+155 unique sequences, avg cluster 1.4, median 1, max 25
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S469S-BAL16_reads_fixed_f.fasta 100%
+39720698 nt in 108830 seqs, min 330, max 442, avg 365
+Dereplicating 100%
+Sorting 100%
+39054 unique sequences, avg cluster 2.8, median 1, max 6367
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S470S-BAL22_reads_fixed_f.fasta 100%
+42799319 nt in 117288 seqs, min 330, max 447, avg 365
+Dereplicating 100%
+Sorting 100%
+49676 unique sequences, avg cluster 2.4, median 1, max 3447
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S471S-BAL22_reads_fixed_f.fasta 100%
+41882556 nt in 114901 seqs, min 330, max 446, avg 365
+Dereplicating 100%
+Sorting 100%
+54032 unique sequences, avg cluster 2.1, median 1, max 2373
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S472S-BAL22_reads_fixed_f.fasta 100%
+46149312 nt in 126426 seqs, min 330, max 428, avg 365
+Dereplicating 100%
+Sorting 100%
+52955 unique sequences, avg cluster 2.4, median 1, max 4603
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S473S-BAL37_reads_fixed_f.fasta 100%
+29718657 nt in 81530 seqs, min 331, max 447, avg 365
+Dereplicating 100%
+Sorting 100%
+36618 unique sequences, avg cluster 2.2, median 1, max 3180
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S474S-BAL37_reads_fixed_f.fasta 100%
+44882490 nt in 123043 seqs, min 330, max 428, avg 365
+Dereplicating 100%
+Sorting 100%
+49959 unique sequences, avg cluster 2.5, median 1, max 4072
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S475S-BAL37_reads_fixed_f.fasta 100%
+46527736 nt in 127754 seqs, min 332, max 446, avg 364
+Dereplicating 100%
+Sorting 100%
+49189 unique sequences, avg cluster 2.6, median 1, max 6527
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S476S-BAL42_reads_fixed_f.fasta 100%
+40677028 nt in 111292 seqs, min 330, max 447, avg 365
+Dereplicating 100%
+Sorting 100%
+43970 unique sequences, avg cluster 2.5, median 1, max 4089
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S477S-BAL42_reads_fixed_f.fasta 100%
+35951353 nt in 98405 seqs, min 330, max 447, avg 365
+Dereplicating 100%
+Sorting 100%
+40560 unique sequences, avg cluster 2.4, median 1, max 2401
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S478S-BAL42_reads_fixed_f.fasta 100%
+42033236 nt in 115190 seqs, min 330, max 446, avg 365
+Dereplicating 100%
+Sorting 100%
+44830 unique sequences, avg cluster 2.6, median 1, max 4019
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S479S-BAL49_reads_fixed_f.fasta 100%
+40392606 nt in 109834 seqs, min 330, max 450, avg 368
+Dereplicating 100%
+Sorting 100%
+42753 unique sequences, avg cluster 2.6, median 1, max 7565
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S480S-BAL49_reads_fixed_f.fasta 100%
+34849642 nt in 95518 seqs, min 330, max 447, avg 365
+Dereplicating 100%
+Sorting 100%
+40122 unique sequences, avg cluster 2.4, median 1, max 2490
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S48-18SBlank_reads_fixed_f.fasta 100%
+92069 nt in 251 seqs, min 342, max 384, avg 367
+Dereplicating 100%
+Sorting 100%
+163 unique sequences, avg cluster 1.5, median 1, max 72
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S481S-BAL49_reads_fixed_f.fasta 100%
+41315758 nt in 113463 seqs, min 330, max 437, avg 364
+Dereplicating 100%
+Sorting 100%
+45375 unique sequences, avg cluster 2.5, median 1, max 5611
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S482S-BLEX7_reads_fixed_f.fasta 100%
+4431534 nt in 12151 seqs, min 330, max 423, avg 365
+Dereplicating 100%
+Sorting 100%
+6413 unique sequences, avg cluster 1.9, median 1, max 445
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S483S-BAL50_reads_fixed_f.fasta 100%
+47591275 nt in 130640 seqs, min 330, max 443, avg 364
+Dereplicating 100%
+Sorting 100%
+43406 unique sequences, avg cluster 3.0, median 1, max 9378
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S484S-BAL50_reads_fixed_f.fasta 100%
+33020585 nt in 90485 seqs, min 331, max 428, avg 365
+Dereplicating 100%
+Sorting 100%
+31840 unique sequences, avg cluster 2.8, median 1, max 4149
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S485S-BAL50_reads_fixed_f.fasta 100%
+36961606 nt in 101160 seqs, min 330, max 433, avg 365
+Dereplicating 100%
+Sorting 100%
+35885 unique sequences, avg cluster 2.8, median 1, max 4227
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S486S-BAL51_reads_fixed_f.fasta 100%
+39651413 nt in 108941 seqs, min 331, max 444, avg 364
+Dereplicating 100%
+Sorting 100%
+40839 unique sequences, avg cluster 2.7, median 1, max 6315
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S487S-BAL51_reads_fixed_f.fasta 100%
+43997429 nt in 120692 seqs, min 330, max 436, avg 365
+Dereplicating 100%
+Sorting 100%
+44515 unique sequences, avg cluster 2.7, median 1, max 8113
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S488S-BAL51_reads_fixed_f.fasta 100%
+41172121 nt in 112134 seqs, min 330, max 438, avg 367
+Dereplicating 100%
+Sorting 100%
+46537 unique sequences, avg cluster 2.4, median 1, max 3403
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S489S-BAL52_reads_fixed_f.fasta 100%
+41501155 nt in 113927 seqs, min 330, max 428, avg 364
+Dereplicating 100%
+Sorting 100%
+47705 unique sequences, avg cluster 2.4, median 1, max 4446
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S490S-BAL52_reads_fixed_f.fasta 100%
+42992856 nt in 118216 seqs, min 330, max 446, avg 364
+Dereplicating 100%
+Sorting 100%
+49288 unique sequences, avg cluster 2.4, median 1, max 4853
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S491S-BAL52_reads_fixed_f.fasta 100%
+40682668 nt in 111714 seqs, min 330, max 436, avg 364
+Dereplicating 100%
+Sorting 100%
+44437 unique sequences, avg cluster 2.5, median 1, max 3338
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S492S-BAL53_reads_fixed_f.fasta 100%
+40640611 nt in 111542 seqs, min 330, max 446, avg 364
+Dereplicating 100%
+Sorting 100%
+42918 unique sequences, avg cluster 2.6, median 1, max 3781
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S493S-BAL53_reads_fixed_f.fasta 100%
+33800767 nt in 92500 seqs, min 330, max 439, avg 365
+Dereplicating 100%
+Sorting 100%
+35552 unique sequences, avg cluster 2.6, median 1, max 4074
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S494S-BAL53_reads_fixed_f.fasta 100%
+54436085 nt in 149374 seqs, min 330, max 436, avg 364
+Dereplicating 100%
+Sorting 100%
+55729 unique sequences, avg cluster 2.7, median 1, max 6726
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S495S-BAL54_reads_fixed_f.fasta 100%
+40426763 nt in 110796 seqs, min 330, max 425, avg 365
+Dereplicating 100%
+Sorting 100%
+40716 unique sequences, avg cluster 2.7, median 1, max 4865
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S496S-BAL54_reads_fixed_f.fasta 100%
+41188420 nt in 112941 seqs, min 330, max 428, avg 365
+Dereplicating 100%
+Sorting 100%
+44979 unique sequences, avg cluster 2.5, median 1, max 4277
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S497S-BAL54_reads_fixed_f.fasta 100%
+40833614 nt in 112123 seqs, min 330, max 436, avg 364
+Dereplicating 100%
+Sorting 100%
+47622 unique sequences, avg cluster 2.4, median 1, max 4995
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S498S-BAL55_reads_fixed_f.fasta 100%
+45615112 nt in 125085 seqs, min 330, max 428, avg 365
+Dereplicating 100%
+Sorting 100%
+45126 unique sequences, avg cluster 2.8, median 1, max 9117
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S499S-BAL55_reads_fixed_f.fasta 100%
+38083141 nt in 104619 seqs, min 330, max 447, avg 364
+Dereplicating 100%
+Sorting 100%
+42496 unique sequences, avg cluster 2.5, median 1, max 3786
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S500S-BAL55_reads_fixed_f.fasta 100%
+40524214 nt in 111301 seqs, min 330, max 433, avg 364
+Dereplicating 100%
+Sorting 100%
+41621 unique sequences, avg cluster 2.7, median 1, max 4963
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S501S-BAL56_reads_fixed_f.fasta 100%
+43457052 nt in 119195 seqs, min 330, max 436, avg 365
+Dereplicating 100%
+Sorting 100%
+41370 unique sequences, avg cluster 2.9, median 1, max 6372
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S502S-BAL56_reads_fixed_f.fasta 100%
+45425324 nt in 124676 seqs, min 330, max 428, avg 364
+Dereplicating 100%
+Sorting 100%
+43077 unique sequences, avg cluster 2.9, median 1, max 6610
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S503S-BAL56_reads_fixed_f.fasta 100%
+47687689 nt in 130726 seqs, min 330, max 440, avg 365
+Dereplicating 100%
+Sorting 100%
+45563 unique sequences, avg cluster 2.9, median 1, max 6756
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S504S-R213_reads_fixed_f.fasta 100%
+42936116 nt in 117143 seqs, min 331, max 428, avg 367
+Dereplicating 100%
+Sorting 100%
+41822 unique sequences, avg cluster 2.8, median 1, max 4574
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S505S-R213_reads_fixed_f.fasta 100%
+44008244 nt in 120785 seqs, min 330, max 428, avg 364
+Dereplicating 100%
+Sorting 100%
+44425 unique sequences, avg cluster 2.7, median 1, max 5432
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S506S-R213_reads_fixed_f.fasta 100%
+51281568 nt in 140457 seqs, min 331, max 446, avg 365
+Dereplicating 100%
+Sorting 100%
+49791 unique sequences, avg cluster 2.8, median 1, max 5771
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S507S-R218_reads_fixed_f.fasta 100%
+46704064 nt in 128246 seqs, min 330, max 436, avg 364
+Dereplicating 100%
+Sorting 100%
+44108 unique sequences, avg cluster 2.9, median 1, max 9059
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S508S-R218_reads_fixed_f.fasta 100%
+45175170 nt in 123696 seqs, min 330, max 441, avg 365
+Dereplicating 100%
+Sorting 100%
+43288 unique sequences, avg cluster 2.9, median 1, max 8220
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S509S-R218_reads_fixed_f.fasta 100%
+46726692 nt in 128160 seqs, min 330, max 446, avg 365
+Dereplicating 100%
+Sorting 100%
+44843 unique sequences, avg cluster 2.9, median 1, max 10090
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S510S-OSF42_reads_fixed_f.fasta 100%
+45760001 nt in 125947 seqs, min 331, max 443, avg 363
+Dereplicating 100%
+Sorting 100%
+44588 unique sequences, avg cluster 2.8, median 1, max 5163
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S511S-OSF42_reads_fixed_f.fasta 100%
+47829759 nt in 131094 seqs, min 330, max 428, avg 365
+Dereplicating 100%
+Sorting 100%
+45655 unique sequences, avg cluster 2.9, median 1, max 5092
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S512S-OSF42_reads_fixed_f.fasta 100%
+48030390 nt in 131968 seqs, min 331, max 428, avg 364
+Dereplicating 100%
+Sorting 100%
+46006 unique sequences, avg cluster 2.9, median 1, max 5233
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S513S-OSF44_reads_fixed_f.fasta 100%
+46878080 nt in 128784 seqs, min 331, max 429, avg 364
+Dereplicating 100%
+Sorting 100%
+44563 unique sequences, avg cluster 2.9, median 1, max 4485
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S514S-BLEX8_reads_fixed_f.fasta 100%
+67559 nt in 186 seqs, min 331, max 425, avg 363
+Dereplicating 100%
+Sorting 100%
+163 unique sequences, avg cluster 1.1, median 1, max 6
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S515S-OSF44_reads_fixed_f.fasta 100%
+41882606 nt in 115132 seqs, min 330, max 449, avg 364
+Dereplicating 100%
+Sorting 100%
+39741 unique sequences, avg cluster 2.9, median 1, max 3588
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S516S-OSF44_reads_fixed_f.fasta 100%
+43255534 nt in 119071 seqs, min 330, max 449, avg 363
+Dereplicating 100%
+Sorting 100%
+40661 unique sequences, avg cluster 2.9, median 1, max 7852
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S517S-OSF43_reads_fixed_f.fasta 100%
+22525610 nt in 61420 seqs, min 330, max 450, avg 367
+Dereplicating 100%
+Sorting 100%
+26823 unique sequences, avg cluster 2.3, median 1, max 2234
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S518S-OSF43_reads_fixed_f.fasta 100%
+37232296 nt in 101902 seqs, min 330, max 447, avg 365
+Dereplicating 100%
+Sorting 100%
+38650 unique sequences, avg cluster 2.6, median 1, max 4239
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S519S-OSF43_reads_fixed_f.fasta 100%
+37699888 nt in 102610 seqs, min 330, max 450, avg 367
+Dereplicating 100%
+Sorting 100%
+40480 unique sequences, avg cluster 2.5, median 1, max 3685
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S520S-OSF17_reads_fixed_f.fasta 100%
+38788896 nt in 106683 seqs, min 331, max 422, avg 364
+Dereplicating 100%
+Sorting 100%
+34459 unique sequences, avg cluster 3.1, median 1, max 13621
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S521S-OSF17_reads_fixed_f.fasta 100%
+1253036 nt in 3429 seqs, min 333, max 423, avg 365
+Dereplicating 100%
+Sorting 100%
+2070 unique sequences, avg cluster 1.7, median 1, max 128
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S522S-OSF17_reads_fixed_f.fasta 100%
+44738487 nt in 123302 seqs, min 336, max 428, avg 363
+Dereplicating 100%
+Sorting 100%
+38071 unique sequences, avg cluster 3.2, median 1, max 18032
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S523S-VFR03_reads_fixed_f.fasta 100%
+42006090 nt in 115342 seqs, min 330, max 442, avg 364
+Dereplicating 100%
+Sorting 100%
+45209 unique sequences, avg cluster 2.6, median 1, max 5068
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S524S-VFR03_reads_fixed_f.fasta 100%
+35211128 nt in 96715 seqs, min 330, max 435, avg 364
+Dereplicating 100%
+Sorting 100%
+38301 unique sequences, avg cluster 2.5, median 1, max 3563
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S525S-VFR03_reads_fixed_f.fasta 100%
+37678201 nt in 103700 seqs, min 330, max 432, avg 363
+Dereplicating 100%
+Sorting 100%
+37103 unique sequences, avg cluster 2.8, median 1, max 10101
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S526S-VFR04_reads_fixed_f.fasta 100%
+36475301 nt in 99819 seqs, min 330, max 428, avg 365
+Dereplicating 100%
+Sorting 100%
+41793 unique sequences, avg cluster 2.4, median 1, max 2254
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S527S-VFR04_reads_fixed_f.fasta 100%
+37049960 nt in 100545 seqs, min 330, max 440, avg 368
+Dereplicating 100%
+Sorting 100%
+19117 unique sequences, avg cluster 5.3, median 1, max 47678
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S528S-VFR04_reads_fixed_f.fasta 100%
+34016802 nt in 93512 seqs, min 330, max 441, avg 364
+Dereplicating 100%
+Sorting 100%
+39424 unique sequences, avg cluster 2.4, median 1, max 4603
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S529S-VFR05_reads_fixed_f.fasta 100%
+40908677 nt in 112449 seqs, min 330, max 446, avg 364
+Dereplicating 100%
+Sorting 100%
+47184 unique sequences, avg cluster 2.4, median 1, max 3555
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S530S-VFR05_reads_fixed_f.fasta 100%
+44903237 nt in 123614 seqs, min 330, max 447, avg 363
+Dereplicating 100%
+Sorting 100%
+47423 unique sequences, avg cluster 2.6, median 1, max 9274
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S531S-VFR05_reads_fixed_f.fasta 100%
+39007133 nt in 107172 seqs, min 330, max 447, avg 364
+Dereplicating 100%
+Sorting 100%
+41084 unique sequences, avg cluster 2.6, median 1, max 4275
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S532S-VFR20_reads_fixed_f.fasta 100%
+35487498 nt in 97479 seqs, min 330, max 435, avg 364
+Dereplicating 100%
+Sorting 100%
+38849 unique sequences, avg cluster 2.5, median 1, max 2605
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S533S-VFR20_reads_fixed_f.fasta 100%
+39069212 nt in 107069 seqs, min 330, max 440, avg 365
+Dereplicating 100%
+Sorting 100%
+36743 unique sequences, avg cluster 2.9, median 1, max 11418
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S534S-VFR20_reads_fixed_f.fasta 100%
+30636364 nt in 83888 seqs, min 330, max 446, avg 365
+Dereplicating 100%
+Sorting 100%
+32515 unique sequences, avg cluster 2.6, median 1, max 3874
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S535S-VFRK01_reads_fixed_f.fasta 100%
+36234904 nt in 99499 seqs, min 330, max 438, avg 364
+Dereplicating 100%
+Sorting 100%
+37894 unique sequences, avg cluster 2.6, median 1, max 4806
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S536S-VFRK01_reads_fixed_f.fasta 100%
+40465499 nt in 111196 seqs, min 330, max 441, avg 364
+Dereplicating 100%
+Sorting 100%
+42143 unique sequences, avg cluster 2.6, median 1, max 4988
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S537S-VFRK01_reads_fixed_f.fasta 100%
+41765040 nt in 114091 seqs, min 330, max 440, avg 366
+Dereplicating 100%
+Sorting 100%
+41074 unique sequences, avg cluster 2.8, median 1, max 6011
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S538S-VFRK02_reads_fixed_f.fasta 100%
+46719045 nt in 128481 seqs, min 331, max 445, avg 364
+Dereplicating 100%
+Sorting 100%
+43165 unique sequences, avg cluster 3.0, median 1, max 12106
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S539S-VFRK02_reads_fixed_f.fasta 100%
+37644053 nt in 103438 seqs, min 330, max 428, avg 364
+Dereplicating 100%
+Sorting 100%
+36702 unique sequences, avg cluster 2.8, median 1, max 6740
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S540S-VFRK02_reads_fixed_f.fasta 100%
+38803101 nt in 106923 seqs, min 330, max 432, avg 363
+Dereplicating 100%
+Sorting 100%
+34213 unique sequences, avg cluster 3.1, median 1, max 7617
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S541S-VFRK03_reads_fixed_f.fasta 100%
+31980238 nt in 87528 seqs, min 330, max 439, avg 365
+Dereplicating 100%
+Sorting 100%
+31647 unique sequences, avg cluster 2.8, median 1, max 6956
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S542S-VFRK03_reads_fixed_f.fasta 100%
+36068407 nt in 99100 seqs, min 330, max 440, avg 364
+Dereplicating 100%
+Sorting 100%
+37172 unique sequences, avg cluster 2.7, median 1, max 5762
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S543S-VFRK03_reads_fixed_f.fasta 100%
+40721911 nt in 111597 seqs, min 330, max 428, avg 365
+Dereplicating 100%
+Sorting 100%
+38902 unique sequences, avg cluster 2.9, median 1, max 8398
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S544S-VFR32_reads_fixed_f.fasta 100%
+36671051 nt in 101202 seqs, min 331, max 446, avg 362
+Dereplicating 100%
+Sorting 100%
+34257 unique sequences, avg cluster 3.0, median 1, max 6547
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S545S-VFR32_reads_fixed_f.fasta 100%
+35077426 nt in 96648 seqs, min 330, max 432, avg 363
+Dereplicating 100%
+Sorting 100%
+30980 unique sequences, avg cluster 3.1, median 1, max 7700
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S546S-BLEX9_reads_fixed_f.fasta 100%
+24721 nt in 68 seqs, min 343, max 373, avg 364
+Dereplicating 100%
+Sorting 100%
+58 unique sequences, avg cluster 1.2, median 1, max 5
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S547S-VFR32_reads_fixed_f.fasta 100%
+36927314 nt in 102053 seqs, min 330, max 432, avg 362
+Dereplicating 100%
+Sorting 100%
+30780 unique sequences, avg cluster 3.3, median 1, max 8556
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S548S-VFR33_reads_fixed_f.fasta 100%
+35032782 nt in 96227 seqs, min 330, max 428, avg 364
+Dereplicating 100%
+Sorting 100%
+28284 unique sequences, avg cluster 3.4, median 1, max 9647
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S549S-VFR33_reads_fixed_f.fasta 100%
+35555693 nt in 98302 seqs, min 330, max 432, avg 362
+Dereplicating 100%
+Sorting 100%
+27153 unique sequences, avg cluster 3.6, median 1, max 7534
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S550S-VFR33_reads_fixed_f.fasta 100%
+36685386 nt in 101091 seqs, min 330, max 432, avg 363
+Dereplicating 100%
+Sorting 100%
+29850 unique sequences, avg cluster 3.4, median 1, max 6942
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S551S-VFR34_reads_fixed_f.fasta 100%
+38202364 nt in 103326 seqs, min 330, max 439, avg 370
+Dereplicating 100%
+Sorting 100%
+31290 unique sequences, avg cluster 3.3, median 1, max 20770
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S552S-VFR34_reads_fixed_f.fasta 100%
+33467866 nt in 91906 seqs, min 330, max 441, avg 364
+Dereplicating 100%
+Sorting 100%
+30590 unique sequences, avg cluster 3.0, median 1, max 9263
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S553S-VFR34_reads_fixed_f.fasta 100%
+35570715 nt in 97517 seqs, min 330, max 449, avg 365
+Dereplicating 100%
+Sorting 100%
+33586 unique sequences, avg cluster 2.9, median 1, max 9777
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S554S-BRA06_reads_fixed_f.fasta 100%
+42424850 nt in 116851 seqs, min 330, max 428, avg 363
+Dereplicating 100%
+Sorting 100%
+40219 unique sequences, avg cluster 2.9, median 1, max 7510
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S555S-BRA06_reads_fixed_f.fasta 100%
+42674650 nt in 116986 seqs, min 330, max 443, avg 365
+Dereplicating 100%
+Sorting 100%
+45514 unique sequences, avg cluster 2.6, median 1, max 3190
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S556S-BRA06_reads_fixed_f.fasta 100%
+39980855 nt in 108918 seqs, min 330, max 446, avg 367
+Dereplicating 100%
+Sorting 100%
+43974 unique sequences, avg cluster 2.5, median 1, max 3035
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S557S-BRA07_reads_fixed_f.fasta 100%
+27035619 nt in 73549 seqs, min 331, max 447, avg 368
+Dereplicating 100%
+Sorting 100%
+21804 unique sequences, avg cluster 3.4, median 1, max 18249
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S558S-BRA07_reads_fixed_f.fasta 100%
+40208825 nt in 110484 seqs, min 330, max 447, avg 364
+Dereplicating 100%
+Sorting 100%
+40717 unique sequences, avg cluster 2.7, median 1, max 3690
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S559S-BRA07_reads_fixed_f.fasta 100%
+43853531 nt in 120518 seqs, min 330, max 428, avg 364
+Dereplicating 100%
+Sorting 100%
+42664 unique sequences, avg cluster 2.8, median 1, max 5087
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S560S-BRA08_reads_fixed_f.fasta 100%
+34552871 nt in 94826 seqs, min 330, max 450, avg 364
+Dereplicating 100%
+Sorting 100%
+38838 unique sequences, avg cluster 2.4, median 1, max 5133
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S561S-BRA08_reads_fixed_f.fasta 100%
+36482695 nt in 99331 seqs, min 332, max 441, avg 367
+Dereplicating 100%
+Sorting 100%
+29958 unique sequences, avg cluster 3.3, median 1, max 23306
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S562S-BRA08_reads_fixed_f.fasta 100%
+45654262 nt in 124749 seqs, min 330, max 442, avg 366
+Dereplicating 100%
+Sorting 100%
+44957 unique sequences, avg cluster 2.8, median 1, max 14836
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S563S-MOCK_reads_fixed_f.fasta 100%
+39021954 nt in 107560 seqs, min 340, max 421, avg 363
+Dereplicating 100%
+Sorting 100%
+29816 unique sequences, avg cluster 3.6, median 1, max 3923
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S564S-BLANK_reads_fixed_f.fasta 100%
+34888 nt in 96 seqs, min 343, max 377, avg 363
+Dereplicating 100%
+Sorting 100%
+89 unique sequences, avg cluster 1.1, median 1, max 4
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S685S-OSC08_reads_fixed_f.fasta 100%
+38052922 nt in 104701 seqs, min 330, max 447, avg 363
+Dereplicating 100%
+Sorting 100%
+40936 unique sequences, avg cluster 2.6, median 1, max 5468
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S689S-DA01_reads_fixed_f.fasta 100%
+34151618 nt in 93842 seqs, min 330, max 428, avg 364
+Dereplicating 100%
+Sorting 100%
+34225 unique sequences, avg cluster 2.7, median 1, max 7551
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S690S-DA02_reads_fixed_f.fasta 100%
+36557608 nt in 100403 seqs, min 330, max 446, avg 364
+Dereplicating 100%
+Sorting 100%
+36616 unique sequences, avg cluster 2.7, median 1, max 13387
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S691S-DA02_reads_fixed_f.fasta 100%
+36506784 nt in 100372 seqs, min 330, max 447, avg 364
+Dereplicating 100%
+Sorting 100%
+37202 unique sequences, avg cluster 2.7, median 1, max 7780
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S692S-DA02_reads_fixed_f.fasta 100%
+37020548 nt in 101476 seqs, min 330, max 447, avg 365
+Dereplicating 100%
+Sorting 100%
+37289 unique sequences, avg cluster 2.7, median 1, max 11283
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S693S-DA03_reads_fixed_f.fasta 100%
+42831494 nt in 118021 seqs, min 330, max 446, avg 363
+Dereplicating 100%
+Sorting 100%
+43879 unique sequences, avg cluster 2.7, median 1, max 8682
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S694S-DA03_reads_fixed_f.fasta 100%
+37296212 nt in 102535 seqs, min 330, max 446, avg 364
+Dereplicating 100%
+Sorting 100%
+38949 unique sequences, avg cluster 2.6, median 1, max 7569
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S695S-DA03_reads_fixed_f.fasta 100%
+36553781 nt in 100384 seqs, min 330, max 447, avg 364
+Dereplicating 100%
+Sorting 100%
+39042 unique sequences, avg cluster 2.6, median 1, max 5131
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S696S-DA04_reads_fixed_f.fasta 100%
+38768186 nt in 106316 seqs, min 330, max 447, avg 365
+Dereplicating 100%
+Sorting 100%
+40264 unique sequences, avg cluster 2.6, median 1, max 6415
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S697S-DA04_reads_fixed_f.fasta 100%
+40659867 nt in 111538 seqs, min 330, max 447, avg 365
+Dereplicating 100%
+Sorting 100%
+43299 unique sequences, avg cluster 2.6, median 1, max 3582
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S698S-DA04_reads_fixed_f.fasta 100%
+39841578 nt in 108326 seqs, min 330, max 447, avg 368
+Dereplicating 100%
+Sorting 100%
+28130 unique sequences, avg cluster 3.9, median 1, max 34462
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S699S-DA05_reads_fixed_f.fasta 100%
+37729886 nt in 103380 seqs, min 330, max 447, avg 365
+Dereplicating 100%
+Sorting 100%
+38492 unique sequences, avg cluster 2.7, median 1, max 10258
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S700S-DA05_reads_fixed_f.fasta 100%
+42044608 nt in 115549 seqs, min 330, max 446, avg 364
+Dereplicating 100%
+Sorting 100%
+45228 unique sequences, avg cluster 2.6, median 1, max 7624
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S701S-DA05_reads_fixed_f.fasta 100%
+45041009 nt in 123322 seqs, min 330, max 450, avg 365
+Dereplicating 100%
+Sorting 100%
+44526 unique sequences, avg cluster 2.8, median 1, max 6996
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S702S-BRA16_reads_fixed_f.fasta 100%
+44741527 nt in 122517 seqs, min 332, max 428, avg 365
+Dereplicating 100%
+Sorting 100%
+36644 unique sequences, avg cluster 3.3, median 1, max 19252
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S703S-BRA16_reads_fixed_f.fasta 100%
+42829871 nt in 117583 seqs, min 330, max 438, avg 364
+Dereplicating 100%
+Sorting 100%
+41814 unique sequences, avg cluster 2.8, median 1, max 5257
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S704S-BRA16_reads_fixed_f.fasta 100%
+43273577 nt in 119015 seqs, min 336, max 438, avg 364
+Dereplicating 100%
+Sorting 100%
+43793 unique sequences, avg cluster 2.7, median 1, max 3871
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S705S-BRA17_reads_fixed_f.fasta 100%
+45179234 nt in 124028 seqs, min 330, max 424, avg 364
+Dereplicating 100%
+Sorting 100%
+42804 unique sequences, avg cluster 2.9, median 1, max 4760
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S706S-BRA17_reads_fixed_f.fasta 100%
+44454559 nt in 122022 seqs, min 330, max 428, avg 364
+Dereplicating 100%
+Sorting 100%
+39768 unique sequences, avg cluster 3.1, median 1, max 7538
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S707S-BRA17_reads_fixed_f.fasta 100%
+46302131 nt in 127156 seqs, min 330, max 434, avg 364
+Dereplicating 100%
+Sorting 100%
+43276 unique sequences, avg cluster 2.9, median 1, max 5828
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S708S-REG902_reads_fixed_f.fasta 100%
+42911792 nt in 117586 seqs, min 331, max 449, avg 365
+Dereplicating 100%
+Sorting 100%
+35988 unique sequences, avg cluster 3.3, median 1, max 6072
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S709S-REG902_reads_fixed_f.fasta 100%
+45620921 nt in 125524 seqs, min 330, max 446, avg 363
+Dereplicating 100%
+Sorting 100%
+40539 unique sequences, avg cluster 3.1, median 1, max 5668
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S710S-REG902_reads_fixed_f.fasta 100%
+47445375 nt in 129886 seqs, min 331, max 421, avg 365
+Dereplicating 100%
+Sorting 100%
+39295 unique sequences, avg cluster 3.3, median 1, max 8681
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S711S-REG905_reads_fixed_f.fasta 100%
+43402093 nt in 118923 seqs, min 331, max 435, avg 365
+Dereplicating 100%
+Sorting 100%
+37640 unique sequences, avg cluster 3.2, median 1, max 8986
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S712S-REG905_reads_fixed_f.fasta 100%
+41785738 nt in 114534 seqs, min 330, max 442, avg 365
+Dereplicating 100%
+Sorting 100%
+36004 unique sequences, avg cluster 3.2, median 1, max 9465
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S713S-REG905_reads_fixed_f.fasta 100%
+46448505 nt in 127345 seqs, min 331, max 446, avg 365
+Dereplicating 100%
+Sorting 100%
+37652 unique sequences, avg cluster 3.4, median 1, max 9819
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S714S-REG908_reads_fixed_f.fasta 100%
+51811299 nt in 142755 seqs, min 331, max 447, avg 363
+Dereplicating 100%
+Sorting 100%
+40954 unique sequences, avg cluster 3.5, median 1, max 17443
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S715S-REG908_reads_fixed_f.fasta 100%
+47754089 nt in 130331 seqs, min 331, max 446, avg 366
+Dereplicating 100%
+Sorting 100%
+34471 unique sequences, avg cluster 3.8, median 1, max 15179
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S716S-REG908_reads_fixed_f.fasta 100%
+47775640 nt in 131359 seqs, min 330, max 446, avg 364
+Dereplicating 100%
+Sorting 100%
+37629 unique sequences, avg cluster 3.5, median 1, max 13690
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S717S-OSS11_reads_fixed_f.fasta 100%
+45093139 nt in 123908 seqs, min 330, max 446, avg 364
+Dereplicating 100%
+Sorting 100%
+40252 unique sequences, avg cluster 3.1, median 1, max 8922
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S718S-OSS11_reads_fixed_f.fasta 100%
+48507149 nt in 133392 seqs, min 330, max 447, avg 364
+Dereplicating 100%
+Sorting 100%
+40878 unique sequences, avg cluster 3.3, median 1, max 15099
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S719S-OSS11_reads_fixed_f.fasta 100%
+45459650 nt in 124157 seqs, min 330, max 450, avg 366
+Dereplicating 100%
+Sorting 100%
+34807 unique sequences, avg cluster 3.6, median 1, max 23263
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S720S-OSS11A1_reads_fixed_f.fasta 100%
+44262606 nt in 121561 seqs, min 330, max 423, avg 364
+Dereplicating 100%
+Sorting 100%
+42437 unique sequences, avg cluster 2.9, median 1, max 7966
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S721S-OSS11A1_reads_fixed_f.fasta 100%
+37620951 nt in 103029 seqs, min 330, max 424, avg 365
+Dereplicating 100%
+Sorting 100%
+34491 unique sequences, avg cluster 3.0, median 1, max 7352
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S722S-OSS11A1_reads_fixed_f.fasta 100%
+45060255 nt in 124190 seqs, min 330, max 441, avg 363
+Dereplicating 100%
+Sorting 100%
+34374 unique sequences, avg cluster 3.6, median 1, max 19881
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S732S-BLANK_reads_fixed_f.fasta 100%
+4340 nt in 12 seqs, min 350, max 371, avg 362
+Dereplicating 100%
+Sorting 100%
+12 unique sequences, avg cluster 1.0, median 1, max 1
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S787S-SG06_reads_fixed_f.fasta 100%
+46142666 nt in 125543 seqs, min 330, max 450, avg 368
+Dereplicating 100%
+Sorting 100%
+43474 unique sequences, avg cluster 2.9, median 1, max 13379
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S788S-SG06_reads_fixed_f.fasta 100%
+43742376 nt in 118653 seqs, min 331, max 445, avg 369
+Dereplicating 100%
+Sorting 100%
+41843 unique sequences, avg cluster 2.8, median 1, max 7671
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S789S-SG06_reads_fixed_f.fasta 100%
+44368971 nt in 120437 seqs, min 332, max 449, avg 368
+Dereplicating 100%
+Sorting 100%
+40400 unique sequences, avg cluster 3.0, median 1, max 13307
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S790S-SG07_reads_fixed_f.fasta 100%
+55488581 nt in 151968 seqs, min 331, max 450, avg 365
+Dereplicating 100%
+Sorting 100%
+54493 unique sequences, avg cluster 2.8, median 1, max 7098
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S791S-SG07_reads_fixed_f.fasta 100%
+52707918 nt in 143235 seqs, min 330, max 449, avg 368
+Dereplicating 100%
+Sorting 100%
+50190 unique sequences, avg cluster 2.9, median 1, max 8656
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S792S-SG07_reads_fixed_f.fasta 100%
+49195430 nt in 135146 seqs, min 330, max 450, avg 364
+Dereplicating 100%
+Sorting 100%
+51525 unique sequences, avg cluster 2.6, median 1, max 7070
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S793S-SG08_reads_fixed_f.fasta 100%
+49317367 nt in 134876 seqs, min 330, max 450, avg 366
+Dereplicating 100%
+Sorting 100%
+49619 unique sequences, avg cluster 2.7, median 1, max 5821
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S794S-SG08_reads_fixed_f.fasta 100%
+50207079 nt in 136797 seqs, min 330, max 447, avg 367
+Dereplicating 100%
+Sorting 100%
+40202 unique sequences, avg cluster 3.4, median 1, max 26169
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S795S-SG08_reads_fixed_f.fasta 100%
+55032011 nt in 150829 seqs, min 330, max 449, avg 365
+Dereplicating 100%
+Sorting 100%
+52828 unique sequences, avg cluster 2.9, median 1, max 4320
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S796S-SG09_reads_fixed_f.fasta 100%
+50345328 nt in 138025 seqs, min 331, max 442, avg 365
+Dereplicating 100%
+Sorting 100%
+41012 unique sequences, avg cluster 3.4, median 1, max 17390
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S797S-SG09_reads_fixed_f.fasta 100%
+49266024 nt in 134993 seqs, min 331, max 444, avg 365
+Dereplicating 100%
+Sorting 100%
+46581 unique sequences, avg cluster 2.9, median 1, max 11736
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S798S-SG09_reads_fixed_f.fasta 100%
+49034421 nt in 133428 seqs, min 330, max 447, avg 367
+Dereplicating 100%
+Sorting 100%
+41875 unique sequences, avg cluster 3.2, median 1, max 13804
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S799S-SG10_reads_fixed_f.fasta 100%
+50468644 nt in 137593 seqs, min 330, max 450, avg 367
+Dereplicating 100%
+Sorting 100%
+44549 unique sequences, avg cluster 3.1, median 1, max 8024
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S800S-SG10_reads_fixed_f.fasta 100%
+51127804 nt in 139904 seqs, min 331, max 449, avg 365
+Dereplicating 100%
+Sorting 100%
+44713 unique sequences, avg cluster 3.1, median 1, max 7521
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S801S-SG10_reads_fixed_f.fasta 100%
+47389614 nt in 129893 seqs, min 331, max 450, avg 365
+Dereplicating 100%
+Sorting 100%
+45544 unique sequences, avg cluster 2.9, median 1, max 5692
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S802S-SG11_reads_fixed_f.fasta 100%
+47801147 nt in 130631 seqs, min 330, max 449, avg 366
+Dereplicating 100%
+Sorting 100%
+38394 unique sequences, avg cluster 3.4, median 1, max 26632
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S803S-SG11_reads_fixed_f.fasta 100%
+50452081 nt in 137710 seqs, min 331, max 449, avg 366
+Dereplicating 100%
+Sorting 100%
+40251 unique sequences, avg cluster 3.4, median 1, max 19399
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S804S-SG11_reads_fixed_f.fasta 100%
+45201966 nt in 122503 seqs, min 331, max 450, avg 369
+Dereplicating 100%
+Sorting 100%
+34039 unique sequences, avg cluster 3.6, median 1, max 35386
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S805S-SG12_reads_fixed_f.fasta 100%
+47088024 nt in 129026 seqs, min 330, max 449, avg 365
+Dereplicating 100%
+Sorting 100%
+48444 unique sequences, avg cluster 2.7, median 1, max 5390
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S806S-SG12_reads_fixed_f.fasta 100%
+43206215 nt in 111119 seqs, min 330, max 450, avg 389
+Dereplicating 100%
+Sorting 100%
+33127 unique sequences, avg cluster 3.4, median 1, max 28156
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S807S-SG12_reads_fixed_f.fasta 100%
+57675670 nt in 158037 seqs, min 330, max 450, avg 365
+Dereplicating 100%
+Sorting 100%
+54366 unique sequences, avg cluster 2.9, median 1, max 6070
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S808S-SG13_reads_fixed_f.fasta 100%
+57017346 nt in 156325 seqs, min 330, max 449, avg 365
+Dereplicating 100%
+Sorting 100%
+53843 unique sequences, avg cluster 2.9, median 1, max 4606
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S809S-SG13_reads_fixed_f.fasta 100%
+49931343 nt in 135726 seqs, min 331, max 447, avg 368
+Dereplicating 100%
+Sorting 100%
+48827 unique sequences, avg cluster 2.8, median 1, max 6288
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S810S-SG13_reads_fixed_f.fasta 100%
+52746351 nt in 144542 seqs, min 330, max 450, avg 365
+Dereplicating 100%
+Sorting 100%
+51858 unique sequences, avg cluster 2.8, median 1, max 6666
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S811S-BLEX14_reads_fixed_f.fasta 100%
+5867 nt in 16 seqs, min 357, max 394, avg 367
+Dereplicating 100%
+Sorting 100%
+12 unique sequences, avg cluster 1.3, median 1, max 3
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S812S-BLEX14_reads_fixed_f.fasta 100%
+7676 nt in 21 seqs, min 350, max 373, avg 366
+Dereplicating 100%
+Sorting 100%
+21 unique sequences, avg cluster 1.0, median 1, max 1
+Writing output file 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file S813S-BLANK_reads_fixed_f.fasta 100%
+7699 nt in 21 seqs, min 357, max 382, avg 367
+Dereplicating 100%
+Sorting 100%
+21 unique sequences, avg cluster 1.0, median 1, max 1
+Writing output file 100%
+/usr/local/lib/python3.4/dist-packages/Bio/Seq.py:165: BiopythonWarning: Biopython Seq objects now use string comparison. Older versions of Biopython used object comparison. During this transition, please use hash(id(my_seq)) or my_dict[id(my_seq)] if you want the old behaviour, or use hash(str(my_seq)) or my_dict[str(my_seq)] for the new string hashing behaviour.
+  "the new string hashing behaviour.", BiopythonWarning)
+S110S65-67
+S125S75-77
+S129S60-62
+S133S80-82
+S134SOSS04
+S135SOSS04
+S136SOSS04
+S137SOSS11
+S138SOSS11
+S139SOSS11
+S140SOSS11A1
+S141SOSS11A1
+S142SOSS11A1
+S143SOSS21A1
+S144SOSS21A1
+S145SOSS21A1
+S146SOSS22A1
+S147SOSS22A1
+S148SOSS22A1
+S149SOSS11B1
+S150SOSS11B1
+S151SOSS11B1
+S152SOSS21B1
+S153SOSS21B1
+S154SOSS21B1
+S155SOSS22B1
+S156SOSS22B1
+S157SOSS11D1
+S158SOSS11D1
+S159SOSS11D1
+S160SR319
+S161SR319
+S162SR319
+S163SOSC08
+S164SOSC08
+S165SOSC08
+S166SRIN34
+S167SRIN34
+S168SRIN34
+S169SRIN35
+S170SRIN35
+S171SRIN35
+S172SRIN36
+S173SRIN37
+S174SRIN38
+S175SRIN38
+S176SRIN38
+S177SRIN39
+S178SRIN39
+S179SRIN39
+S180SRIN40
+S181SRIN40
+S182SRIN40
+S183SR220
+S184SR220
+S185SR220
+S186SBLEX2
+S189SBLEX4
+S189SMOCK
+S192SBLPCR
+S277S-REG313
+S278S-REG313
+S279S-REG313
+S280S-REG314
+S281S-REG314
+S282S-REG314
+S283S-REG315
+S284S-REG315
+S285S-REG315
+S286S-OSC08
+S287S-OSC08
+S288S-BLEX4
+S289S-DA6
+S290S-DA6
+S291S-DA6
+S292S-DA7
+S293S-DA7
+S294S-DA7
+S295S-DA8
+S296S-DA8
+S297S-DA8
+S298S-DA9
+S299S-DA9
+S300S-DA9
+S301S-DA10
+S302S-DA10
+S303S-DA10
+S304S-DA11
+S305S-DA11
+S306S-DA11
+S307S-DA12
+S308S-DA12
+S309S-DA12
+S310S-DA13
+S311S-DA13
+S312S-DA13
+S313S-OSC32
+S314S-OSC32
+S315S-OSC32
+S316S-OSC16
+S317S-OSC16
+S318S-OSC16
+S319S-OSC20
+S320S-BLEX5
+S321S-OSC20
+S322S-OSC20
+S323S-OSC30
+S324S-OSC30
+S325S-OSC30
+S326S-D19
+S327S-D19
+S328S-D19
+S329S-D2
+S330S-D2
+S331S-D2
+S332S-D22
+S333S-D22
+S334S-D22
+S335S-D23
+S336S-D23
+S337S-D23
+S338S-D27
+S339S-D27
+S340S-D27
+S341S-D28
+S342S-D28
+S343S-D28
+S344S-D29
+S345S-D29
+S346S-D29
+S347S-D3
+S348S-D3
+S349S-D3
+S350S-D30
+S351S-D30
+S352S-BLEX6
+S353S-D30
+S354S-D31
+S355S-D31
+S356S-D31
+S357S-D33
+S358S-D33
+S359S-D33
+S360S-D35
+S361S-D35
+S362S-D35
+S363S-D5
+S364S-D5
+S365S-D5
+S366S-DP32
+S367S-DP32
+S368S-DP32
+S369S-BAL16
+S370S-BAL16
+S371S-BAL16
+S372S-BLANK
+S469S-BAL16
+S470S-BAL22
+S471S-BAL22
+S472S-BAL22
+S473S-BAL37
+S474S-BAL37
+S475S-BAL37
+S476S-BAL42
+S477S-BAL42
+S478S-BAL42
+S479S-BAL49
+S480S-BAL49
+S48-18SBlank
+S481S-BAL49
+S482S-BLEX7
+S483S-BAL50
+S484S-BAL50
+S485S-BAL50
+S486S-BAL51
+S487S-BAL51
+S488S-BAL51
+S489S-BAL52
+S490S-BAL52
+S491S-BAL52
+S492S-BAL53
+S493S-BAL53
+S494S-BAL53
+S495S-BAL54
+S496S-BAL54
+S497S-BAL54
+S498S-BAL55
+S499S-BAL55
+S500S-BAL55
+S501S-BAL56
+S502S-BAL56
+S503S-BAL56
+S504S-R213
+S505S-R213
+S506S-R213
+S507S-R218
+S508S-R218
+S509S-R218
+S510S-OSF42
+S511S-OSF42
+S512S-OSF42
+S513S-OSF44
+S514S-BLEX8
+S515S-OSF44
+S516S-OSF44
+S517S-OSF43
+S518S-OSF43
+S519S-OSF43
+S520S-OSF17
+S521S-OSF17
+S522S-OSF17
+S523S-VFR03
+S524S-VFR03
+S525S-VFR03
+S526S-VFR04
+S527S-VFR04
+S528S-VFR04
+S529S-VFR05
+S530S-VFR05
+S531S-VFR05
+S532S-VFR20
+S533S-VFR20
+S534S-VFR20
+S535S-VFRK01
+S536S-VFRK01
+S537S-VFRK01
+S538S-VFRK02
+S539S-VFRK02
+S540S-VFRK02
+S541S-VFRK03
+S542S-VFRK03
+S543S-VFRK03
+S544S-VFR32
+S545S-VFR32
+S546S-BLEX9
+S547S-VFR32
+S548S-VFR33
+S549S-VFR33
+S550S-VFR33
+S551S-VFR34
+S552S-VFR34
+S553S-VFR34
+S554S-BRA06
+S555S-BRA06
+S556S-BRA06
+S557S-BRA07
+S558S-BRA07
+S559S-BRA07
+S560S-BRA08
+S561S-BRA08
+S562S-BRA08
+S563S-MOCK
+S564S-BLANK
+S685S-OSC08
+S689S-DA01
+S690S-DA02
+S691S-DA02
+S692S-DA02
+S693S-DA03
+S694S-DA03
+S695S-DA03
+S696S-DA04
+S697S-DA04
+S698S-DA04
+S699S-DA05
+S700S-DA05
+S701S-DA05
+S702S-BRA16
+S703S-BRA16
+S704S-BRA16
+S705S-BRA17
+S706S-BRA17
+S707S-BRA17
+S708S-REG902
+S709S-REG902
+S710S-REG902
+S711S-REG905
+S712S-REG905
+S713S-REG905
+S714S-REG908
+S715S-REG908
+S716S-REG908
+S717S-OSS11
+S718S-OSS11
+S719S-OSS11
+S720S-OSS11A1
+S721S-OSS11A1
+S722S-OSS11A1
+S732S-BLANK
+S787S-SG06
+S788S-SG06
+S789S-SG06
+S790S-SG07
+S791S-SG07
+S792S-SG07
+S793S-SG08
+S794S-SG08
+S795S-SG08
+S796S-SG09
+S797S-SG09
+S798S-SG09
+S799S-SG10
+S800S-SG10
+S801S-SG10
+S802S-SG11
+S803S-SG11
+S804S-SG11
+S805S-SG12
+S806S-SG12
+S807S-SG12
+S808S-SG13
+S809S-SG13
+S810S-SG13
+S811S-BLEX14
+S812S-BLEX14
+S813S-BLANK
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file merged.fasta 100%
+2319221602 nt in 6352097 seqs, min 330, max 450, avg 365
+Getting sizes 100%
+Sorting 100%
+Median abundance: 1
+Writing output 100%
+Swarm 2.2.1 [Nov  8 2017 14:06:34]
+Copyright (C) 2012-2017 Torbjorn Rognes and Frederic Mahe
+https://github.com/torognes/swarm
+
+Mahe F, Rognes T, Quince C, de Vargas C, Dunthorn M (2014)
+Swarm: robust and fast clustering method for amplicon-based studies
+PeerJ 2:e593 https://doi.org/10.7717/peerj.593
+
+Mahe F, Rognes T, Quince C, de Vargas C, Dunthorn M (2015)
+Swarm v2: highly-scalable and high-resolution amplicon clustering
+PeerJ 3:e1420 https://doi.org/10.7717/peerj.1420
+
+CPU features:      mmx sse sse2 sse3 ssse3 sse4.1 sse4.2 popcnt avx avx2
+Database file:     merged_sorted.fasta
+Output file:       SWARM.swarms
+Statistics file:   SWARM.stats
+Uclust file:       SWARM.uc
+Resolution (d):    1
+Threads:           4
+Break OTUs:        Yes
+Fastidious:        Yes, with boundary 3
+
+Reading database:  0%  Reading database:  0%  Reading database:  1%  Reading database:  1%  Reading database:  2%  Reading database:  2%  Reading database:  3%  Reading database:  3%  Reading database:  4%  Reading database:  4%  Reading database:  5%  Reading database:  5%  Reading database:  6%  Reading database:  6%  Reading database:  7%  Reading database:  7%  Reading database:  8%  Reading database:  8%  Reading database:  9%  Reading database:  9%  Reading database:  10%  Reading database:  10%  Reading database:  11%  Reading database:  11%  Reading database:  12%  Reading database:  12%  Reading database:  13%  Reading database:  13%  Reading database:  14%  Reading database:  14%  Reading database:  15%  Reading database:  15%  Reading database:  16%  Reading database:  16%  Reading database:  17%  Reading database:  17%  Reading database:  18%  Reading database:  18%  Reading database:  19%  Reading database:  19%  Reading database:  20%  Reading database:  20%  Reading database:  21%  Reading database:  21%  Reading database:  22%  Reading database:  22%  Reading database:  23%  Reading database:  23%  Reading database:  24%  Reading database:  24%  Reading database:  25%  Reading database:  25%  Reading database:  26%  Reading database:  26%  Reading database:  27%  Reading database:  27%  Reading database:  28%  Reading database:  28%  Reading database:  29%  Reading database:  29%  Reading database:  30%  Reading database:  30%  Reading database:  31%  Reading database:  31%  Reading database:  32%  Reading database:  32%  Reading database:  33%  Reading database:  33%  Reading database:  34%  Reading database:  34%  Reading database:  35%  Reading database:  35%  Reading database:  36%  Reading database:  36%  Reading database:  37%  Reading database:  37%  Reading database:  38%  Reading database:  38%  Reading database:  39%  Reading database:  39%  Reading database:  40%  Reading database:  40%  Reading database:  41%  Reading database:  41%  Reading database:  42%  Reading database:  42%  Reading database:  43%  Reading database:  43%  Reading database:  44%  Reading database:  44%  Reading database:  45%  Reading database:  45%  Reading database:  46%  Reading database:  46%  Reading database:  47%  Reading database:  47%  Reading database:  48%  Reading database:  48%  Reading database:  49%  Reading database:  49%  Reading database:  50%  Reading database:  50%  Reading database:  51%  Reading database:  51%  Reading database:  52%  Reading database:  52%  Reading database:  53%  Reading database:  53%  Reading database:  54%  Reading database:  54%  Reading database:  55%  Reading database:  55%  Reading database:  56%  Reading database:  56%  Reading database:  57%  Reading database:  57%  Reading database:  58%  Reading database:  58%  Reading database:  59%  Reading database:  59%  Reading database:  60%  Reading database:  60%  Reading database:  61%  Reading database:  61%  Reading database:  62%  Reading database:  62%  Reading database:  63%  Reading database:  63%  Reading database:  64%  Reading database:  64%  Reading database:  65%  Reading database:  65%  Reading database:  66%  Reading database:  66%  Reading database:  67%  Reading database:  67%  Reading database:  68%  Reading database:  68%  Reading database:  69%  Reading database:  69%  Reading database:  70%  Reading database:  70%  Reading database:  71%  Reading database:  71%  Reading database:  72%  Reading database:  72%  Reading database:  73%  Reading database:  73%  Reading database:  74%  Reading database:  74%  Reading database:  75%  Reading database:  75%  Reading database:  76%  Reading database:  76%  Reading database:  77%  Reading database:  77%  Reading database:  78%  Reading database:  78%  Reading database:  79%  Reading database:  79%  Reading database:  80%  Reading database:  80%  Reading database:  81%  Reading database:  81%  Reading database:  82%  Reading database:  82%  Reading database:  83%  Reading database:  83%  Reading database:  84%  Reading database:  84%  Reading database:  85%  Reading database:  85%  Reading database:  86%  Reading database:  86%  Reading database:  87%  Reading database:  87%  Reading database:  88%  Reading database:  88%  Reading database:  89%  Reading database:  89%  Reading database:  90%  Reading database:  90%  Reading database:  91%  Reading database:  91%  Reading database:  92%  Reading database:  92%  Reading database:  93%  Reading database:  93%  Reading database:  94%  Reading database:  94%  Reading database:  95%  Reading database:  95%  Reading database:  96%  Reading database:  96%  Reading database:  97%  Reading database:  97%  Reading database:  98%  Reading database:  98%  Reading database:  99%  Reading database:  99%  Reading database:  100%  Reading database:  100%
+Indexing database: 0%  Indexing database: 0%  Indexing database: 0%  Indexing database: 1%  Indexing database: 1%  Indexing database: 2%  Indexing database: 2%  Indexing database: 3%  Indexing database: 3%  Indexing database: 4%  Indexing database: 4%  Indexing database: 5%  Indexing database: 5%  Indexing database: 6%  Indexing database: 6%  Indexing database: 7%  Indexing database: 7%  Indexing database: 8%  Indexing database: 8%  Indexing database: 9%  Indexing database: 9%  Indexing database: 10%  Indexing database: 10%  Indexing database: 11%  Indexing database: 11%  Indexing database: 12%  Indexing database: 12%  Indexing database: 13%  Indexing database: 13%  Indexing database: 14%  Indexing database: 14%  Indexing database: 15%  Indexing database: 15%  Indexing database: 16%  Indexing database: 16%  Indexing database: 17%  Indexing database: 17%  Indexing database: 18%  Indexing database: 18%  Indexing database: 19%  Indexing database: 19%  Indexing database: 20%  Indexing database: 20%  Indexing database: 21%  Indexing database: 21%  Indexing database: 22%  Indexing database: 22%  Indexing database: 23%  Indexing database: 23%  Indexing database: 24%  Indexing database: 24%  Indexing database: 25%  Indexing database: 25%  Indexing database: 26%  Indexing database: 26%  Indexing database: 27%  Indexing database: 27%  Indexing database: 28%  Indexing database: 28%  Indexing database: 29%  Indexing database: 29%  Indexing database: 30%  Indexing database: 30%  Indexing database: 31%  Indexing database: 31%  Indexing database: 32%  Indexing database: 32%  Indexing database: 33%  Indexing database: 33%  Indexing database: 34%  Indexing database: 34%  Indexing database: 35%  Indexing database: 35%  Indexing database: 36%  Indexing database: 36%  Indexing database: 37%  Indexing database: 37%  Indexing database: 38%  Indexing database: 38%  Indexing database: 39%  Indexing database: 39%  Indexing database: 40%  Indexing database: 40%  Indexing database: 41%  Indexing database: 41%  Indexing database: 42%  Indexing database: 42%  Indexing database: 43%  Indexing database: 43%  Indexing database: 44%  Indexing database: 44%  Indexing database: 45%  Indexing database: 45%  Indexing database: 46%  Indexing database: 46%  Indexing database: 47%  Indexing database: 47%  Indexing database: 48%  Indexing database: 48%  Indexing database: 49%  Indexing database: 49%  Indexing database: 50%  Indexing database: 50%  Indexing database: 51%  Indexing database: 51%  Indexing database: 52%  Indexing database: 52%  Indexing database: 53%  Indexing database: 53%  Indexing database: 54%  Indexing database: 54%  Indexing database: 55%  Indexing database: 55%  Indexing database: 56%  Indexing database: 56%  Indexing database: 57%  Indexing database: 57%  Indexing database: 58%  Indexing database: 58%  Indexing database: 59%  Indexing database: 59%  Indexing database: 60%  Indexing database: 60%  Indexing database: 61%  Indexing database: 61%  Indexing database: 62%  Indexing database: 62%  Indexing database: 63%  Indexing database: 63%  Indexing database: 64%  Indexing database: 64%  Indexing database: 65%  Indexing database: 65%  Indexing database: 66%  Indexing database: 66%  Indexing database: 67%  Indexing database: 67%  Indexing database: 68%  Indexing database: 68%  Indexing database: 69%  Indexing database: 69%  Indexing database: 70%  Indexing database: 70%  Indexing database: 71%  Indexing database: 71%  Indexing database: 72%  Indexing database: 72%  Indexing database: 73%  Indexing database: 73%  Indexing database: 74%  Indexing database: 74%  Indexing database: 75%  Indexing database: 75%  Indexing database: 76%  Indexing database: 76%  Indexing database: 77%  Indexing database: 77%  Indexing database: 78%  Indexing database: 78%  Indexing database: 79%  Indexing database: 79%  Indexing database: 80%  Indexing database: 80%  Indexing database: 81%  Indexing database: 81%  Indexing database: 82%  Indexing database: 82%  Indexing database: 83%  Indexing database: 83%  Indexing database: 84%  Indexing database: 84%  Indexing database: 85%  Indexing database: 85%  Indexing database: 86%  Indexing database: 86%  Indexing database: 87%  Indexing database: 87%  Indexing database: 88%  Indexing database: 88%  Indexing database: 89%  Indexing database: 89%  Indexing database: 90%  Indexing database: 90%  Indexing database: 91%  Indexing database: 91%  Indexing database: 92%  Indexing database: 92%  Indexing database: 93%  Indexing database: 93%  Indexing database: 94%  Indexing database: 94%  Indexing database: 95%  Indexing database: 95%  Indexing database: 96%  Indexing database: 96%  Indexing database: 97%  Indexing database: 97%  Indexing database: 98%  Indexing database: 98%  Indexing database: 99%  Indexing database: 99%  Indexing database: 100%  Indexing database: 100%
+Database info:     2319221602 nt in 6352097 sequences, longest 450 nt
+Hashing sequences: 0%  Hashing sequences: 0%  Hashing sequences: 0%  Hashing sequences: 1%  Hashing sequences: 1%  Hashing sequences: 2%  Hashing sequences: 2%  Hashing sequences: 3%  Hashing sequences: 3%  Hashing sequences: 4%  Hashing sequences: 4%  Hashing sequences: 5%  Hashing sequences: 5%  Hashing sequences: 6%  Hashing sequences: 6%  Hashing sequences: 7%  Hashing sequences: 7%  Hashing sequences: 8%  Hashing sequences: 8%  Hashing sequences: 9%  Hashing sequences: 9%  Hashing sequences: 10%  Hashing sequences: 10%  Hashing sequences: 11%  Hashing sequences: 11%  Hashing sequences: 12%  Hashing sequences: 12%  Hashing sequences: 13%  Hashing sequences: 13%  Hashing sequences: 14%  Hashing sequences: 14%  Hashing sequences: 15%  Hashing sequences: 15%  Hashing sequences: 16%  Hashing sequences: 16%  Hashing sequences: 17%  Hashing sequences: 17%  Hashing sequences: 18%  Hashing sequences: 18%  Hashing sequences: 19%  Hashing sequences: 19%  Hashing sequences: 20%  Hashing sequences: 20%  Hashing sequences: 21%  Hashing sequences: 21%  Hashing sequences: 22%  Hashing sequences: 22%  Hashing sequences: 23%  Hashing sequences: 23%  Hashing sequences: 24%  Hashing sequences: 24%  Hashing sequences: 25%  Hashing sequences: 25%  Hashing sequences: 26%  Hashing sequences: 26%  Hashing sequences: 27%  Hashing sequences: 27%  Hashing sequences: 28%  Hashing sequences: 28%  Hashing sequences: 29%  Hashing sequences: 29%  Hashing sequences: 30%  Hashing sequences: 30%  Hashing sequences: 31%  Hashing sequences: 31%  Hashing sequences: 32%  Hashing sequences: 32%  Hashing sequences: 33%  Hashing sequences: 33%  Hashing sequences: 34%  Hashing sequences: 34%  Hashing sequences: 35%  Hashing sequences: 35%  Hashing sequences: 36%  Hashing sequences: 36%  Hashing sequences: 37%  Hashing sequences: 37%  Hashing sequences: 38%  Hashing sequences: 38%  Hashing sequences: 39%  Hashing sequences: 39%  Hashing sequences: 40%  Hashing sequences: 40%  Hashing sequences: 41%  Hashing sequences: 41%  Hashing sequences: 42%  Hashing sequences: 42%  Hashing sequences: 43%  Hashing sequences: 43%  Hashing sequences: 44%  Hashing sequences: 44%  Hashing sequences: 45%  Hashing sequences: 45%  Hashing sequences: 46%  Hashing sequences: 46%  Hashing sequences: 47%  Hashing sequences: 47%  Hashing sequences: 48%  Hashing sequences: 48%  Hashing sequences: 49%  Hashing sequences: 49%  Hashing sequences: 50%  Hashing sequences: 50%  Hashing sequences: 51%  Hashing sequences: 51%  Hashing sequences: 52%  Hashing sequences: 52%  Hashing sequences: 53%  Hashing sequences: 53%  Hashing sequences: 54%  Hashing sequences: 54%  Hashing sequences: 55%  Hashing sequences: 55%  Hashing sequences: 56%  Hashing sequences: 56%  Hashing sequences: 57%  Hashing sequences: 57%  Hashing sequences: 58%  Hashing sequences: 58%  Hashing sequences: 59%  Hashing sequences: 59%  Hashing sequences: 60%  Hashing sequences: 60%  Hashing sequences: 61%  Hashing sequences: 61%  Hashing sequences: 62%  Hashing sequences: 62%  Hashing sequences: 63%  Hashing sequences: 63%  Hashing sequences: 64%  Hashing sequences: 64%  Hashing sequences: 65%  Hashing sequences: 65%  Hashing sequences: 66%  Hashing sequences: 66%  Hashing sequences: 67%  Hashing sequences: 67%  Hashing sequences: 68%  Hashing sequences: 68%  Hashing sequences: 69%  Hashing sequences: 69%  Hashing sequences: 70%  Hashing sequences: 70%  Hashing sequences: 71%  Hashing sequences: 71%  Hashing sequences: 72%  Hashing sequences: 72%  Hashing sequences: 73%  Hashing sequences: 73%  Hashing sequences: 74%  Hashing sequences: 74%  Hashing sequences: 75%  Hashing sequences: 75%  Hashing sequences: 76%  Hashing sequences: 76%  Hashing sequences: 77%  Hashing sequences: 77%  Hashing sequences: 78%  Hashing sequences: 78%  Hashing sequences: 79%  Hashing sequences: 79%  Hashing sequences: 80%  Hashing sequences: 80%  Hashing sequences: 81%  Hashing sequences: 81%  Hashing sequences: 82%  Hashing sequences: 82%  Hashing sequences: 83%  Hashing sequences: 83%  Hashing sequences: 84%  Hashing sequences: 84%  Hashing sequences: 85%  Hashing sequences: 85%  Hashing sequences: 86%  Hashing sequences: 86%  Hashing sequences: 87%  Hashing sequences: 87%  Hashing sequences: 88%  Hashing sequences: 88%  Hashing sequences: 89%  Hashing sequences: 89%  Hashing sequences: 90%  Hashing sequences: 90%  Hashing sequences: 91%  Hashing sequences: 91%  Hashing sequences: 92%  Hashing sequences: 92%  Hashing sequences: 93%  Hashing sequences: 93%  Hashing sequences: 94%  Hashing sequences: 94%  Hashing sequences: 95%  Hashing sequences: 95%  Hashing sequences: 96%  Hashing sequences: 96%  Hashing sequences: 97%  Hashing sequences: 97%  Hashing sequences: 98%  Hashing sequences: 98%  Hashing sequences: 99%  Hashing sequences: 99%  Hashing sequences: 100%  Hashing sequences: 100%
+Clustering:        0%  Clustering:        0%  Clustering:        1%  Clustering:        1%  Clustering:        1%  Clustering:        2%  Clustering:        2%  Clustering:        3%  Clustering:        3%  Clustering:        4%  Clustering:        4%  Clustering:        5%  Clustering:        5%  Clustering:        6%  Clustering:        6%  Clustering:        7%  Clustering:        7%  Clustering:        8%  Clustering:        8%  Clustering:        9%  Clustering:        9%  Clustering:        10%  Clustering:        10%  Clustering:        11%  Clustering:        11%  Clustering:        12%  Clustering:        12%  Clustering:        13%  Clustering:        13%  Clustering:        14%  Clustering:        14%  Clustering:        15%  Clustering:        15%  Clustering:        16%  Clustering:        16%  Clustering:        17%  Clustering:        17%  Clustering:        18%  Clustering:        18%  Clustering:        19%  Clustering:        19%  Clustering:        20%  Clustering:        20%  Clustering:        21%  Clustering:        21%  Clustering:        22%  Clustering:        22%  Clustering:        23%  Clustering:        23%  Clustering:        24%  Clustering:        24%  Clustering:        25%  Clustering:        25%  Clustering:        26%  Clustering:        26%  Clustering:        27%  Clustering:        27%  Clustering:        28%  Clustering:        28%  Clustering:        29%  Clustering:        29%  Clustering:        30%  Clustering:        30%  Clustering:        31%  Clustering:        31%  Clustering:        32%  Clustering:        32%  Clustering:        33%  Clustering:        33%  Clustering:        34%  Clustering:        34%  Clustering:        35%  Clustering:        35%  Clustering:        36%  Clustering:        36%  Clustering:        37%  Clustering:        37%  Clustering:        38%  Clustering:        38%  Clustering:        39%  Clustering:        39%  Clustering:        40%  Clustering:        40%  Clustering:        41%  Clustering:        41%  Clustering:        42%  Clustering:        42%  Clustering:        43%  Clustering:        43%  Clustering:        44%  Clustering:        44%  Clustering:        45%  Clustering:        45%  Clustering:        46%  Clustering:        46%  Clustering:        47%  Clustering:        47%  Clustering:        48%  Clustering:        48%  Clustering:        49%  Clustering:        49%  Clustering:        50%  Clustering:        50%  Clustering:        51%  Clustering:        51%  Clustering:        52%  Clustering:        52%  Clustering:        53%  Clustering:        53%  Clustering:        54%  Clustering:        54%  Clustering:        55%  Clustering:        55%  Clustering:        56%  Clustering:        56%  Clustering:        57%  Clustering:        57%  Clustering:        58%  Clustering:        58%  Clustering:        59%  Clustering:        59%  Clustering:        60%  Clustering:        60%  Clustering:        61%  Clustering:        61%  Clustering:        62%  Clustering:        62%  Clustering:        63%  Clustering:        63%  Clustering:        64%  Clustering:        64%  Clustering:        65%  Clustering:        65%  Clustering:        66%  Clustering:        66%  Clustering:        67%  Clustering:        67%  Clustering:        68%  Clustering:        68%  Clustering:        69%  Clustering:        69%  Clustering:        70%  Clustering:        70%  Clustering:        71%  Clustering:        71%  Clustering:        72%  Clustering:        72%  Clustering:        73%  Clustering:        73%  Clustering:        74%  Clustering:        74%  Clustering:        75%  Clustering:        75%  Clustering:        76%  Clustering:        76%  Clustering:        77%  Clustering:        77%  Clustering:        78%  Clustering:        78%  Clustering:        79%  Clustering:        79%  Clustering:        80%  Clustering:        80%  Clustering:        81%  Clustering:        81%  Clustering:        82%  Clustering:        82%  Clustering:        83%  Clustering:        83%  Clustering:        84%  Clustering:        84%  Clustering:        85%  Clustering:        85%  Clustering:        86%  Clustering:        86%  Clustering:        87%  Clustering:        87%  Clustering:        88%  Clustering:        88%  Clustering:        89%  Clustering:        89%  Clustering:        90%  Clustering:        90%  Clustering:        91%  Clustering:        91%  Clustering:        92%  Clustering:        92%  Clustering:        93%  Clustering:        93%  Clustering:        94%  Clustering:        94%  Clustering:        95%  Clustering:        95%  Clustering:        96%  Clustering:        96%  Clustering:        97%  Clustering:        97%  Clustering:        98%  Clustering:        98%  Clustering:        99%  Clustering:        99%  Clustering:        100%  Clustering:        100%
+
+Results before fastidious processing:
+Number of swarms:  1244100
+Largest swarm:     155952
+
+Counting amplicons in heavy and light swarms 0%  Counting amplicons in heavy and light swarms 0%  Counting amplicons in heavy and light swarms 1%  Counting amplicons in heavy and light swarms 1%  Counting amplicons in heavy and light swarms 1%  Counting amplicons in heavy and light swarms 2%  Counting amplicons in heavy and light swarms 2%  Counting amplicons in heavy and light swarms 3%  Counting amplicons in heavy and light swarms 3%  Counting amplicons in heavy and light swarms 4%  Counting amplicons in heavy and light swarms 4%  Counting amplicons in heavy and light swarms 5%  Counting amplicons in heavy and light swarms 5%  Counting amplicons in heavy and light swarms 6%  Counting amplicons in heavy and light swarms 6%  Counting amplicons in heavy and light swarms 7%  Counting amplicons in heavy and light swarms 7%  Counting amplicons in heavy and light swarms 8%  Counting amplicons in heavy and light swarms 8%  Counting amplicons in heavy and light swarms 9%  Counting amplicons in heavy and light swarms 9%  Counting amplicons in heavy and light swarms 10%  Counting amplicons in heavy and light swarms 10%  Counting amplicons in heavy and light swarms 11%  Counting amplicons in heavy and light swarms 11%  Counting amplicons in heavy and light swarms 12%  Counting amplicons in heavy and light swarms 12%  Counting amplicons in heavy and light swarms 13%  Counting amplicons in heavy and light swarms 13%  Counting amplicons in heavy and light swarms 14%  Counting amplicons in heavy and light swarms 14%  Counting amplicons in heavy and light swarms 15%  Counting amplicons in heavy and light swarms 15%  Counting amplicons in heavy and light swarms 16%  Counting amplicons in heavy and light swarms 16%  Counting amplicons in heavy and light swarms 17%  Counting amplicons in heavy and light swarms 17%  Counting amplicons in heavy and light swarms 18%  Counting amplicons in heavy and light swarms 18%  Counting amplicons in heavy and light swarms 19%  Counting amplicons in heavy and light swarms 19%  Counting amplicons in heavy and light swarms 20%  Counting amplicons in heavy and light swarms 20%  Counting amplicons in heavy and light swarms 21%  Counting amplicons in heavy and light swarms 21%  Counting amplicons in heavy and light swarms 22%  Counting amplicons in heavy and light swarms 22%  Counting amplicons in heavy and light swarms 23%  Counting amplicons in heavy and light swarms 23%  Counting amplicons in heavy and light swarms 24%  Counting amplicons in heavy and light swarms 24%  Counting amplicons in heavy and light swarms 25%  Counting amplicons in heavy and light swarms 25%  Counting amplicons in heavy and light swarms 26%  Counting amplicons in heavy and light swarms 26%  Counting amplicons in heavy and light swarms 27%  Counting amplicons in heavy and light swarms 27%  Counting amplicons in heavy and light swarms 28%  Counting amplicons in heavy and light swarms 28%  Counting amplicons in heavy and light swarms 29%  Counting amplicons in heavy and light swarms 29%  Counting amplicons in heavy and light swarms 30%  Counting amplicons in heavy and light swarms 30%  Counting amplicons in heavy and light swarms 31%  Counting amplicons in heavy and light swarms 31%  Counting amplicons in heavy and light swarms 32%  Counting amplicons in heavy and light swarms 32%  Counting amplicons in heavy and light swarms 33%  Counting amplicons in heavy and light swarms 33%  Counting amplicons in heavy and light swarms 34%  Counting amplicons in heavy and light swarms 34%  Counting amplicons in heavy and light swarms 35%  Counting amplicons in heavy and light swarms 35%  Counting amplicons in heavy and light swarms 36%  Counting amplicons in heavy and light swarms 36%  Counting amplicons in heavy and light swarms 37%  Counting amplicons in heavy and light swarms 37%  Counting amplicons in heavy and light swarms 38%  Counting amplicons in heavy and light swarms 38%  Counting amplicons in heavy and light swarms 39%  Counting amplicons in heavy and light swarms 39%  Counting amplicons in heavy and light swarms 40%  Counting amplicons in heavy and light swarms 40%  Counting amplicons in heavy and light swarms 41%  Counting amplicons in heavy and light swarms 41%  Counting amplicons in heavy and light swarms 42%  Counting amplicons in heavy and light swarms 42%  Counting amplicons in heavy and light swarms 43%  Counting amplicons in heavy and light swarms 43%  Counting amplicons in heavy and light swarms 44%  Counting amplicons in heavy and light swarms 44%  Counting amplicons in heavy and light swarms 45%  Counting amplicons in heavy and light swarms 45%  Counting amplicons in heavy and light swarms 46%  Counting amplicons in heavy and light swarms 46%  Counting amplicons in heavy and light swarms 47%  Counting amplicons in heavy and light swarms 47%  Counting amplicons in heavy and light swarms 48%  Counting amplicons in heavy and light swarms 48%  Counting amplicons in heavy and light swarms 49%  Counting amplicons in heavy and light swarms 49%  Counting amplicons in heavy and light swarms 50%  Counting amplicons in heavy and light swarms 50%  Counting amplicons in heavy and light swarms 51%  Counting amplicons in heavy and light swarms 51%  Counting amplicons in heavy and light swarms 52%  Counting amplicons in heavy and light swarms 52%  Counting amplicons in heavy and light swarms 53%  Counting amplicons in heavy and light swarms 53%  Counting amplicons in heavy and light swarms 54%  Counting amplicons in heavy and light swarms 54%  Counting amplicons in heavy and light swarms 55%  Counting amplicons in heavy and light swarms 55%  Counting amplicons in heavy and light swarms 56%  Counting amplicons in heavy and light swarms 56%  Counting amplicons in heavy and light swarms 57%  Counting amplicons in heavy and light swarms 57%  Counting amplicons in heavy and light swarms 58%  Counting amplicons in heavy and light swarms 58%  Counting amplicons in heavy and light swarms 59%  Counting amplicons in heavy and light swarms 59%  Counting amplicons in heavy and light swarms 60%  Counting amplicons in heavy and light swarms 60%  Counting amplicons in heavy and light swarms 61%  Counting amplicons in heavy and light swarms 61%  Counting amplicons in heavy and light swarms 62%  Counting amplicons in heavy and light swarms 62%  Counting amplicons in heavy and light swarms 63%  Counting amplicons in heavy and light swarms 63%  Counting amplicons in heavy and light swarms 64%  Counting amplicons in heavy and light swarms 64%  Counting amplicons in heavy and light swarms 65%  Counting amplicons in heavy and light swarms 65%  Counting amplicons in heavy and light swarms 66%  Counting amplicons in heavy and light swarms 66%  Counting amplicons in heavy and light swarms 67%  Counting amplicons in heavy and light swarms 67%  Counting amplicons in heavy and light swarms 68%  Counting amplicons in heavy and light swarms 68%  Counting amplicons in heavy and light swarms 69%  Counting amplicons in heavy and light swarms 69%  Counting amplicons in heavy and light swarms 70%  Counting amplicons in heavy and light swarms 70%  Counting amplicons in heavy and light swarms 71%  Counting amplicons in heavy and light swarms 71%  Counting amplicons in heavy and light swarms 72%  Counting amplicons in heavy and light swarms 72%  Counting amplicons in heavy and light swarms 73%  Counting amplicons in heavy and light swarms 73%  Counting amplicons in heavy and light swarms 74%  Counting amplicons in heavy and light swarms 74%  Counting amplicons in heavy and light swarms 75%  Counting amplicons in heavy and light swarms 75%  Counting amplicons in heavy and light swarms 76%  Counting amplicons in heavy and light swarms 76%  Counting amplicons in heavy and light swarms 77%  Counting amplicons in heavy and light swarms 77%  Counting amplicons in heavy and light swarms 78%  Counting amplicons in heavy and light swarms 78%  Counting amplicons in heavy and light swarms 79%  Counting amplicons in heavy and light swarms 79%  Counting amplicons in heavy and light swarms 80%  Counting amplicons in heavy and light swarms 80%  Counting amplicons in heavy and light swarms 81%  Counting amplicons in heavy and light swarms 81%  Counting amplicons in heavy and light swarms 82%  Counting amplicons in heavy and light swarms 82%  Counting amplicons in heavy and light swarms 83%  Counting amplicons in heavy and light swarms 83%  Counting amplicons in heavy and light swarms 84%  Counting amplicons in heavy and light swarms 84%  Counting amplicons in heavy and light swarms 85%  Counting amplicons in heavy and light swarms 85%  Counting amplicons in heavy and light swarms 86%  Counting amplicons in heavy and light swarms 86%  Counting amplicons in heavy and light swarms 87%  Counting amplicons in heavy and light swarms 87%  Counting amplicons in heavy and light swarms 88%  Counting amplicons in heavy and light swarms 88%  Counting amplicons in heavy and light swarms 89%  Counting amplicons in heavy and light swarms 89%  Counting amplicons in heavy and light swarms 90%  Counting amplicons in heavy and light swarms 90%  Counting amplicons in heavy and light swarms 91%  Counting amplicons in heavy and light swarms 91%  Counting amplicons in heavy and light swarms 92%  Counting amplicons in heavy and light swarms 92%  Counting amplicons in heavy and light swarms 93%  Counting amplicons in heavy and light swarms 93%  Counting amplicons in heavy and light swarms 94%  Counting amplicons in heavy and light swarms 94%  Counting amplicons in heavy and light swarms 95%  Counting amplicons in heavy and light swarms 95%  Counting amplicons in heavy and light swarms 96%  Counting amplicons in heavy and light swarms 96%  Counting amplicons in heavy and light swarms 97%  Counting amplicons in heavy and light swarms 97%  Counting amplicons in heavy and light swarms 98%  Counting amplicons in heavy and light swarms 98%  Counting amplicons in heavy and light swarms 99%  Counting amplicons in heavy and light swarms 99%  Counting amplicons in heavy and light swarms 100%  Counting amplicons in heavy and light swarms 100%
+Heavy swarms: 65068, with 5158735 amplicons
+Light swarms: 1179032, with 1193362 amplicons
+Total length of amplicons in light swarms: 435942841
+Bloom filter: bits=16, m=48825598192, k=11, size=5820.5MB
+Adding light swarm amplicons to Bloom filter 0%  Adding light swarm amplicons to Bloom filter 0%  Adding light swarm amplicons to Bloom filter 1%  Adding light swarm amplicons to Bloom filter 1%  Adding light swarm amplicons to Bloom filter 1%  Adding light swarm amplicons to Bloom filter 2%  Adding light swarm amplicons to Bloom filter 2%  Adding light swarm amplicons to Bloom filter 3%  Adding light swarm amplicons to Bloom filter 3%  Adding light swarm amplicons to Bloom filter 4%  Adding light swarm amplicons to Bloom filter 4%  Adding light swarm amplicons to Bloom filter 5%  Adding light swarm amplicons to Bloom filter 5%  Adding light swarm amplicons to Bloom filter 6%  Adding light swarm amplicons to Bloom filter 6%  Adding light swarm amplicons to Bloom filter 7%  Adding light swarm amplicons to Bloom filter 7%  Adding light swarm amplicons to Bloom filter 8%  Adding light swarm amplicons to Bloom filter 8%  Adding light swarm amplicons to Bloom filter 9%  Adding light swarm amplicons to Bloom filter 9%  Adding light swarm amplicons to Bloom filter 10%  Adding light swarm amplicons to Bloom filter 10%  Adding light swarm amplicons to Bloom filter 11%  Adding light swarm amplicons to Bloom filter 11%  Adding light swarm amplicons to Bloom filter 12%  Adding light swarm amplicons to Bloom filter 12%  Adding light swarm amplicons to Bloom filter 13%  Adding light swarm amplicons to Bloom filter 13%  Adding light swarm amplicons to Bloom filter 14%  Adding light swarm amplicons to Bloom filter 14%  Adding light swarm amplicons to Bloom filter 15%  Adding light swarm amplicons to Bloom filter 15%  Adding light swarm amplicons to Bloom filter 16%  Adding light swarm amplicons to Bloom filter 16%  Adding light swarm amplicons to Bloom filter 17%  Adding light swarm amplicons to Bloom filter 17%  Adding light swarm amplicons to Bloom filter 18%  Adding light swarm amplicons to Bloom filter 18%  Adding light swarm amplicons to Bloom filter 19%  Adding light swarm amplicons to Bloom filter 19%  Adding light swarm amplicons to Bloom filter 20%  Adding light swarm amplicons to Bloom filter 20%  Adding light swarm amplicons to Bloom filter 21%  Adding light swarm amplicons to Bloom filter 21%  Adding light swarm amplicons to Bloom filter 22%  Adding light swarm amplicons to Bloom filter 22%  Adding light swarm amplicons to Bloom filter 23%  Adding light swarm amplicons to Bloom filter 23%  Adding light swarm amplicons to Bloom filter 24%  Adding light swarm amplicons to Bloom filter 24%  Adding light swarm amplicons to Bloom filter 25%  Adding light swarm amplicons to Bloom filter 25%  Adding light swarm amplicons to Bloom filter 26%  Adding light swarm amplicons to Bloom filter 26%  Adding light swarm amplicons to Bloom filter 27%  Adding light swarm amplicons to Bloom filter 27%  Adding light swarm amplicons to Bloom filter 28%  Adding light swarm amplicons to Bloom filter 28%  Adding light swarm amplicons to Bloom filter 29%  Adding light swarm amplicons to Bloom filter 29%  Adding light swarm amplicons to Bloom filter 30%  Adding light swarm amplicons to Bloom filter 30%  Adding light swarm amplicons to Bloom filter 31%  Adding light swarm amplicons to Bloom filter 31%  Adding light swarm amplicons to Bloom filter 32%  Adding light swarm amplicons to Bloom filter 32%  Adding light swarm amplicons to Bloom filter 33%  Adding light swarm amplicons to Bloom filter 33%  Adding light swarm amplicons to Bloom filter 34%  Adding light swarm amplicons to Bloom filter 34%  Adding light swarm amplicons to Bloom filter 35%  Adding light swarm amplicons to Bloom filter 35%  Adding light swarm amplicons to Bloom filter 36%  Adding light swarm amplicons to Bloom filter 36%  Adding light swarm amplicons to Bloom filter 37%  Adding light swarm amplicons to Bloom filter 37%  Adding light swarm amplicons to Bloom filter 38%  Adding light swarm amplicons to Bloom filter 38%  Adding light swarm amplicons to Bloom filter 39%  Adding light swarm amplicons to Bloom filter 39%  Adding light swarm amplicons to Bloom filter 40%  Adding light swarm amplicons to Bloom filter 40%  Adding light swarm amplicons to Bloom filter 41%  Adding light swarm amplicons to Bloom filter 41%  Adding light swarm amplicons to Bloom filter 42%  Adding light swarm amplicons to Bloom filter 42%  Adding light swarm amplicons to Bloom filter 43%  Adding light swarm amplicons to Bloom filter 43%  Adding light swarm amplicons to Bloom filter 44%  Adding light swarm amplicons to Bloom filter 44%  Adding light swarm amplicons to Bloom filter 45%  Adding light swarm amplicons to Bloom filter 45%  Adding light swarm amplicons to Bloom filter 46%  Adding light swarm amplicons to Bloom filter 46%  Adding light swarm amplicons to Bloom filter 47%  Adding light swarm amplicons to Bloom filter 47%  Adding light swarm amplicons to Bloom filter 48%  Adding light swarm amplicons to Bloom filter 48%  Adding light swarm amplicons to Bloom filter 49%  Adding light swarm amplicons to Bloom filter 49%  Adding light swarm amplicons to Bloom filter 50%  Adding light swarm amplicons to Bloom filter 50%  Adding light swarm amplicons to Bloom filter 51%  Adding light swarm amplicons to Bloom filter 51%  Adding light swarm amplicons to Bloom filter 52%  Adding light swarm amplicons to Bloom filter 52%  Adding light swarm amplicons to Bloom filter 53%  Adding light swarm amplicons to Bloom filter 53%  Adding light swarm amplicons to Bloom filter 54%  Adding light swarm amplicons to Bloom filter 54%  Adding light swarm amplicons to Bloom filter 55%  Adding light swarm amplicons to Bloom filter 55%  Adding light swarm amplicons to Bloom filter 56%  Adding light swarm amplicons to Bloom filter 56%  Adding light swarm amplicons to Bloom filter 57%  Adding light swarm amplicons to Bloom filter 57%  Adding light swarm amplicons to Bloom filter 58%  Adding light swarm amplicons to Bloom filter 58%  Adding light swarm amplicons to Bloom filter 59%  Adding light swarm amplicons to Bloom filter 59%  Adding light swarm amplicons to Bloom filter 60%  Adding light swarm amplicons to Bloom filter 60%  Adding light swarm amplicons to Bloom filter 61%  Adding light swarm amplicons to Bloom filter 61%  Adding light swarm amplicons to Bloom filter 62%  Adding light swarm amplicons to Bloom filter 62%  Adding light swarm amplicons to Bloom filter 63%  Adding light swarm amplicons to Bloom filter 63%  Adding light swarm amplicons to Bloom filter 64%  Adding light swarm amplicons to Bloom filter 64%  Adding light swarm amplicons to Bloom filter 65%  Adding light swarm amplicons to Bloom filter 65%  Adding light swarm amplicons to Bloom filter 66%  Adding light swarm amplicons to Bloom filter 66%  Adding light swarm amplicons to Bloom filter 67%  Adding light swarm amplicons to Bloom filter 67%  Adding light swarm amplicons to Bloom filter 68%  Adding light swarm amplicons to Bloom filter 68%  Adding light swarm amplicons to Bloom filter 69%  Adding light swarm amplicons to Bloom filter 69%  Adding light swarm amplicons to Bloom filter 70%  Adding light swarm amplicons to Bloom filter 70%  Adding light swarm amplicons to Bloom filter 71%  Adding light swarm amplicons to Bloom filter 71%  Adding light swarm amplicons to Bloom filter 72%  Adding light swarm amplicons to Bloom filter 72%  Adding light swarm amplicons to Bloom filter 73%  Adding light swarm amplicons to Bloom filter 73%  Adding light swarm amplicons to Bloom filter 74%  Adding light swarm amplicons to Bloom filter 74%  Adding light swarm amplicons to Bloom filter 75%  Adding light swarm amplicons to Bloom filter 75%  Adding light swarm amplicons to Bloom filter 76%  Adding light swarm amplicons to Bloom filter 76%  Adding light swarm amplicons to Bloom filter 77%  Adding light swarm amplicons to Bloom filter 77%  Adding light swarm amplicons to Bloom filter 78%  Adding light swarm amplicons to Bloom filter 78%  Adding light swarm amplicons to Bloom filter 79%  Adding light swarm amplicons to Bloom filter 79%  Adding light swarm amplicons to Bloom filter 80%  Adding light swarm amplicons to Bloom filter 80%  Adding light swarm amplicons to Bloom filter 81%  Adding light swarm amplicons to Bloom filter 81%  Adding light swarm amplicons to Bloom filter 82%  Adding light swarm amplicons to Bloom filter 82%  Adding light swarm amplicons to Bloom filter 83%  Adding light swarm amplicons to Bloom filter 83%  Adding light swarm amplicons to Bloom filter 84%  Adding light swarm amplicons to Bloom filter 84%  Adding light swarm amplicons to Bloom filter 85%  Adding light swarm amplicons to Bloom filter 85%  Adding light swarm amplicons to Bloom filter 86%  Adding light swarm amplicons to Bloom filter 86%  Adding light swarm amplicons to Bloom filter 87%  Adding light swarm amplicons to Bloom filter 87%  Adding light swarm amplicons to Bloom filter 88%  Adding light swarm amplicons to Bloom filter 88%  Adding light swarm amplicons to Bloom filter 89%  Adding light swarm amplicons to Bloom filter 89%  Adding light swarm amplicons to Bloom filter 90%  Adding light swarm amplicons to Bloom filter 90%  Adding light swarm amplicons to Bloom filter 91%  Adding light swarm amplicons to Bloom filter 91%  Adding light swarm amplicons to Bloom filter 92%  Adding light swarm amplicons to Bloom filter 92%  Adding light swarm amplicons to Bloom filter 93%  Adding light swarm amplicons to Bloom filter 93%  Adding light swarm amplicons to Bloom filter 94%  Adding light swarm amplicons to Bloom filter 94%  Adding light swarm amplicons to Bloom filter 95%  Adding light swarm amplicons to Bloom filter 95%  Adding light swarm amplicons to Bloom filter 96%  Adding light swarm amplicons to Bloom filter 96%  Adding light swarm amplicons to Bloom filter 97%  Adding light swarm amplicons to Bloom filter 97%  Adding light swarm amplicons to Bloom filter 98%  Adding light swarm amplicons to Bloom filter 98%  Adding light swarm amplicons to Bloom filter 99%  Adding light swarm amplicons to Bloom filter 99%  Adding light swarm amplicons to Bloom filter 100%  Adding light swarm amplicons to Bloom filter 100%
+Generated 2942884343 variants from light swarms
+Checking heavy swarm amplicons against Bloom filter 0%  Checking heavy swarm amplicons against Bloom filter 0%  Checking heavy swarm amplicons against Bloom filter 1%  Checking heavy swarm amplicons against Bloom filter 1%  Checking heavy swarm amplicons against Bloom filter 1%  Checking heavy swarm amplicons against Bloom filter 2%  Checking heavy swarm amplicons against Bloom filter 2%  Checking heavy swarm amplicons against Bloom filter 3%  Checking heavy swarm amplicons against Bloom filter 3%  Checking heavy swarm amplicons against Bloom filter 4%  Checking heavy swarm amplicons against Bloom filter 4%  Checking heavy swarm amplicons against Bloom filter 5%  Checking heavy swarm amplicons against Bloom filter 5%  Checking heavy swarm amplicons against Bloom filter 6%  Checking heavy swarm amplicons against Bloom filter 6%  Checking heavy swarm amplicons against Bloom filter 7%  Checking heavy swarm amplicons against Bloom filter 7%  Checking heavy swarm amplicons against Bloom filter 8%  Checking heavy swarm amplicons against Bloom filter 8%  Checking heavy swarm amplicons against Bloom filter 9%  Checking heavy swarm amplicons against Bloom filter 9%  Checking heavy swarm amplicons against Bloom filter 10%  Checking heavy swarm amplicons against Bloom filter 10%  Checking heavy swarm amplicons against Bloom filter 11%  Checking heavy swarm amplicons against Bloom filter 11%  Checking heavy swarm amplicons against Bloom filter 12%  Checking heavy swarm amplicons against Bloom filter 12%  Checking heavy swarm amplicons against Bloom filter 13%  Checking heavy swarm amplicons against Bloom filter 13%  Checking heavy swarm amplicons against Bloom filter 14%  Checking heavy swarm amplicons against Bloom filter 14%  Checking heavy swarm amplicons against Bloom filter 15%  Checking heavy swarm amplicons against Bloom filter 15%  Checking heavy swarm amplicons against Bloom filter 16%  Checking heavy swarm amplicons against Bloom filter 16%  Checking heavy swarm amplicons against Bloom filter 17%  Checking heavy swarm amplicons against Bloom filter 17%  Checking heavy swarm amplicons against Bloom filter 18%  Checking heavy swarm amplicons against Bloom filter 18%  Checking heavy swarm amplicons against Bloom filter 19%  Checking heavy swarm amplicons against Bloom filter 19%  Checking heavy swarm amplicons against Bloom filter 20%  Checking heavy swarm amplicons against Bloom filter 20%  Checking heavy swarm amplicons against Bloom filter 21%  Checking heavy swarm amplicons against Bloom filter 21%  Checking heavy swarm amplicons against Bloom filter 22%  Checking heavy swarm amplicons against Bloom filter 22%  Checking heavy swarm amplicons against Bloom filter 23%  Checking heavy swarm amplicons against Bloom filter 23%  Checking heavy swarm amplicons against Bloom filter 24%  Checking heavy swarm amplicons against Bloom filter 24%  Checking heavy swarm amplicons against Bloom filter 25%  Checking heavy swarm amplicons against Bloom filter 25%  Checking heavy swarm amplicons against Bloom filter 26%  Checking heavy swarm amplicons against Bloom filter 26%  Checking heavy swarm amplicons against Bloom filter 27%  Checking heavy swarm amplicons against Bloom filter 27%  Checking heavy swarm amplicons against Bloom filter 28%  Checking heavy swarm amplicons against Bloom filter 28%  Checking heavy swarm amplicons against Bloom filter 29%  Checking heavy swarm amplicons against Bloom filter 29%  Checking heavy swarm amplicons against Bloom filter 30%  Checking heavy swarm amplicons against Bloom filter 30%  Checking heavy swarm amplicons against Bloom filter 31%  Checking heavy swarm amplicons against Bloom filter 31%  Checking heavy swarm amplicons against Bloom filter 32%  Checking heavy swarm amplicons against Bloom filter 32%  Checking heavy swarm amplicons against Bloom filter 33%  Checking heavy swarm amplicons against Bloom filter 33%  Checking heavy swarm amplicons against Bloom filter 34%  Checking heavy swarm amplicons against Bloom filter 34%  Checking heavy swarm amplicons against Bloom filter 35%  Checking heavy swarm amplicons against Bloom filter 35%  Checking heavy swarm amplicons against Bloom filter 36%  Checking heavy swarm amplicons against Bloom filter 36%  Checking heavy swarm amplicons against Bloom filter 37%  Checking heavy swarm amplicons against Bloom filter 37%  Checking heavy swarm amplicons against Bloom filter 38%  Checking heavy swarm amplicons against Bloom filter 38%  Checking heavy swarm amplicons against Bloom filter 39%  Checking heavy swarm amplicons against Bloom filter 39%  Checking heavy swarm amplicons against Bloom filter 40%  Checking heavy swarm amplicons against Bloom filter 40%  Checking heavy swarm amplicons against Bloom filter 41%  Checking heavy swarm amplicons against Bloom filter 41%  Checking heavy swarm amplicons against Bloom filter 42%  Checking heavy swarm amplicons against Bloom filter 42%  Checking heavy swarm amplicons against Bloom filter 43%  Checking heavy swarm amplicons against Bloom filter 43%  Checking heavy swarm amplicons against Bloom filter 44%  Checking heavy swarm amplicons against Bloom filter 44%  Checking heavy swarm amplicons against Bloom filter 45%  Checking heavy swarm amplicons against Bloom filter 45%  Checking heavy swarm amplicons against Bloom filter 46%  Checking heavy swarm amplicons against Bloom filter 46%  Checking heavy swarm amplicons against Bloom filter 47%  Checking heavy swarm amplicons against Bloom filter 47%  Checking heavy swarm amplicons against Bloom filter 48%  Checking heavy swarm amplicons against Bloom filter 48%  Checking heavy swarm amplicons against Bloom filter 49%  Checking heavy swarm amplicons against Bloom filter 49%  Checking heavy swarm amplicons against Bloom filter 50%  Checking heavy swarm amplicons against Bloom filter 50%  Checking heavy swarm amplicons against Bloom filter 51%  Checking heavy swarm amplicons against Bloom filter 51%  Checking heavy swarm amplicons against Bloom filter 52%  Checking heavy swarm amplicons against Bloom filter 52%  Checking heavy swarm amplicons against Bloom filter 53%  Checking heavy swarm amplicons against Bloom filter 53%  Checking heavy swarm amplicons against Bloom filter 54%  Checking heavy swarm amplicons against Bloom filter 54%  Checking heavy swarm amplicons against Bloom filter 55%  Checking heavy swarm amplicons against Bloom filter 55%  Checking heavy swarm amplicons against Bloom filter 56%  Checking heavy swarm amplicons against Bloom filter 56%  Checking heavy swarm amplicons against Bloom filter 57%  Checking heavy swarm amplicons against Bloom filter 57%  Checking heavy swarm amplicons against Bloom filter 58%  Checking heavy swarm amplicons against Bloom filter 58%  Checking heavy swarm amplicons against Bloom filter 59%  Checking heavy swarm amplicons against Bloom filter 59%  Checking heavy swarm amplicons against Bloom filter 60%  Checking heavy swarm amplicons against Bloom filter 60%  Checking heavy swarm amplicons against Bloom filter 61%  Checking heavy swarm amplicons against Bloom filter 61%  Checking heavy swarm amplicons against Bloom filter 62%  Checking heavy swarm amplicons against Bloom filter 62%  Checking heavy swarm amplicons against Bloom filter 63%  Checking heavy swarm amplicons against Bloom filter 63%  Checking heavy swarm amplicons against Bloom filter 64%  Checking heavy swarm amplicons against Bloom filter 64%  Checking heavy swarm amplicons against Bloom filter 65%  Checking heavy swarm amplicons against Bloom filter 65%  Checking heavy swarm amplicons against Bloom filter 66%  Checking heavy swarm amplicons against Bloom filter 66%  Checking heavy swarm amplicons against Bloom filter 67%  Checking heavy swarm amplicons against Bloom filter 67%  Checking heavy swarm amplicons against Bloom filter 68%  Checking heavy swarm amplicons against Bloom filter 68%  Checking heavy swarm amplicons against Bloom filter 69%  Checking heavy swarm amplicons against Bloom filter 69%  Checking heavy swarm amplicons against Bloom filter 70%  Checking heavy swarm amplicons against Bloom filter 70%  Checking heavy swarm amplicons against Bloom filter 71%  Checking heavy swarm amplicons against Bloom filter 71%  Checking heavy swarm amplicons against Bloom filter 72%  Checking heavy swarm amplicons against Bloom filter 72%  Checking heavy swarm amplicons against Bloom filter 73%  Checking heavy swarm amplicons against Bloom filter 73%  Checking heavy swarm amplicons against Bloom filter 74%  Checking heavy swarm amplicons against Bloom filter 74%  Checking heavy swarm amplicons against Bloom filter 75%  Checking heavy swarm amplicons against Bloom filter 75%  Checking heavy swarm amplicons against Bloom filter 76%  Checking heavy swarm amplicons against Bloom filter 76%  Checking heavy swarm amplicons against Bloom filter 77%  Checking heavy swarm amplicons against Bloom filter 77%  Checking heavy swarm amplicons against Bloom filter 78%  Checking heavy swarm amplicons against Bloom filter 78%  Checking heavy swarm amplicons against Bloom filter 79%  Checking heavy swarm amplicons against Bloom filter 79%  Checking heavy swarm amplicons against Bloom filter 80%  Checking heavy swarm amplicons against Bloom filter 80%  Checking heavy swarm amplicons against Bloom filter 81%  Checking heavy swarm amplicons against Bloom filter 81%  Checking heavy swarm amplicons against Bloom filter 82%  Checking heavy swarm amplicons against Bloom filter 82%  Checking heavy swarm amplicons against Bloom filter 83%  Checking heavy swarm amplicons against Bloom filter 83%  Checking heavy swarm amplicons against Bloom filter 84%  Checking heavy swarm amplicons against Bloom filter 84%  Checking heavy swarm amplicons against Bloom filter 85%  Checking heavy swarm amplicons against Bloom filter 85%  Checking heavy swarm amplicons against Bloom filter 86%  Checking heavy swarm amplicons against Bloom filter 86%  Checking heavy swarm amplicons against Bloom filter 87%  Checking heavy swarm amplicons against Bloom filter 87%  Checking heavy swarm amplicons against Bloom filter 88%  Checking heavy swarm amplicons against Bloom filter 88%  Checking heavy swarm amplicons against Bloom filter 89%  Checking heavy swarm amplicons against Bloom filter 89%  Checking heavy swarm amplicons against Bloom filter 90%  Checking heavy swarm amplicons against Bloom filter 90%  Checking heavy swarm amplicons against Bloom filter 91%  Checking heavy swarm amplicons against Bloom filter 91%  Checking heavy swarm amplicons against Bloom filter 92%  Checking heavy swarm amplicons against Bloom filter 92%  Checking heavy swarm amplicons against Bloom filter 93%  Checking heavy swarm amplicons against Bloom filter 93%  Checking heavy swarm amplicons against Bloom filter 94%  Checking heavy swarm amplicons against Bloom filter 94%  Checking heavy swarm amplicons against Bloom filter 95%  Checking heavy swarm amplicons against Bloom filter 95%  Checking heavy swarm amplicons against Bloom filter 96%  Checking heavy swarm amplicons against Bloom filter 96%  Checking heavy swarm amplicons against Bloom filter 97%  Checking heavy swarm amplicons against Bloom filter 97%  Checking heavy swarm amplicons against Bloom filter 98%  Checking heavy swarm amplicons against Bloom filter 98%  Checking heavy swarm amplicons against Bloom filter 99%  Checking heavy swarm amplicons against Bloom filter 99%  Checking heavy swarm amplicons against Bloom filter 100%  Checking heavy swarm amplicons against Bloom filter 100%
+Heavy variants: 12714242985
+Got 4305260 graft candidates
+Grafting light swarms on heavy swarms 0%  Grafting light swarms on heavy swarms 0%  Grafting light swarms on heavy swarms 1%  Grafting light swarms on heavy swarms 1%  Grafting light swarms on heavy swarms 1%  Grafting light swarms on heavy swarms 2%  Grafting light swarms on heavy swarms 2%  Grafting light swarms on heavy swarms 3%  Grafting light swarms on heavy swarms 3%  Grafting light swarms on heavy swarms 4%  Grafting light swarms on heavy swarms 4%  Grafting light swarms on heavy swarms 5%  Grafting light swarms on heavy swarms 5%  Grafting light swarms on heavy swarms 6%  Grafting light swarms on heavy swarms 6%  Grafting light swarms on heavy swarms 7%  Grafting light swarms on heavy swarms 7%  Grafting light swarms on heavy swarms 8%  Grafting light swarms on heavy swarms 8%  Grafting light swarms on heavy swarms 9%  Grafting light swarms on heavy swarms 9%  Grafting light swarms on heavy swarms 10%  Grafting light swarms on heavy swarms 10%  Grafting light swarms on heavy swarms 11%  Grafting light swarms on heavy swarms 11%  Grafting light swarms on heavy swarms 12%  Grafting light swarms on heavy swarms 12%  Grafting light swarms on heavy swarms 13%  Grafting light swarms on heavy swarms 13%  Grafting light swarms on heavy swarms 14%  Grafting light swarms on heavy swarms 14%  Grafting light swarms on heavy swarms 15%  Grafting light swarms on heavy swarms 15%  Grafting light swarms on heavy swarms 16%  Grafting light swarms on heavy swarms 16%  Grafting light swarms on heavy swarms 17%  Grafting light swarms on heavy swarms 17%  Grafting light swarms on heavy swarms 18%  Grafting light swarms on heavy swarms 18%  Grafting light swarms on heavy swarms 19%  Grafting light swarms on heavy swarms 19%  Grafting light swarms on heavy swarms 20%  Grafting light swarms on heavy swarms 20%  Grafting light swarms on heavy swarms 21%  Grafting light swarms on heavy swarms 21%  Grafting light swarms on heavy swarms 22%  Grafting light swarms on heavy swarms 22%  Grafting light swarms on heavy swarms 23%  Grafting light swarms on heavy swarms 23%  Grafting light swarms on heavy swarms 24%  Grafting light swarms on heavy swarms 24%  Grafting light swarms on heavy swarms 25%  Grafting light swarms on heavy swarms 25%  Grafting light swarms on heavy swarms 26%  Grafting light swarms on heavy swarms 26%  Grafting light swarms on heavy swarms 27%  Grafting light swarms on heavy swarms 27%  Grafting light swarms on heavy swarms 28%  Grafting light swarms on heavy swarms 28%  Grafting light swarms on heavy swarms 29%  Grafting light swarms on heavy swarms 29%  Grafting light swarms on heavy swarms 30%  Grafting light swarms on heavy swarms 30%  Grafting light swarms on heavy swarms 31%  Grafting light swarms on heavy swarms 31%  Grafting light swarms on heavy swarms 32%  Grafting light swarms on heavy swarms 32%  Grafting light swarms on heavy swarms 33%  Grafting light swarms on heavy swarms 33%  Grafting light swarms on heavy swarms 34%  Grafting light swarms on heavy swarms 34%  Grafting light swarms on heavy swarms 35%  Grafting light swarms on heavy swarms 35%  Grafting light swarms on heavy swarms 36%  Grafting light swarms on heavy swarms 36%  Grafting light swarms on heavy swarms 37%  Grafting light swarms on heavy swarms 37%  Grafting light swarms on heavy swarms 38%  Grafting light swarms on heavy swarms 38%  Grafting light swarms on heavy swarms 39%  Grafting light swarms on heavy swarms 39%  Grafting light swarms on heavy swarms 40%  Grafting light swarms on heavy swarms 40%  Grafting light swarms on heavy swarms 41%  Grafting light swarms on heavy swarms 41%  Grafting light swarms on heavy swarms 42%  Grafting light swarms on heavy swarms 42%  Grafting light swarms on heavy swarms 43%  Grafting light swarms on heavy swarms 43%  Grafting light swarms on heavy swarms 44%  Grafting light swarms on heavy swarms 44%  Grafting light swarms on heavy swarms 45%  Grafting light swarms on heavy swarms 45%  Grafting light swarms on heavy swarms 46%  Grafting light swarms on heavy swarms 46%  Grafting light swarms on heavy swarms 47%  Grafting light swarms on heavy swarms 47%  Grafting light swarms on heavy swarms 48%  Grafting light swarms on heavy swarms 48%  Grafting light swarms on heavy swarms 49%  Grafting light swarms on heavy swarms 49%  Grafting light swarms on heavy swarms 50%  Grafting light swarms on heavy swarms 50%  Grafting light swarms on heavy swarms 51%  Grafting light swarms on heavy swarms 51%  Grafting light swarms on heavy swarms 52%  Grafting light swarms on heavy swarms 52%  Grafting light swarms on heavy swarms 53%  Grafting light swarms on heavy swarms 53%  Grafting light swarms on heavy swarms 54%  Grafting light swarms on heavy swarms 54%  Grafting light swarms on heavy swarms 55%  Grafting light swarms on heavy swarms 55%  Grafting light swarms on heavy swarms 56%  Grafting light swarms on heavy swarms 56%  Grafting light swarms on heavy swarms 57%  Grafting light swarms on heavy swarms 57%  Grafting light swarms on heavy swarms 58%  Grafting light swarms on heavy swarms 58%  Grafting light swarms on heavy swarms 59%  Grafting light swarms on heavy swarms 59%  Grafting light swarms on heavy swarms 60%  Grafting light swarms on heavy swarms 60%  Grafting light swarms on heavy swarms 61%  Grafting light swarms on heavy swarms 61%  Grafting light swarms on heavy swarms 62%  Grafting light swarms on heavy swarms 62%  Grafting light swarms on heavy swarms 63%  Grafting light swarms on heavy swarms 63%  Grafting light swarms on heavy swarms 64%  Grafting light swarms on heavy swarms 64%  Grafting light swarms on heavy swarms 65%  Grafting light swarms on heavy swarms 65%  Grafting light swarms on heavy swarms 66%  Grafting light swarms on heavy swarms 66%  Grafting light swarms on heavy swarms 67%  Grafting light swarms on heavy swarms 67%  Grafting light swarms on heavy swarms 68%  Grafting light swarms on heavy swarms 68%  Grafting light swarms on heavy swarms 69%  Grafting light swarms on heavy swarms 69%  Grafting light swarms on heavy swarms 70%  Grafting light swarms on heavy swarms 70%  Grafting light swarms on heavy swarms 71%  Grafting light swarms on heavy swarms 71%  Grafting light swarms on heavy swarms 72%  Grafting light swarms on heavy swarms 72%  Grafting light swarms on heavy swarms 73%  Grafting light swarms on heavy swarms 73%  Grafting light swarms on heavy swarms 74%  Grafting light swarms on heavy swarms 74%  Grafting light swarms on heavy swarms 75%  Grafting light swarms on heavy swarms 75%  Grafting light swarms on heavy swarms 76%  Grafting light swarms on heavy swarms 76%  Grafting light swarms on heavy swarms 77%  Grafting light swarms on heavy swarms 77%  Grafting light swarms on heavy swarms 78%  Grafting light swarms on heavy swarms 78%  Grafting light swarms on heavy swarms 79%  Grafting light swarms on heavy swarms 79%  Grafting light swarms on heavy swarms 80%  Grafting light swarms on heavy swarms 80%  Grafting light swarms on heavy swarms 81%  Grafting light swarms on heavy swarms 81%  Grafting light swarms on heavy swarms 82%  Grafting light swarms on heavy swarms 82%  Grafting light swarms on heavy swarms 83%  Grafting light swarms on heavy swarms 83%  Grafting light swarms on heavy swarms 84%  Grafting light swarms on heavy swarms 84%  Grafting light swarms on heavy swarms 85%  Grafting light swarms on heavy swarms 85%  Grafting light swarms on heavy swarms 86%  Grafting light swarms on heavy swarms 86%  Grafting light swarms on heavy swarms 87%  Grafting light swarms on heavy swarms 87%  Grafting light swarms on heavy swarms 88%  Grafting light swarms on heavy swarms 88%  Grafting light swarms on heavy swarms 89%  Grafting light swarms on heavy swarms 89%  Grafting light swarms on heavy swarms 90%  Grafting light swarms on heavy swarms 90%  Grafting light swarms on heavy swarms 91%  Grafting light swarms on heavy swarms 91%  Grafting light swarms on heavy swarms 92%  Grafting light swarms on heavy swarms 92%  Grafting light swarms on heavy swarms 93%  Grafting light swarms on heavy swarms 93%  Grafting light swarms on heavy swarms 94%  Grafting light swarms on heavy swarms 94%  Grafting light swarms on heavy swarms 95%  Grafting light swarms on heavy swarms 95%  Grafting light swarms on heavy swarms 96%  Grafting light swarms on heavy swarms 96%  Grafting light swarms on heavy swarms 97%  Grafting light swarms on heavy swarms 97%  Grafting light swarms on heavy swarms 98%  Grafting light swarms on heavy swarms 98%  Grafting light swarms on heavy swarms 99%  Grafting light swarms on heavy swarms 99%  Grafting light swarms on heavy swarms 100%  Grafting light swarms on heavy swarms 100%
+Made 807613 grafts
+
+Writing swarms:    0%  Writing swarms:    0%  Writing swarms:    1%  Writing swarms:    1%  Writing swarms:    1%  Writing swarms:    2%  Writing swarms:    2%  Writing swarms:    3%  Writing swarms:    3%  Writing swarms:    4%  Writing swarms:    4%  Writing swarms:    5%  Writing swarms:    5%  Writing swarms:    6%  Writing swarms:    6%  Writing swarms:    7%  Writing swarms:    7%  Writing swarms:    8%  Writing swarms:    8%  Writing swarms:    9%  Writing swarms:    9%  Writing swarms:    10%  Writing swarms:    10%  Writing swarms:    11%  Writing swarms:    11%  Writing swarms:    12%  Writing swarms:    12%  Writing swarms:    13%  Writing swarms:    13%  Writing swarms:    14%  Writing swarms:    14%  Writing swarms:    15%  Writing swarms:    15%  Writing swarms:    16%  Writing swarms:    16%  Writing swarms:    17%  Writing swarms:    17%  Writing swarms:    18%  Writing swarms:    18%  Writing swarms:    19%  Writing swarms:    19%  Writing swarms:    20%  Writing swarms:    20%  Writing swarms:    21%  Writing swarms:    21%  Writing swarms:    22%  Writing swarms:    22%  Writing swarms:    23%  Writing swarms:    23%  Writing swarms:    24%  Writing swarms:    24%  Writing swarms:    25%  Writing swarms:    25%  Writing swarms:    26%  Writing swarms:    26%  Writing swarms:    27%  Writing swarms:    27%  Writing swarms:    28%  Writing swarms:    28%  Writing swarms:    29%  Writing swarms:    29%  Writing swarms:    30%  Writing swarms:    30%  Writing swarms:    31%  Writing swarms:    31%  Writing swarms:    32%  Writing swarms:    32%  Writing swarms:    33%  Writing swarms:    33%  Writing swarms:    34%  Writing swarms:    34%  Writing swarms:    35%  Writing swarms:    35%  Writing swarms:    36%  Writing swarms:    36%  Writing swarms:    37%  Writing swarms:    37%  Writing swarms:    38%  Writing swarms:    38%  Writing swarms:    39%  Writing swarms:    39%  Writing swarms:    40%  Writing swarms:    40%  Writing swarms:    41%  Writing swarms:    41%  Writing swarms:    42%  Writing swarms:    42%  Writing swarms:    43%  Writing swarms:    43%  Writing swarms:    44%  Writing swarms:    44%  Writing swarms:    45%  Writing swarms:    45%  Writing swarms:    46%  Writing swarms:    46%  Writing swarms:    47%  Writing swarms:    47%  Writing swarms:    48%  Writing swarms:    48%  Writing swarms:    49%  Writing swarms:    49%  Writing swarms:    50%  Writing swarms:    50%  Writing swarms:    51%  Writing swarms:    51%  Writing swarms:    52%  Writing swarms:    52%  Writing swarms:    53%  Writing swarms:    53%  Writing swarms:    54%  Writing swarms:    54%  Writing swarms:    55%  Writing swarms:    55%  Writing swarms:    56%  Writing swarms:    56%  Writing swarms:    57%  Writing swarms:    57%  Writing swarms:    58%  Writing swarms:    58%  Writing swarms:    59%  Writing swarms:    59%  Writing swarms:    60%  Writing swarms:    60%  Writing swarms:    61%  Writing swarms:    61%  Writing swarms:    62%  Writing swarms:    62%  Writing swarms:    63%  Writing swarms:    63%  Writing swarms:    64%  Writing swarms:    64%  Writing swarms:    65%  Writing swarms:    65%  Writing swarms:    66%  Writing swarms:    66%  Writing swarms:    67%  Writing swarms:    67%  Writing swarms:    68%  Writing swarms:    68%  Writing swarms:    69%  Writing swarms:    69%  Writing swarms:    70%  Writing swarms:    70%  Writing swarms:    71%  Writing swarms:    71%  Writing swarms:    72%  Writing swarms:    72%  Writing swarms:    73%  Writing swarms:    73%  Writing swarms:    74%  Writing swarms:    74%  Writing swarms:    75%  Writing swarms:    75%  Writing swarms:    76%  Writing swarms:    76%  Writing swarms:    77%  Writing swarms:    77%  Writing swarms:    78%  Writing swarms:    78%  Writing swarms:    79%  Writing swarms:    79%  Writing swarms:    80%  Writing swarms:    80%  Writing swarms:    81%  Writing swarms:    81%  Writing swarms:    82%  Writing swarms:    82%  Writing swarms:    83%  Writing swarms:    83%  Writing swarms:    84%  Writing swarms:    84%  Writing swarms:    85%  Writing swarms:    85%  Writing swarms:    86%  Writing swarms:    86%  Writing swarms:    87%  Writing swarms:    87%  Writing swarms:    88%  Writing swarms:    88%  Writing swarms:    89%  Writing swarms:    89%  Writing swarms:    90%  Writing swarms:    90%  Writing swarms:    91%  Writing swarms:    91%  Writing swarms:    92%  Writing swarms:    92%  Writing swarms:    93%  Writing swarms:    93%  Writing swarms:    94%  Writing swarms:    94%  Writing swarms:    95%  Writing swarms:    95%  Writing swarms:    96%  Writing swarms:    96%  Writing swarms:    97%  Writing swarms:    97%  Writing swarms:    98%  Writing swarms:    98%  Writing swarms:    99%  Writing swarms:    99%  Writing swarms:    100%  Writing swarms:    100%
+Writing seeds:     0%  Writing seeds:     0%  Writing seeds:     1%  Writing seeds:     1%  Writing seeds:     1%  Writing seeds:     2%  Writing seeds:     2%  Writing seeds:     3%  Writing seeds:     3%  Writing seeds:     4%  Writing seeds:     4%  Writing seeds:     5%  Writing seeds:     5%  Writing seeds:     6%  Writing seeds:     6%  Writing seeds:     7%  Writing seeds:     7%  Writing seeds:     8%  Writing seeds:     8%  Writing seeds:     9%  Writing seeds:     9%  Writing seeds:     10%  Writing seeds:     10%  Writing seeds:     11%  Writing seeds:     11%  Writing seeds:     12%  Writing seeds:     12%  Writing seeds:     13%  Writing seeds:     13%  Writing seeds:     14%  Writing seeds:     14%  Writing seeds:     15%  Writing seeds:     15%  Writing seeds:     16%  Writing seeds:     16%  Writing seeds:     17%  Writing seeds:     17%  Writing seeds:     18%  Writing seeds:     18%  Writing seeds:     19%  Writing seeds:     19%  Writing seeds:     20%  Writing seeds:     20%  Writing seeds:     21%  Writing seeds:     21%  Writing seeds:     22%  Writing seeds:     22%  Writing seeds:     23%  Writing seeds:     23%  Writing seeds:     24%  Writing seeds:     24%  Writing seeds:     25%  Writing seeds:     25%  Writing seeds:     26%  Writing seeds:     26%  Writing seeds:     27%  Writing seeds:     27%  Writing seeds:     28%  Writing seeds:     28%  Writing seeds:     29%  Writing seeds:     29%  Writing seeds:     30%  Writing seeds:     30%  Writing seeds:     31%  Writing seeds:     31%  Writing seeds:     32%  Writing seeds:     32%  Writing seeds:     33%  Writing seeds:     33%  Writing seeds:     34%  Writing seeds:     34%  Writing seeds:     35%  Writing seeds:     35%  Writing seeds:     36%  Writing seeds:     36%  Writing seeds:     37%  Writing seeds:     37%  Writing seeds:     38%  Writing seeds:     38%  Writing seeds:     39%  Writing seeds:     39%  Writing seeds:     40%  Writing seeds:     40%  Writing seeds:     41%  Writing seeds:     41%  Writing seeds:     42%  Writing seeds:     42%  Writing seeds:     43%  Writing seeds:     43%  Writing seeds:     44%  Writing seeds:     44%  Writing seeds:     45%  Writing seeds:     45%  Writing seeds:     46%  Writing seeds:     46%  Writing seeds:     47%  Writing seeds:     47%  Writing seeds:     48%  Writing seeds:     48%  Writing seeds:     49%  Writing seeds:     49%  Writing seeds:     50%  Writing seeds:     50%  Writing seeds:     51%  Writing seeds:     51%  Writing seeds:     52%  Writing seeds:     52%  Writing seeds:     53%  Writing seeds:     53%  Writing seeds:     54%  Writing seeds:     54%  Writing seeds:     55%  Writing seeds:     55%  Writing seeds:     56%  Writing seeds:     56%  Writing seeds:     57%  Writing seeds:     57%  Writing seeds:     58%  Writing seeds:     58%  Writing seeds:     59%  Writing seeds:     59%  Writing seeds:     60%  Writing seeds:     60%  Writing seeds:     61%  Writing seeds:     61%  Writing seeds:     62%  Writing seeds:     62%  Writing seeds:     63%  Writing seeds:     63%  Writing seeds:     64%  Writing seeds:     64%  Writing seeds:     65%  Writing seeds:     65%  Writing seeds:     66%  Writing seeds:     66%  Writing seeds:     67%  Writing seeds:     67%  Writing seeds:     68%  Writing seeds:     68%  Writing seeds:     69%  Writing seeds:     69%  Writing seeds:     70%  Writing seeds:     70%  Writing seeds:     71%  Writing seeds:     71%  Writing seeds:     72%  Writing seeds:     72%  Writing seeds:     73%  Writing seeds:     73%  Writing seeds:     74%  Writing seeds:     74%  Writing seeds:     75%  Writing seeds:     75%  Writing seeds:     76%  Writing seeds:     76%  Writing seeds:     77%  Writing seeds:     77%  Writing seeds:     78%  Writing seeds:     78%  Writing seeds:     79%  Writing seeds:     79%  Writing seeds:     80%  Writing seeds:     80%  Writing seeds:     81%  Writing seeds:     81%  Writing seeds:     82%  Writing seeds:     82%  Writing seeds:     83%  Writing seeds:     83%  Writing seeds:     84%  Writing seeds:     84%  Writing seeds:     85%  Writing seeds:     85%  Writing seeds:     86%  Writing seeds:     86%  Writing seeds:     87%  Writing seeds:     87%  Writing seeds:     88%  Writing seeds:     88%  Writing seeds:     89%  Writing seeds:     89%  Writing seeds:     90%  Writing seeds:     90%  Writing seeds:     91%  Writing seeds:     91%  Writing seeds:     92%  Writing seeds:     92%  Writing seeds:     93%  Writing seeds:     93%  Writing seeds:     94%  Writing seeds:     94%  Writing seeds:     95%  Writing seeds:     95%  Writing seeds:     96%  Writing seeds:     96%  Writing seeds:     97%  Writing seeds:     97%  Writing seeds:     98%  Writing seeds:     98%  Writing seeds:     99%  Writing seeds:     99%  Writing seeds:     100%  Writing seeds:     100%
+Writing UCLUST:    0%  Writing UCLUST:    0%  Writing UCLUST:    0%  Writing UCLUST:    1%  Writing UCLUST:    1%  Writing UCLUST:    2%  Writing UCLUST:    2%  Writing UCLUST:    3%  Writing UCLUST:    3%  Writing UCLUST:    4%  Writing UCLUST:    4%  Writing UCLUST:    5%  Writing UCLUST:    5%  Writing UCLUST:    6%  Writing UCLUST:    6%  Writing UCLUST:    7%  Writing UCLUST:    7%  Writing UCLUST:    8%  Writing UCLUST:    8%  Writing UCLUST:    9%  Writing UCLUST:    9%  Writing UCLUST:    10%  Writing UCLUST:    10%  Writing UCLUST:    11%  Writing UCLUST:    11%  Writing UCLUST:    12%  Writing UCLUST:    12%  Writing UCLUST:    13%  Writing UCLUST:    13%  Writing UCLUST:    14%  Writing UCLUST:    14%  Writing UCLUST:    15%  Writing UCLUST:    15%  Writing UCLUST:    16%  Writing UCLUST:    16%  Writing UCLUST:    17%  Writing UCLUST:    17%  Writing UCLUST:    18%  Writing UCLUST:    18%  Writing UCLUST:    19%  Writing UCLUST:    19%  Writing UCLUST:    20%  Writing UCLUST:    20%  Writing UCLUST:    21%  Writing UCLUST:    21%  Writing UCLUST:    22%  Writing UCLUST:    22%  Writing UCLUST:    23%  Writing UCLUST:    23%  Writing UCLUST:    24%  Writing UCLUST:    24%  Writing UCLUST:    25%  Writing UCLUST:    25%  Writing UCLUST:    26%  Writing UCLUST:    26%  Writing UCLUST:    27%  Writing UCLUST:    27%  Writing UCLUST:    28%  Writing UCLUST:    28%  Writing UCLUST:    29%  Writing UCLUST:    29%  Writing UCLUST:    30%  Writing UCLUST:    30%  Writing UCLUST:    31%  Writing UCLUST:    31%  Writing UCLUST:    32%  Writing UCLUST:    32%  Writing UCLUST:    33%  Writing UCLUST:    33%  Writing UCLUST:    34%  Writing UCLUST:    34%  Writing UCLUST:    35%  Writing UCLUST:    35%  Writing UCLUST:    36%  Writing UCLUST:    36%  Writing UCLUST:    37%  Writing UCLUST:    37%  Writing UCLUST:    38%  Writing UCLUST:    38%  Writing UCLUST:    39%  Writing UCLUST:    39%  Writing UCLUST:    40%  Writing UCLUST:    40%  Writing UCLUST:    41%  Writing UCLUST:    41%  Writing UCLUST:    42%  Writing UCLUST:    42%  Writing UCLUST:    43%  Writing UCLUST:    43%  Writing UCLUST:    44%  Writing UCLUST:    44%  Writing UCLUST:    45%  Writing UCLUST:    45%  Writing UCLUST:    46%  Writing UCLUST:    46%  Writing UCLUST:    47%  Writing UCLUST:    47%  Writing UCLUST:    48%  Writing UCLUST:    48%  Writing UCLUST:    49%  Writing UCLUST:    49%  Writing UCLUST:    50%  Writing UCLUST:    50%  Writing UCLUST:    51%  Writing UCLUST:    51%  Writing UCLUST:    52%  Writing UCLUST:    52%  Writing UCLUST:    53%  Writing UCLUST:    53%  Writing UCLUST:    54%  Writing UCLUST:    54%  Writing UCLUST:    55%  Writing UCLUST:    55%  Writing UCLUST:    56%  Writing UCLUST:    56%  Writing UCLUST:    57%  Writing UCLUST:    57%  Writing UCLUST:    58%  Writing UCLUST:    58%  Writing UCLUST:    59%  Writing UCLUST:    59%  Writing UCLUST:    60%  Writing UCLUST:    60%  Writing UCLUST:    61%  Writing UCLUST:    61%  Writing UCLUST:    62%  Writing UCLUST:    62%  Writing UCLUST:    63%  Writing UCLUST:    63%  Writing UCLUST:    64%  Writing UCLUST:    64%  Writing UCLUST:    65%  Writing UCLUST:    65%  Writing UCLUST:    66%  Writing UCLUST:    66%  Writing UCLUST:    67%  Writing UCLUST:    67%  Writing UCLUST:    68%  Writing UCLUST:    68%  Writing UCLUST:    69%  Writing UCLUST:    69%  Writing UCLUST:    70%  Writing UCLUST:    70%  Writing UCLUST:    71%  Writing UCLUST:    71%  Writing UCLUST:    72%  Writing UCLUST:    72%  Writing UCLUST:    73%  Writing UCLUST:    73%  Writing UCLUST:    74%  Writing UCLUST:    74%  Writing UCLUST:    75%  Writing UCLUST:    75%  Writing UCLUST:    76%  Writing UCLUST:    76%  Writing UCLUST:    77%  Writing UCLUST:    77%  Writing UCLUST:    78%  Writing UCLUST:    78%  Writing UCLUST:    79%  Writing UCLUST:    79%  Writing UCLUST:    80%  Writing UCLUST:    80%  Writing UCLUST:    81%  Writing UCLUST:    81%  Writing UCLUST:    82%  Writing UCLUST:    82%  Writing UCLUST:    83%  Writing UCLUST:    83%  Writing UCLUST:    84%  Writing UCLUST:    84%  Writing UCLUST:    85%  Writing UCLUST:    85%  Writing UCLUST:    86%  Writing UCLUST:    86%  Writing UCLUST:    87%  Writing UCLUST:    87%  Writing UCLUST:    88%  Writing UCLUST:    88%  Writing UCLUST:    89%  Writing UCLUST:    89%  Writing UCLUST:    90%  Writing UCLUST:    90%  Writing UCLUST:    91%  Writing UCLUST:    91%  Writing UCLUST:    92%  Writing UCLUST:    92%  Writing UCLUST:    93%  Writing UCLUST:    93%  Writing UCLUST:    94%  Writing UCLUST:    94%  Writing UCLUST:    95%  Writing UCLUST:    95%  Writing UCLUST:    96%  Writing UCLUST:    96%  Writing UCLUST:    97%  Writing UCLUST:    97%  Writing UCLUST:    98%  Writing UCLUST:    98%  Writing UCLUST:    99%  Writing UCLUST:    99%  Writing UCLUST:    100%  Writing UCLUST:    100%
+Writing stats:     0%  Writing stats:     0%  Writing stats:     0%  Writing stats:     1%  Writing stats:     1%  Writing stats:     2%  Writing stats:     2%  Writing stats:     3%  Writing stats:     3%  Writing stats:     4%  Writing stats:     4%  Writing stats:     5%  Writing stats:     5%  Writing stats:     6%  Writing stats:     6%  Writing stats:     7%  Writing stats:     7%  Writing stats:     8%  Writing stats:     8%  Writing stats:     9%  Writing stats:     9%  Writing stats:     10%  Writing stats:     10%  Writing stats:     11%  Writing stats:     11%  Writing stats:     12%  Writing stats:     12%  Writing stats:     13%  Writing stats:     13%  Writing stats:     14%  Writing stats:     14%  Writing stats:     15%  Writing stats:     15%  Writing stats:     16%  Writing stats:     16%  Writing stats:     17%  Writing stats:     17%  Writing stats:     18%  Writing stats:     18%  Writing stats:     19%  Writing stats:     19%  Writing stats:     20%  Writing stats:     20%  Writing stats:     21%  Writing stats:     21%  Writing stats:     22%  Writing stats:     22%  Writing stats:     23%  Writing stats:     23%  Writing stats:     24%  Writing stats:     24%  Writing stats:     25%  Writing stats:     25%  Writing stats:     26%  Writing stats:     26%  Writing stats:     27%  Writing stats:     27%  Writing stats:     28%  Writing stats:     28%  Writing stats:     29%  Writing stats:     29%  Writing stats:     30%  Writing stats:     30%  Writing stats:     31%  Writing stats:     31%  Writing stats:     32%  Writing stats:     32%  Writing stats:     33%  Writing stats:     33%  Writing stats:     34%  Writing stats:     34%  Writing stats:     35%  Writing stats:     35%  Writing stats:     36%  Writing stats:     36%  Writing stats:     37%  Writing stats:     37%  Writing stats:     38%  Writing stats:     38%  Writing stats:     39%  Writing stats:     39%  Writing stats:     40%  Writing stats:     40%  Writing stats:     41%  Writing stats:     41%  Writing stats:     42%  Writing stats:     42%  Writing stats:     43%  Writing stats:     43%  Writing stats:     44%  Writing stats:     44%  Writing stats:     45%  Writing stats:     45%  Writing stats:     46%  Writing stats:     46%  Writing stats:     47%  Writing stats:     47%  Writing stats:     48%  Writing stats:     48%  Writing stats:     49%  Writing stats:     49%  Writing stats:     50%  Writing stats:     50%  Writing stats:     51%  Writing stats:     51%  Writing stats:     52%  Writing stats:     52%  Writing stats:     53%  Writing stats:     53%  Writing stats:     54%  Writing stats:     54%  Writing stats:     55%  Writing stats:     55%  Writing stats:     56%  Writing stats:     56%  Writing stats:     57%  Writing stats:     57%  Writing stats:     58%  Writing stats:     58%  Writing stats:     59%  Writing stats:     59%  Writing stats:     60%  Writing stats:     60%  Writing stats:     61%  Writing stats:     61%  Writing stats:     62%  Writing stats:     62%  Writing stats:     63%  Writing stats:     63%  Writing stats:     64%  Writing stats:     64%  Writing stats:     65%  Writing stats:     65%  Writing stats:     66%  Writing stats:     66%  Writing stats:     67%  Writing stats:     67%  Writing stats:     68%  Writing stats:     68%  Writing stats:     69%  Writing stats:     69%  Writing stats:     70%  Writing stats:     70%  Writing stats:     71%  Writing stats:     71%  Writing stats:     72%  Writing stats:     72%  Writing stats:     73%  Writing stats:     73%  Writing stats:     74%  Writing stats:     74%  Writing stats:     75%  Writing stats:     75%  Writing stats:     76%  Writing stats:     76%  Writing stats:     77%  Writing stats:     77%  Writing stats:     78%  Writing stats:     78%  Writing stats:     79%  Writing stats:     79%  Writing stats:     80%  Writing stats:     80%  Writing stats:     81%  Writing stats:     81%  Writing stats:     82%  Writing stats:     82%  Writing stats:     83%  Writing stats:     83%  Writing stats:     84%  Writing stats:     84%  Writing stats:     85%  Writing stats:     85%  Writing stats:     86%  Writing stats:     86%  Writing stats:     87%  Writing stats:     87%  Writing stats:     88%  Writing stats:     88%  Writing stats:     89%  Writing stats:     89%  Writing stats:     90%  Writing stats:     90%  Writing stats:     91%  Writing stats:     91%  Writing stats:     92%  Writing stats:     92%  Writing stats:     93%  Writing stats:     93%  Writing stats:     94%  Writing stats:     94%  Writing stats:     95%  Writing stats:     95%  Writing stats:     96%  Writing stats:     96%  Writing stats:     97%  Writing stats:     97%  Writing stats:     98%  Writing stats:     98%  Writing stats:     99%  Writing stats:     99%  Writing stats:     100%  Writing stats:     100%
+
+Number of swarms:  436487
+Largest swarm:     169375
+Max generations:   18
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file SWARM_OTUs_f.fasta 100%
+159354093 nt in 436487 seqs, min 330, max 450, avg 365
+Getting sizes 100%
+Sorting 100%
+Median abundance: 6
+Writing output 100%
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file /share/databases/CREST/silvamod/silvamod128.fasta 100%
+774478109 nt in 530691 seqs, min 1199, max 3592, avg 1459
+Masking 100%
+Counting k-mers 100%
+Creating k-mer index 100%
+Detecting chimeras 100%
+Found 15128 (18.5%) chimeras, 66188 (80.9%) non-chimeras,
+and 464 (0.6%) borderline sequences in 81780 unique sequences.
+Taking abundance information into account, this corresponds to
+703717 (2.0%) chimeras, 33668150 (97.4%) non-chimeras,
+and 192646 (0.6%) borderline sequences in 34564513 total sequences.
+vsearch v2.7.1_linux_x86_64, 188.7GB RAM, 24 cores
+https://github.com/torognes/vsearch
+
+Reading file SWARM_OTUs_uchime_ref.fa 100%
+24092660 nt in 66188 seqs, min 330, max 450, avg 364
+Masking 100%
+Sorting by abundance 100%
+Counting k-mers 100%
+Detecting chimeras 100%
+Found 6468 (9.8%) chimeras, 59023 (89.2%) non-chimeras,
+and 697 (1.1%) borderline sequences in 66188 unique sequences.
+Taking abundance information into account, this corresponds to
+166394 (0.5%) chimeras, 33479561 (99.4%) non-chimeras,
+and 22195 (0.1%) borderline sequences in 33668150 total sequences.
+
+
+Building a new DB, current time: 08/26/2020 22:41:21
+New DB name:   /home/anders/Metamon/WP1/SWARM_WP1_20200826_18S/SWARM_OTUs_clean.fasta
+New DB title:  SWARM_OTUs_clean.fasta
+Sequence type: Nucleotide
+Keep MBits: T
+Maximum file size: 1000000000B
+Adding sequences from FASTA; added 59023 sequences in 1.46974 seconds.
+Loading required package: lulu
+Loading required package: methods
+Loading required package: dplyr
+
+Attaching package: ‘dplyr’
+
+The following objects are masked from ‘package:stats’:
+
+    filter, lag
+
+The following objects are masked from ‘package:base’:
+
+    intersect, setdiff, setequal, union
+
+[1] "progress: 100%"
+Making node list...
+..done
+Reading .map file
+..done
+Processing alignments and assigning query sequences...
+...done
+Traceback (most recent call last):
+  File "/usr/local/bin/classify", line 14, in <module>
+    sys.exit(LCAClassifier.classify.main())
+  File "/home/anders/CREST/LCAClassifier/src/LCAClassifier/classify.py", line 873, in main
+    lca.writeBI(biFile)
+  File "/home/anders/CREST/LCAClassifier/src/LCAClassifier/classify.py", line 512, in writeBI
+    biValue = float(self.biWeighted[i])/float(self.biAssigned[i])
+ZeroDivisionError: float division by zero

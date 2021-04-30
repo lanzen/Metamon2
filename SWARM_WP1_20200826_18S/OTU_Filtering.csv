@@ -1,0 +1,17 @@
+OTU,CREST,Genbank,Remove,Comment
+SWARM_0,Stramenopiles,Id to Yelllow Sea sediment but also water column,TRUE,Quite abundant everywhere
+SWARM_1,SAR,"Uncult. Diatoms and Chaetoceros, mostly water column (id)",TRUE,"Dominant in many platforms esp BAL, VFR, OSF, RIN and regional"
+SWARM_2,Stramenopiles,99% to Yelllow Sea sediment,FALSE,
+SWARM_3,Calanoida,Temora longicornis,TRUE,
+SWARM_4,Fungi,99.7% to sediment fr Svalbard,FALSE,
+SWARM_5,Stramenopiles,98-99% to Yelllow Sea sediment but also water column,TRUE,
+SWARM_6,Euglyphida,Antarctic waters,TRUE,Could be photosynthetic Paulinella
+SWARM_7,Alveolata,99% to Protoperidinium leonis from seawater,TRUE,
+SWARM_8,Calanoida ,Id. to Calanus spp.,TRUE,
+SWARM_11,Cryothecomonas,"Id. to samples from glacier, seawater",TRUE,
+SWARM_12,Thecofilosea,Id. to Antarctic seawater,TRUE,
+SWARM_14,Alveolata,"Syndiniales, unclutured, sediment",FALSE,
+SWARM_16,SAR,99% to sediment but also sea ice,FALSE,All SAR removed as with all superkingdom level classifications
+SWARM_18,MAST-1C ,"Id. to lots and lots of env. Seqs fr water, sediment, air",TRUE,
+SWARM_19,Alveolata,99.5% to sediment,FALSE,Parasitic dinoflagellate is hit 2
+SWARM_20,Ebria,Uncult. (98%),FALSE,

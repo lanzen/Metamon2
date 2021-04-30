@@ -1,0 +1,79 @@
+BLASTN 2.2.31+
+
+
+Reference: Zheng Zhang, Scott Schwartz, Lukas Wagner, and Webb
+Miller (2000), "A greedy algorithm for aligning DNA sequences", J
+Comput Biol 2000; 7(1-2):203-14.
+
+
+
+Database: SWARM_OTUs_curated_Assigned.fasta
+           25,319 sequences; 9,203,041 total letters
+
+
+
+Query= Raricirrus_beryli
+
+Length=1668
+                                                                      Score     E
+Sequences producing significant alignments:                          (Bits)  Value
+
+  SWARM_395 Main genome;Eukaryota;Opisthokonta;Metazoa (Animalia)...  675     0.0  
+
+
+> SWARM_395 Main genome;Eukaryota;Opisthokonta;Metazoa (Animalia);Annelida;Polychaeta
+Length=379
+
+ Score = 675 bits (365),  Expect = 0.0
+ Identities = 366/367 (99%), Gaps = 0/367 (0%)
+ Strand=Plus/Plus
+
+Query  1    GTACAGACTATCTGAGAGTGAAACTGCGAATGGCTCATTANATCAGCTATGGTTCCTTAG  60
+            |||||||||||||||||||||||||||||||||||||||| |||||||||||||||||||
+Sbjct  13   GTACAGACTATCTGAGAGTGAAACTGCGAATGGCTCATTAAATCAGCTATGGTTCCTTAG  72
+
+Query  61   ATCGTACAATCCTACTTGGATAACTGTAGTAATTCTAGAGCTAATACATGCAACCAGCTC  120
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  73   ATCGTACAATCCTACTTGGATAACTGTAGTAATTCTAGAGCTAATACATGCAACCAGCTC  132
+
+Query  121  CGACCTGCGAAGGGAAGAGCGCTTTTATTAGACCAAGACCAATCGGTGCCGGCTTCGCGC  180
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  133  CGACCTGCGAAGGGAAGAGCGCTTTTATTAGACCAAGACCAATCGGTGCCGGCTTCGCGC  192
+
+Query  181  CGACGCCGCCTCGTTGGTGACTCTGGATAACCTTGTGCCGATCGCACGGCCTCGTGCCGG  240
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  193  CGACGCCGCCTCGTTGGTGACTCTGGATAACCTTGTGCCGATCGCACGGCCTCGTGCCGG  252
+
+Query  241  CGACGAGTCTTACAAATGTCTGCCCTATCAACTTTCGAAGGTACTCGACATGACTACCTT  300
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  253  CGACGAGTCTTACAAATGTCTGCCCTATCAACTTTCGAAGGTACTCGACATGACTACCTT  312
+
+Query  301  GGTTTTCACGGGTAACGGGGAATCAGGGTTCGATTCCGGAGAGGGAGCATGAGAAACGGC  360
+            ||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||
+Sbjct  313  GGTTTTCACGGGTAACGGGGAATCAGGGTTCGATTCCGGAGAGGGAGCATGAGAAACGGC  372
+
+Query  361  TACCACA  367
+            |||||||
+Sbjct  373  TACCACA  379
+
+
+
+Lambda      K        H
+    1.33    0.621     1.12 
+
+Gapped
+Lambda      K        H
+    1.28    0.460    0.850 
+
+Effective search space used: 14130812940
+
+
+  Database: SWARM_OTUs_curated_Assigned.fasta
+    Posted date:  Nov 5, 2020  10:29 AM
+  Number of letters in database: 9,203,041
+  Number of sequences in database:  25,319
+
+
+
+Matrix: blastn matrix 1 -2
+Gap Penalties: Existence: 0, Extension: 2.5
