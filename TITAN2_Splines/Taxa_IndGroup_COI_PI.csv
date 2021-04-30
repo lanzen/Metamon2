@@ -1,0 +1,780 @@
+,pi
+root,0
+Cellular organisms,0
+Eukaryota,0
+Opisthokonta,0
+Metazoa,0
+Arthropoda,0
+Annelida,0
+Brachiopoda,0
+Bryozoa,0
+Chaetognatha,0
+Chordata,0
+Cnidaria,0
+Echinodermata,0
+Entoprocta,0
+Gastrotricha,0
+Gnathostomulida,0
+Hemichordata,0
+Mollusca,0
+Nematoda,0
+Nemertea,0
+Onychophora,0
+Platyhelminthes,0
+Porifera,0
+Priapulida,0
+Rotifera,0
+Malacostraca,0
+Branchiopoda,1
+Maxillopoda,3
+Ostracoda,0
+Hexanauplia,0
+Diplopoda,0
+Chilopoda,0
+Pycnogonida,5
+Clitellata,0
+Polychaeta,1
+Rhynchonellata,0
+Gymnolaemata,0
+Stenolaemata,0
+Sagittoidea,0
+Elasmobranchii,0
+Ascidiacea,1
+Thaliacea,0
+Anthozoa,0
+Hydrozoa,0
+Staurozoa,0
+Scyphozoa,0
+Crinoidea,0
+Echinoidea,0
+Holothuroidea,0
+Asteroidea,0
+Ophiuroidea,0
+Entoprocta cla,0
+Gastrotricha cla,0
+Gnathostomulida cla,0
+Enteropneusta,0
+Bivalvia,0
+Gastropoda,1
+Cephalopoda,0
+Polyplacophora,0
+Scaphopoda,0
+Caudofoveata,0
+Solenogastres,0
+Chromadorea,0
+Secernentea,0
+Adenophorea,1
+Anopla,0
+Enopla,0
+Onychophorida,0
+Rhabditophora,1
+Trematoda,0
+Acoela,0
+Nemertodermatida,0
+Demospongiae,0
+Hexactinellida,0
+Priapulimorpha,0
+Monogononta,0
+Bdelloidea,0
+Amphipoda,0
+Decapoda,0
+Mysida,0
+Isopoda,0
+Euphausiacea,0
+Cumacea,0
+Diplostraca,0
+Sessilia,0
+Harpacticoida,0
+Poecilostomatoida,0
+Pantopoda,0
+Haplotaxida,0
+Enchytraeida,0
+Sabellida,0
+Phyllodocida,0
+Terebellida,0
+Eunicida,0
+Opheliida,0
+Spionida,1
+Polychaeta or,0
+Amphinomida,0
+Canalipalpata,0
+Cheilostomatida,0
+Cyclostomatida,0
+Cyclostomata,0
+Phragmophora,0
+Carcharhiniformes,0
+Enterogona,0
+Scleractinia,0
+Zoantharia,0
+Alcyonacea,0
+Actiniaria,3
+Pennatulacea,0
+Ceriantharia,0
+Anthoathecata,0
+Leptothecata,0
+Limnomedusae,0
+Siphonophorae,0
+Trachymedusae,0
+Narcomedusae,1
+Stauromedusae,0
+Rhizostomeae,0
+Semaeostomeae,0
+Comatulida,0
+Echinoida,0
+Spatangoida,0
+Clypeasteroida,0
+Camaradonta,0
+Apodida,0
+Dendrochirotida,0
+Forcipulatida,0
+Paxillosida,0
+Valvatida,0
+Ophiurida,0
+Bursovaginoidea,0
+Mytilida,0
+Venerida,0
+Veneroida,0
+Cardiida,0
+Ostreoida,0
+Nuculida,0
+Bivalvia or,0
+Adapedonta,0
+Euheterodonta,0
+Nuculanoida,0
+Pholadomyoida,0
+Lucinoida,0
+Limoida,0
+Anomalodesmata,0
+Carditoida,0
+Littorinimorpha,0
+Gastropoda or,0
+Sorbeoconcha,0
+Neogastropoda,0
+Pulmonata,0
+Nudibranchia,0
+Caenogastropoda,0
+Basommatophora,0
+Stylommatophora,0
+Architaenioglossa,1
+Cephalaspidea,0
+Gymnosomata,0
+Anaspidea,0
+Mesogastropoda,0
+Sepiida,0
+Octopoda,0
+Chitonida,0
+Lepidopleurida,0
+Dentaliida,0
+Chaetodermatida,0
+Rhabditida,5
+Strongylida,0
+Aphelenchida,0
+Tylenchida,0
+Monhysterida,1
+Enoplida,0
+Chromadorida,0
+Trefusiida,0
+Palaeonemertea,0
+Anopla or,0
+Anura or,0
+Heteronemertea,0
+Monostilifera,1
+Euonychophora,0
+Tricladida,0
+Macrostomida,0
+Platyhelminthes or,0
+Plagiorchiida,0
+Childiidae order incertae sedis,1
+Haploposthiidae order incertae sedis,0
+Convolutidae order incertae sedis,0
+Diopisthoporidae order incertae sedis,0
+Isodiametridae order incertae sedis,0
+Mecynostomidae order incertae sedis,0
+Dakuidae order incertae sedis,0
+Ascopariidae order incertae sedis,0
+Nemertodermatidae order incertae sedis,0
+Haplosclerida,0
+Spirophorida,0
+Astrophorida,0
+Verongida,0
+Poecilosclerida,0
+Halichondrida,2
+Hadromerida,0
+Homosclerophorida,0
+Priapulimorphida,0
+Ploima,0
+Niphargidae,0
+Oedicerotidae,0
+Lysianassidae,0
+Aoridae,0
+Ampeliscidae,0
+Ischyroceridae,0
+Phoxocephalidae,0
+Urothoidae,0
+Photidae,0
+Bathyporeiidae,0
+Oregoniidae,0
+Aeglidae,0
+Paguridae,0
+Alpheidae,0
+Crangonidae,0
+Mysidae,0
+Cirolanidae,0
+Munnopsidae,0
+Euphausiidae,0
+Leuconidae,0
+Podonidae,0
+Balanidae,0
+Verrucidae,0
+Corycaeidae,0
+Naididae,0
+Enchytraeidae,0
+Siboglinidae,0
+Oweniidae,0
+Sabellidae,0
+Polynoidae,0
+Hesionidae,0
+Glyceridae,0
+Nephtyidae,0
+Pholoidae,0
+Goniadidae,0
+Sphaerodoridae,0
+Phyllodocidae,0
+Aphroditidae,0
+Pectinariidae,0
+Cirratulidae,0
+Terebellidae,0
+Ampharetidae,0
+Ctenodrilidae,0
+Onuphidae,0
+Dorvilleidae,0
+Opheliidae,0
+Spionidae,0
+Poecilochaetidae,0
+Maldanidae,0
+Paraonidae,0
+Capitellidae,0
+Orbiniidae,0
+Amphinomidae,0
+Polygordiidae,0
+Eukrohniidae,0
+Carcharhinidae,0
+Ascidiidae,0
+Caryophylliidae,0
+Epizoanthidae,0
+Alcyoniidae,0
+Actinostolidae,0
+Hormathiidae,0
+Metridiidae,0
+Edwardsiidae,0
+Halcampidae,0
+Pennatulidae,0
+Virgulariidae,0
+Cerianthidae,0
+Arachnactidae,0
+Hydractiniidae,0
+Tubulariidae,0
+Corynidae,0
+Oceaniidae,0
+Corymorphidae,0
+Bougainvilliidae,0
+Rathkeidae,0
+Boreohydridae,0
+Margelopsidae,0
+Eirenidae,0
+Campanulariidae,0
+Aequoreidae,0
+Haleciidae,0
+Lafoeidae,0
+Mitrocomidae,0
+Olindiidae,0
+Agalmatidae,0
+Apolemiidae,0
+Lucernariidae,0
+Cyaneidae,0
+Ulmaridae,0
+Strongylocentrotidae,0
+Loveniidae,0
+Spatangidae,0
+Brissidae,0
+Fibulariidae,0
+Echinidae,0
+Synaptidae,0
+Cucumariidae,0
+Phyllophoridae,0
+Asteriidae,0
+Luidiidae,0
+Poraniidae,0
+Ophiuridae,0
+Ophiactidae,0
+Amphiuridae,0
+Ophiotrichidae,0
+Onychognathiidae,0
+Mytilidae,0
+Veneridae,0
+Arcticidae,0
+Cardiidae,0
+Tellinidae,0
+Semelidae,0
+Nuculidae,0
+Mactridae,0
+Montacutidae,0
+Pharidae,0
+Hiatellidae,0
+Yoldiidae,0
+Cuspidariidae,0
+Thyasiridae,0
+Limidae,0
+Astartidae,0
+Naticidae,0
+Aporrhaidae,0
+Acteonidae,0
+Terebridae,0
+Buccinidae,0
+Conidae,0
+Dotidae,0
+Flabellinidae,0
+Polyceridae,0
+Onchidorididae,0
+Heroidae,0
+Epitoniidae,0
+Retusidae,0
+Philinidae,0
+Diaphanidae,0
+Scaphandridae,0
+Clionidae,0
+Aplysiidae,0
+Eulimidae,0
+Dentaliidae,0
+Limifossoridae,0
+Chaetodermatidae,0
+Chromadoridae,0
+Cephalothricidae,0
+Tubulanidae,0
+Hubrechtidae,0
+Lineidae,0
+Cerebratulidae,0
+Baseodiscidae,0
+Oerstediidae,0
+Haplopharyngidae,0
+Heterophyidae,0
+Childiidae,0
+Haploposthiidae,0
+Isodiametridae,0
+Mecynostomidae,0
+Ascopariidae,0
+Nemertodermatidae,0
+Ancorinidae,0
+Pachastrellidae,0
+Ianthellidae,0
+Microcionidae,0
+Hymedesmiidae,0
+Raspailiidae,0
+Desmacellidae,0
+Crellidae,0
+Cladorhizidae,0
+Heteroxyidae,0
+Axinellidae,0
+Suberitidae,0
+Polymastiidae,0
+Priapulidae,0
+Synchaetidae,0
+Niphargus,0
+Westwoodilla,0
+Hippomedon,0
+Ampelisca,0
+Byblis,0
+Jassa,0
+Harpinia,0
+Urothoe,0
+Megamphopus,0
+Bathyporeia,0
+Hyas,0
+Aegla,0
+Pagurus,0
+Alpheus,0
+Crangon,0
+Praunus,0
+Natatolana,0
+Notopais,0
+Thysanoessa,0
+Eudorella,0
+Evadne,0
+Podon,0
+Balanus,0
+Verruca,0
+Ditrichocorycaeus,0
+Tubificoides,0
+Grania (Enchytraeidae),0
+Siboglinum,0
+Owenia,0
+Galathowenia,0
+Chone,0
+Euchone,0
+Harmothoe,0
+Gattyana,0
+Bylgides,0
+Nereimyra,0
+Neogyptis,0
+Glycera,0
+Nephtys,0
+Aglaophamus,0
+Pholoe,0
+Glycinde,0
+Sphaerodorum,0
+Sphaerodoropsis,0
+Phyllodoce (Phyllodocidae),0
+Eumida,0
+Sige,0
+Laetmonice,0
+Pectinaria,0
+Cirratulus,0
+Chaetozone,0
+Tharyx,0
+Polycirrus,0
+Pista,0
+Mugga,0
+Anobothrus,0
+Eclysippe,0
+Raricirrus,0
+Nothria,0
+Paradiopatra,0
+Ophryotrocha,3
+Parougia,0
+Ophelina,0
+Prionospio,0
+Spiophanes,0
+Poecilochaetus,0
+Praxillella,0
+Aricidea,1
+Levinsenia,0
+Heteromastus,0
+Barantolla,0
+Dasybranchus,0
+Scoloplos,0
+Paramphinome,0
+Polygordius,0
+Eukrohnia,0
+Galeocerdo,0
+Phallusia,0
+Caryophyllia,0
+Epizoanthus,0
+Alcyonium,0
+Maractis,0
+Hormathia,0
+Actinauge,0
+Metridium,4
+Edwardsia,0
+Halcampa,0
+Pennatula,0
+Virgularia,0
+Pachycerianthus,0
+Isarachnanthus,0
+Hydractinia,0
+Ectopleura,0
+Sarsia,0
+Merona,0
+Corymorpha,0
+Euphysa,0
+Bougainvillia,0
+Rathkea,0
+Plotocnide,0
+Margelopsis,0
+Eutonina,0
+Tima,0
+Obelia,0
+Clytia,0
+Aequorea,0
+Halecium,0
+Lafoea,0
+Mitrocomella,0
+Gonionemus,0
+Agalma,0
+Nanomia,0
+Apolemia,0
+Lucernaria,0
+Cyanea,1
+Aurelia,0
+Strongylocentrotus,0
+Echinocardium,0
+Spatangus,0
+Brissopsis,1
+Echinocyamus,0
+Leptosynapta,3
+Trachythyone,0
+Pseudothyone,0
+Thyone,0
+Luidia,0
+Porania,0
+Ophiura,0
+Ophiocten,0
+Ophiopholis,0
+Ophiactis,0
+Amphipholis,0
+Amphiura,0
+Ophiothrix,0
+Valvognathia,0
+Mytilus,0
+Modiolus,0
+Dosinia,0
+Timoclea,0
+Arctica,0
+Parvicardium,0
+Acanthocardia,0
+Moerella,0
+Abra,0
+Ennucula,0
+Nucula,0
+Spisula,0
+Mysella,0
+Phaxas,0
+Hiatella,0
+Yoldiella,0
+Cardiomya,0
+Cuspidaria,0
+Thyasira,0
+Lima,0
+Astarte,0
+Euspira,0
+Cryptonatica,0
+Aporrhais,0
+Acteon,0
+Duplicaria,3
+Neptunea,0
+Buccinum,0
+Colus,0
+Propebela,0
+Doto,0
+Flabellina,0
+Polycera,0
+Onchidoris,0
+Hero,0
+Epitonium,0
+Retusa,0
+Philine,0
+Diaphana,0
+Cylichna,0
+Scaphander,0
+Clione,0
+Aplysia,0
+Haliella,0
+Antalis,0
+Scutopus,0
+Chaetoderma,0
+Falcidens,0
+Neochromadora,0
+Cephalothrix,1
+Tubulanus,0
+Hubrechtella,0
+Cerebratulus,0
+Micrura,1
+Pseudomicrura,0
+Tenuilineus,0
+Leucocephalonemertes,0
+Oxypolia,0
+Oerstedia,0
+Haplopharynx,0
+Cryptocotyle,0
+Childia,0
+Philactinoposthia,0
+Actinoposthia,0
+Haploposthia,0
+Hallangia,0
+Archaphanostoma,1
+Pseudmecynostomum,0
+Philomecynostomum,0
+Ascoparia,0
+Nemertoderma,0
+Stelletta,0
+Thenea,0
+Hexadella,0
+Clathria,0
+Eurypon,0
+Biemna,0
+Crella,0
+Asbestopluma,0
+Desmoxya,0
+Axinella,0
+Suberites,0
+Plicatellopsis,0
+Polymastia,0
+Priapulus,0
+Synchaeta,5
+Westwoodilla caecula,0
+Ampelisca diadema,0
+Byblis gaimardii,0
+Jassa herdmani,0
+Harpinia antennaria,0
+Urothoe elegans,3
+Megamphopus cornutus,0
+Hyas coarctatus,0
+Pagurus prideaux,0
+Alpheus bellulus,0
+Crangon allmanni,0
+Praunus flexuosus,0
+Natatolana borealis,0
+Thysanoessa inermis,0
+Eudorella emarginata,0
+Evadne spinifera,0
+Podon intermedius,1
+Verruca stroemia,4
+Ditrichocorycaeus anglicus,0
+Tubificoides amplivasatus,0
+Grania ovitheca,0
+Grania postclitellochaeta,0
+Siboglinum fiordicum,0
+Owenia fusiformis,0
+Galathowenia oculata,1
+Euchone rosea,0
+Harmothoe glabra,0
+Gattyana cirrhosa,0
+Nereimyra punctata,0
+Nereimyra woodsholea,0
+Neogyptis rosea,0
+Glycera alba,0
+Nephtys kersivalensis,3
+Nephtys hystricis,0
+Nephtys incisa,0
+Pholoe baltica,0
+Glycinde nordmanni,0
+Sphaerodoropsis cf. philippi,0
+Eumida bahusiensis,0
+Eumida ockelmanni,0
+Sige fusigera,0
+Laetmonice filicornis,0
+Pectinaria koreni,0
+Pectinaria auricoma,1
+Cirratulus cirratus,5
+Chaetozone gibber,0
+Polycirrus arcticus,0
+Mugga wahrbergi,0
+Anobothrus gracilis,0
+Eclysippe vanelli,0
+Raricirrus beryli,0
+Nothria conchylega CMC02,0
+Paradiopatra quadricuspis,0
+Parougia eliasoni,0
+Ophelina acuminata CMC02,0
+Ophelina cylindricaudata,1
+Prionospio dubia,0
+Spiophanes bombyx,0
+Spiophanes kroyeri,0
+Poecilochaetus serpens,0
+Aricidea laubieri,0
+Levinsenia gracilis,0
+Capitella capitata,4
+Scoloplos armiger,0
+Paramphinome jeffreysii,0
+Polygordius appendiculatus,0
+Caryophyllia smithii,0
+Epizoanthus paxi,0
+Epizoanthus paguricola,0
+Edwardsia longicornis,0
+Halcampa cf. duodecimcirrata,0
+Pennatula phosphorea,0
+Virgularia mirabilis,0
+Pachycerianthus borealis,0
+Hydractinia echinata,0
+Ectopleura larynx,0
+Sarsia princeps,0
+Sarsia tubulosa,0
+Merona cornucopiae,0
+Corymorpha nutans,0
+Euphysa aurata,1
+Bougainvillia muscus,0
+Plotocnide borealis,1
+Eutonina indicans,0
+Tima bairdii,0
+Clytia languida,0
+Halecium halecinum,0
+Mitrocomella polydiademata,1
+Agalma elegans,0
+Nanomia cara,1
+Cyanea capillata,0
+Aurelia aurita,0
+Echinocardium flavescens,1
+Echinocardium cordatum,0
+Spatangus purpureus,0
+Brissopsis lyrifera,1
+Echinocyamus pusillus,0
+Trachythyone elongata,0
+Pseudothyone raphanus,0
+Luidia sarsi,0
+Porania pulvillus,0
+Ophiura ophiura,0
+Ophiura sarsii,0
+Ophiocten affinis,0
+Ophiopholis aculeata,0
+Amphiura filiformis,1
+Amphiura chiajei,1
+Ophiothrix fragilis,0
+Valvognathia pogonostoma,0
+Mytilus edulis,0
+Modiolus modiolus,0
+Dosinia lupinus,0
+Timoclea ovata,0
+Arctica islandica,0
+Parvicardium minimum,0
+Acanthocardia echinata,0
+Moerella pygmaea,0
+Abra nitida,0
+Abra prismatica,0
+Abra longicallus,0
+Ennucula tenuis,0
+Nucula nucleus,0
+Nucula tumidula,0
+Spisula elliptica,0
+Mysella bidentata,0
+Phaxas pellucidus,0
+Yoldiella frigida,0
+Cuspidaria cuspidata,0
+Thyasira obsoleta,0
+Thyasira equalis,0
+Thyasira ferruginea,0
+Thyasira flexuosa,0
+Lima loscombi,0
+Astarte borealis,0
+Euspira fusca,0
+Euspira nitida,0
+Aporrhais pespelecani,0
+Acteon tornatilis,0
+Neptunea antiqua,0
+Buccinum undatum,0
+Doto coronata,0
+Flabellina pellucida,0
+Polycera quadrilineata,0
+Hero formosa,0
+Epitonium trevelyanum,0
+Retusa umbilicata,0
+Philine scabra,0
+Philine indistincta,1
+Diaphana minuta,0
+Cylichna cylindracea,0
+Scaphander lignarius,0
+Clione limacina,0
+Aplysia punctata,0
+Antalis entalis,1
+Scutopus ventrolineatus,0
+Chaetoderma nitidulum,0
+Falcidens crossotus,0
+Tubulanus annulatus,0
+Hubrechtella dubia,1
+Micrura fasciolata,0
+Micrura varicolor,0
+Pseudomicrura afzelii,0
+Tenuilineus albocinctus,0
+Leucocephalonemertes aurantiaca,0
+Oxypolia beaumontiana,0
+Oerstedia dorsalis,0
+Cryptocotyle lingua,0
+Childia macroposthium,0
+Actinoposthia haplovata,0
+Haploposthia lactomaculata,0
+Hallangia proporoides,0
+Stelletta normani,0
+Hexadella dedritifera,0
+Eurypon clavigerum,0
+Axinella infundibuliformis,0
+Plicatellopsis fragilis,0
+Polymastia cf. conigera AP2013,0
+Priapulus caudatus,1

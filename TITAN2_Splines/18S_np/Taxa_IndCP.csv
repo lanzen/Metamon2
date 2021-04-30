@@ -1,0 +1,964 @@
+"","NSI","piMetals","pi","piHC"
+"root",NA,NA,NA,NA
+"Main genome",NA,NA,NA,NA
+"Eukaryota",NA,NA,NA,NA
+"Opisthokonta",NA,NA,NA,NA
+"Excavata",NA,NA,NA,NA
+"Archaeplastida",NA,NA,NA,NA
+"SAR",NA,NA,NA,NA
+"Amoebozoa",NA,NA,NA,NA
+"Hacrobia",NA,0.414757799671593,0.100644157088123,0.109351851851852
+"DH147-EKD10",26.37,2.89433967911877,3.64231080237411,0.304259259259259
+"SA1-3C06",NA,NA,NA,NA
+"Eukaryota incertae sedis",27.35,NA,NA,NA
+"NAMAKO-1",18.45,2.7220620809387,3.64231080237411,3.16534722222222
+"D4P07G08",NA,NA,NA,NA
+"Apusozoa superkingdom incertae sedis",NA,NA,NA,NA
+"Breviatea superkingdom incertae sedis",NA,NA,NA,NA
+"Mantamonas superkingdom incertae sedis",NA,NA,NA,NA
+"Metazoa (Animalia)",NA,NA,NA,0.337962962962962
+"Fungi",7.005,2.7220620809387,3.24828725797072,4.07
+"Choanomonada",NA,NA,NA,NA
+"Cryptomycota Holomycota kingdom incertae sedis",NA,NA,NA,NA
+"Mesomycetozoa",NA,NA,NA,NA
+"Discicristoidea Holomycota kingdom incertae sedis",14,3.10183382081281,3.24828725797072,4.035
+"Mesomycetozoea",28.92,NA,NA,NA
+"Filasterea",NA,NA,NA,NA
+"Freshwater Opisthokonta",7.005,2.7220620809387,2.40866648706897,4.035
+"Discoba",NA,NA,NA,NA
+"Metamonada",NA,NA,NA,NA
+"Rhodophyceae",NA,NA,NA,NA
+"Alveolata",24.945,0.112876299945265,0.168149250440917,NA
+"Rhizaria",7.15,0.112876299945265,1.87884035949948,0.70962962962963
+"Stramenopiles",NA,3.10183382081281,3.5157965158046,3.16534722222222
+"Amoebozoa (kingdom)",NA,NA,NA,NA
+"Centrohelida",NA,NA,NA,NA
+"Palpitomonas kingdom incertae sedis",NA,NA,NA,NA
+"Apusozoa kingdom incertae sedis",25.95,NA,NA,NA
+"Breviatea kingdom incertae sedis",NA,NA,NA,NA
+"Mantamonas kingdom incertae sedis",NA,NA,NA,NA
+"Arthropoda",NA,NA,NA,NA
+"Nematoda",7.005,2.7220620809387,2.40866648706897,4.07
+"Chordata",NA,NA,NA,NA
+"Platyhelminthes",NA,NA,NA,NA
+"Mollusca",NA,NA,NA,NA
+"Rotifera",NA,NA,NA,NA
+"Annelida",25.655,NA,NA,NA
+"Cnidaria",NA,NA,NA,NA
+"Echinodermata",NA,NA,NA,NA
+"Brachiopoda",NA,NA,NA,NA
+"Tardigrada",NA,NA,NA,NA
+"Porifera",NA,NA,NA,NA
+"Hemichordata",NA,NA,NA,NA
+"Placozoa",NA,NA,NA,NA
+"Bryozoa",NA,NA,NA,NA
+"Ctenophora",NA,NA,NA,NA
+"Priapulida",NA,NA,NA,NA
+"Xenacoelomorpha",20.63,3.10183382081281,1.56084309004972,NA
+"Kinorhyncha",NA,NA,NA,NA
+"Nemertea",NA,NA,NA,NA
+"Gastrotricha",NA,NA,NA,NA
+"Chaetognatha",NA,NA,NA,NA
+"Gnathostomulida",NA,NA,NA,NA
+"Entoprocta",NA,NA,NA,NA
+"Loricifera",28.92,NA,NA,NA
+"Rhopaluridae phylum incertae sedis",NA,NA,NA,NA
+"Ascomycota",NA,NA,NA,NA
+"Basidiomycota",NA,NA,NA,NA
+"Blastocladiomycota",NA,NA,NA,NA
+"Chytridiomycota",NA,NA,NA,NA
+"Zoopagomycotina",NA,NA,NA,NA
+"Kickxellomycotina",NA,NA,NA,NA
+"Mucorales phylum incertae sedis",NA,NA,NA,NA
+"Basidiobolaceae phylum incertae sedis",NA,NA,NA,NA
+"Choanoflagellida",26.645,NA,NA,NA
+"Cryptomycota",NA,NA,NA,NA
+"LKM15",NA,NA,NA,NA
+"Ichthyophonidae",NA,NA,NA,NA
+"Pseudoperkinsidae",28.415,2.89433967911877,3.64231080237411,4.18416666666667
+"Abeoformidae",27.35,NA,NA,NA
+"Nucleariida",27.35,NA,NA,3.16534722222222
+"Dermocystida phylum incertae sedis",NA,NA,NA,NA
+"Ministeriida",NA,NA,NA,NA
+"Jakobida",NA,NA,NA,NA
+"Diplonemea",NA,NA,NA,NA
+"Fornicata",NA,NA,NA,NA
+"Preaxostyla",NA,NA,NA,NA
+"Stylonematales phylum incertae sedis",NA,NA,NA,NA
+"Rhodellophyceae phylum incertae sedis",NA,NA,NA,NA
+"Apicomplexa",NA,NA,NA,NA
+"Dinoflagellata",NA,NA,NA,NA
+"Ciliophora",24.555,NA,NA,0.242222222222223
+"Alveolata incertae sedis",NA,NA,NA,NA
+"OLI11255",28.415,NA,NA,NA
+"SGUH942",NA,NA,NA,NA
+"SCM37C52",NA,0.0912766830870279,NA,0.25462962962963
+"BOLA914",27.35,NA,NA,4.035
+"Colpodellida",NA,NA,NA,NA
+"Chromerida",7.03,0.849870005473454,0.955044699872285,0.304259259259259
+"Syndiniales class incertae sedis",NA,NA,NA,4.07
+"Cercozoa",27.35,NA,1.87884035949948,4.07
+"Retaria",7.005,NA,NA,NA
+"RM2-SGM51",7.15,3.10183382081281,3.24828725797072,3.16534722222222
+"Labyrinthulomycetes phylum incertae sedis",NA,NA,3.24828725797072,3.16534722222222
+"Peronosporomycetes phylum incertae sedis",NA,0.115739600437876,1.87884035949948,NA
+"Bicosoecida phylum incertae sedis",NA,NA,NA,NA
+"Hyphochytriomycetes phylum incertae sedis",NA,NA,NA,NA
+"Diatomea",NA,NA,NA,NA
+"Chrysophyceae phylum incertae sedis",NA,NA,NA,NA
+"Raphidophyceae phylum incertae sedis",NA,NA,NA,NA
+"Phaeothamniophyceae phylum incertae sedis",NA,NA,NA,NA
+"Bolidomonas phylum incertae sedis",NA,NA,NA,NA
+"Lobosa",27.35,NA,NA,NA
+"Protosporangiida",NA,NA,NA,NA
+"Gracilipodida",NA,NA,NA,NA
+"LKM74",NA,NA,NA,NA
+"Discosea (Amoebozoa (kingdom))",NA,NA,NA,NA
+"LEMD255",NA,NA,NA,NA
+"Centrohelea",27.35,NA,NA,NA
+"Palpitomonas phylum incertae sedis",NA,NA,NA,NA
+"Apusozoa",7.15,NA,NA,NA
+"Breviatea phylum incertae sedis",NA,NA,NA,NA
+"Mantamonas phylum incertae sedis",NA,NA,NA,NA
+"Maxillopoda",NA,0.368397646414889,0.100644157088123,4.035
+"Malacostraca",NA,NA,NA,NA
+"Branchiopoda",26,NA,NA,NA
+"Ostracoda",NA,NA,NA,NA
+"Enoplea",NA,NA,NA,NA
+"Chromadorea",7.005,3.10183382081281,3.5157965158046,4.07
+"Ascidiacea",27.845,NA,NA,NA
+"Thaliacea",NA,NA,NA,NA
+"Catenulida",NA,NA,NA,NA
+"Cestoda",NA,NA,NA,NA
+"Seriata",NA,NA,NA,NA
+"Trematoda",NA,NA,NA,NA
+"Macrostomida",NA,NA,NA,NA
+"Rhabdocoela class incertae sedis",NA,NA,NA,NA
+"Haplopharyngida class incertae sedis",NA,NA,NA,NA
+"Lecithoepitheliata class incertae sedis",NA,NA,NA,NA
+"Prolecithophora class incertae sedis",NA,NA,NA,NA
+"Gastropoda",NA,NA,NA,NA
+"Bivalvia",NA,NA,NA,NA
+"Polyplacophora",NA,NA,NA,NA
+"Scaphopoda",NA,NA,NA,NA
+"Caudofoveata",NA,NA,NA,NA
+"Protobranchia",NA,NA,NA,NA
+"Monogononta",NA,NA,NA,NA
+"Polychaeta",NA,NA,NA,NA
+"Oligochaeta order incertae sedis",NA,NA,NA,NA
+"Anthozoa",NA,NA,NA,0.190509259259259
+"Hydrozoa",27.44,NA,NA,NA
+"Myxosporea",NA,NA,NA,NA
+"Scyphozoa",NA,NA,NA,NA
+"Echinoidea",27.35,2.16796319102354,NA,NA
+"Holothuroidea",NA,NA,NA,NA
+"Asteroidea",NA,NA,NA,0.476851851851853
+"Ophiuroidea",22.955,0.0835351669403394,0.168149250440917,3.16534722222222
+"Phoroniformea",NA,NA,NA,NA
+"Rhynchonellata",NA,NA,NA,NA
+"Heterotardigrada",NA,NA,NA,NA
+"Demospongiae",27.35,NA,NA,NA
+"Calcarea",28.415,NA,NA,NA
+"Enteropneusta",NA,NA,NA,NA
+"Gymnolaemata",NA,NA,NA,NA
+"Stenolaemata",NA,NA,NA,NA
+"Typhlocoela",NA,NA,NA,NA
+"Priapulidae class incertae sedis",NA,NA,NA,NA
+"Acoela",7.15,2.89433967911877,2.28683429118774,3.03576388888889
+"Nemertodermatida",NA,NA,NA,NA
+"Homalorhagida class incertae sedis",NA,NA,NA,NA
+"Cyclorhagida class incertae sedis",NA,NA,NA,NA
+"Enopla",NA,NA,NA,NA
+"Heteronemertea",NA,NA,NA,NA
+"Palaeonemertea",NA,NA,2.40866648706897,3.66375
+"Macrodasyida class incertae sedis",NA,NA,NA,NA
+"Chaetonotida class incertae sedis",NA,NA,NA,NA
+"Sagittoidea",NA,NA,NA,NA
+"Bursovaginoidea class incertae sedis",NA,NA,NA,NA
+"Coloniales class incertae sedis",NA,NA,NA,NA
+"Rhopaluridae class incertae sedis",NA,NA,NA,NA
+"Sordariomycetes",NA,NA,NA,NA
+"Dothideomycetes",NA,NA,NA,NA
+"Leotiomycetes",27.35,NA,NA,NA
+"Eurotiomycetes",NA,NA,NA,NA
+"Pezizomycetes",NA,NA,NA,NA
+"Microbotryomycetes",NA,NA,NA,NA
+"Tremellomycetes",NA,NA,NA,NA
+"Ustilaginomycetes",NA,NA,NA,NA
+"Exobasidiomycetes",NA,NA,NA,NA
+"Blastocladiomycetes",NA,NA,NA,NA
+"Chytridiomycetes",28.29,2.89433967911877,3.64231080237411,4.18416666666667
+"Monoblepharidomycetes",NA,NA,NA,NA
+"Zoopagales class incertae sedis",NA,NA,NA,NA
+"Harpellales class incertae sedis",NA,NA,NA,NA
+"Mucorales class incertae sedis",NA,NA,NA,NA
+"Basidiobolaceae class incertae sedis",NA,NA,NA,NA
+"Craspedida",NA,NA,NA,NA
+"Acanthoecida",28.92,3.10183382081281,NA,NA
+"Clade L",NA,NA,0.617243203794928,0.190509259259259
+"LKM11",NA,NA,NA,NA
+"Rozella class incertae sedis",NA,NA,NA,NA
+"Paramicrosporidium class incertae sedis",NA,NA,NA,NA
+"Freshwater Ichthyosporeans 1",NA,NA,NA,NA
+"Pirum class incertae sedis",NA,NA,NA,NA
+"Nucleariidae class incertae sedis",NA,NA,NA,NA
+"Dermocystida class incertae sedis",NA,NA,NA,NA
+"Ministeridae",NA,NA,NA,NA
+"Capsasporidae",NA,NA,NA,0.19375
+"RM1-SGM49",7.15,3.10183382081281,3.24828725797072,3.66375
+"Andalucia class incertae sedis",NA,NA,NA,NA
+"SCM38C39 marine group",NA,NA,NA,NA
+"Rhynchopus class incertae sedis",NA,NA,NA,NA
+"Carpediomonas-like organisms",NA,NA,NA,NA
+"Oxymonadida class incertae sedis",NA,NA,NA,NA
+"Trimastix class incertae sedis",NA,NA,NA,NA
+"Paratrimastix class incertae sedis",NA,NA,NA,NA
+"Stylonematales class incertae sedis",NA,NA,NA,NA
+"Rhodellophyceae",NA,NA,NA,NA
+"Aconoidasida",NA,NA,NA,NA
+"Novel Apicomplexa Class 2",NA,3.10183382081281,3.64231080237411,NA
+"Novel Apicomplexa Class 1",27.845,NA,NA,NA
+"Gregarinasina",NA,NA,NA,NA
+"Cryptosporida",NA,NA,NA,NA
+"Coccidia",22.525,NA,NA,3.03576388888889
+"Dinophyceae",NA,NA,NA,NA
+"Dinoflagellata incertae sedis",NA,3.10183382081281,3.24828725797072,NA
+"SCM28C5",NA,NA,NA,NA
+"SCM28C1",NA,NA,NA,NA
+"Spirotrichea",7.03,3.10183382081281,3.24828725797072,4.035
+"Litostomatea",NA,NA,NA,NA
+"Armophorea",NA,NA,NA,NA
+"Heterotrichea",NA,NA,NA,NA
+"Oligohymenophorea",26.645,NA,NA,NA
+"Prostomatea",NA,NA,NA,NA
+"Colpodea",NA,NA,NA,NA
+"Plagiopylea",NA,NA,NA,NA
+"Phyllopharyngea",NA,NA,NA,NA
+"Nassophorea",NA,NA,NA,NA
+"IN2411",NA,2.54493384818008,3.24828725797072,4.07
+"Colponema class incertae sedis",NA,NA,NA,NA
+"Chromera class incertae sedis",NA,NA,NA,NA
+"Syndiniales",NA,2.54493384818008,NA,NA
+"RM2-SGM58",NA,NA,NA,NA
+"Chlorarachniophyta",27.35,NA,NA,NA
+"Granofilosea",28.92,NA,NA,NA
+"Phytomyxea",NA,2.54493384818008,2.28683429118774,4.07
+"Imbricatea",NA,NA,NA,NA
+"Cercozoa incertae sedis",26.37,NA,NA,NA
+"Thecofilosea",NA,NA,NA,NA
+"JJP-2003",NA,NA,NA,NA
+"Basal Group T",7.15,NA,NA,NA
+"7-2.3",NA,NA,NA,NA
+"Novel Clade Gran-4",27.35,NA,NA,NA
+"Metromonadea",NA,NA,NA,NA
+"Novel Clade 2",NA,3.10183382081281,NA,NA
+"Novel Clade 12",NA,NA,NA,NA
+"7-5.4",NA,3.10183382081281,3.5157965158046,3.16534722222222
+"N-Por",28.92,NA,NA,NA
+"CCW10",NA,3.10183382081281,3.24828725797072,NA
+"Novel Clade Gran-3",NA,NA,NA,NA
+"Novel Clade 10",NA,NA,NA,NA
+"Novel Clade Gran-6",NA,NA,NA,NA
+"Novel Clade 4",NA,NA,NA,NA
+"Novel Clade Gran-1",NA,NA,1.87884035949948,0.70962962962963
+"Novel Clade Gran-5",NA,NA,NA,NA
+"Vampyrellidae class incertae sedis",NA,NA,NA,NA
+"Cercomonadidae class incertae sedis",NA,NA,NA,NA
+"Glissomonadida class incertae sedis",NA,NA,NA,NA
+"Haplosporida",27.2,NA,NA,NA
+"Paradiniidae",27.35,0.112876299945265,NA,NA
+"RAD A",7.005,NA,NA,4.07
+"Polycystinea",NA,NA,NA,NA
+"AT4-94",NA,NA,NA,NA
+"Acantharia",25.85,NA,NA,NA
+"RAD B",7.005,NA,NA,NA
+"RAD C",NA,NA,NA,NA
+"Labyrinthulomycetes",7.005,3.10183382081281,3.5157965158046,4.18416666666667
+"Peronosporomycetes",27.845,NA,NA,NA
+"Bicosoecida class incertae sedis",NA,0.0835351669403394,0.192156996898376,0.0853703703703704
+"Hyphochytriomycetes",NA,NA,NA,NA
+"Coscinodiscophytina",NA,NA,NA,NA
+"ME-Euk-FW10",NA,NA,2.28683429118774,3.16534722222222
+"Bacillariophyceae",NA,NA,NA,NA
+"Chrysophyceae",NA,NA,NA,NA
+"Raphidophyceae",27.35,NA,1.87884035949948,3.16534722222222
+"Phaeothamniophyceae",NA,NA,NA,NA
+"Bolidomonas class incertae sedis",NA,NA,NA,NA
+"Discosea",27.35,NA,NA,NA
+"Tubulinea",27.35,NA,NA,3.66375
+"Protosporangiidae",NA,NA,NA,NA
+"Centramoebida",27.35,NA,NA,0.351851851851853
+"H15-6",NA,NA,NA,NA
+"H1-10",NA,NA,NA,NA
+"H26-1",NA,NA,NA,NA
+"Acanthocystidae class incertae sedis",NA,NA,NA,NA
+"Heterophryidae class incertae sedis",NA,NA,NA,NA
+"Palpitomonas class incertae sedis",NA,NA,NA,NA
+"Amastigomonas class incertae sedis",NA,NA,NA,NA
+"Rigifilida class incertae sedis",NA,NA,NA,NA
+"Chelonemonas class incertae sedis",NA,NA,NA,NA
+"Ancyromonadida class incertae sedis",NA,NA,NA,NA
+"Apusomonas class incertae sedis",NA,NA,NA,NA
+"Breviatea",NA,NA,NA,NA
+"Mantamonas class incertae sedis",NA,NA,NA,NA
+"Sessilia",NA,NA,NA,NA
+"Monstrilloida",NA,NA,NA,NA
+"Harpacticoida",NA,NA,NA,NA
+"Tantulocarida",NA,NA,NA,NA
+"Eucarida",NA,NA,NA,NA
+"Peracarida",28.92,NA,NA,0.166666666666667
+"Eumalacostraca",NA,NA,NA,NA
+"Diplostraca",NA,NA,NA,NA
+"Podocopida",NA,NA,NA,NA
+"Myodocopida",NA,NA,NA,NA
+"Mermithida",NA,NA,NA,NA
+"Triplonchida",24.945,2.54493384818008,1.12408083987107,0.226851851851852
+"Enoplida",18.45,3.10183382081281,2.40866648706897,3.16534722222222
+"Spirurida",NA,NA,NA,NA
+"Ascaridida",NA,NA,NA,NA
+"Desmodorida",NA,3.10183382081281,2.40866648706897,4.07
+"Araeolaimida",7.005,NA,NA,4.07
+"Monhysterida",NA,NA,NA,NA
+"Chromadorida",NA,3.10183382081281,NA,NA
+"Desmoscolecida",7.005,NA,NA,4.07
+"Enterogona",NA,NA,NA,NA
+"Stolidobranchia",NA,NA,NA,NA
+"Salpida",26.37,2.01418479748221,1.34969496898376,0.541666666666667
+"Catenulidae order incertae sedis",28.92,NA,0.111513752052545,0.356481481481482
+"Trypanorhyncha",NA,NA,NA,NA
+"Tetraphyllidea",NA,NA,NA,NA
+"Proseriata",NA,NA,NA,NA
+"Plagiorchiida",NA,NA,NA,NA
+"Azygiida",NA,NA,NA,NA
+"Prosorhynchoides order incertae sedis",NA,NA,NA,NA
+"Rhabdocoela",NA,NA,NA,NA
+"Haplopharyngida",NA,NA,NA,NA
+"Lecithoepitheliata",NA,NA,NA,NA
+"Prolecithophora",NA,NA,NA,NA
+"Heterobranchia",NA,0.102138067870826,2.40866648706897,NA
+"Caenogastropoda",NA,NA,NA,NA
+"Veneroida",NA,NA,NA,NA
+"Myoida",NA,NA,NA,NA
+"Lucinoida",NA,NA,NA,NA
+"Nuculanoida",27.44,NA,NA,NA
+"Pectinoida",NA,3.10183382081281,3.5157965158046,3.66375
+"Mytiloida",NA,2.07250316434045,NA,NA
+"Arcoida",NA,NA,NA,NA
+"Veneroida (Heteroconchia)",NA,2.07250316434045,3.64231080237411,0.553518518518519
+"Pholadomyoida",NA,NA,NA,NA
+"Neoloricata",NA,NA,NA,NA
+"Dentaliida",NA,NA,NA,NA
+"Gadilida",27.35,NA,NA,NA
+"Chaetodermatida",NA,NA,NA,NA
+"Nuculoida",NA,NA,NA,NA
+"Ploimida",NA,0.112876299945265,NA,NA
+"Flosculariacea",NA,NA,NA,NA
+"Spionida",27.35,NA,NA,NA
+"Terebellida",NA,NA,NA,NA
+"Protodrilus order incertae sedis",NA,NA,NA,NA
+"Capitellida",NA,3.10183382081281,3.64231080237411,4.18416666666667
+"Dinophilida",NA,NA,NA,NA
+"Opheliidae order incertae sedis",NA,NA,NA,NA
+"Orbiniidae order incertae sedis",NA,NA,NA,NA
+"Paraonidae order incertae sedis",NA,NA,NA,NA
+"Phyllodocida",NA,NA,NA,NA
+"Sabellida",NA,NA,NA,NA
+"Eunicida",NA,NA,NA,NA
+"Palpata Incertae Sedis",27.35,NA,NA,NA
+"Flabelligerida",NA,NA,NA,NA
+"Golfingiida",27.35,NA,NA,NA
+"Echiuroinea",NA,NA,NA,NA
+"Haplotaxida",NA,NA,NA,0.135462962962963
+"Actiniaria (Anthozoa)",NA,0.341481937602628,0.290982104847047,NA
+"Zoantharia",NA,NA,NA,NA
+"Ceriantharia",NA,2.01418479748221,NA,NA
+"Alcyonacea",NA,NA,NA,NA
+"Pennatulacea",NA,NA,NA,NA
+"Anthoathecata",NA,NA,NA,NA
+"Siphonophorae",7.03,3.10183382081281,3.5157965158046,4.035
+"Limnomedusae",NA,NA,NA,NA
+"Leptothecata",NA,NA,NA,NA
+"Trachymedusae",NA,NA,NA,NA
+"Narcomedusae (Hydrozoa)",NA,NA,NA,NA
+"Bivalvulida",NA,NA,NA,NA
+"Semaeostomeae",NA,NA,3.5157965158046,0.190509259259259
+"Coronatae",NA,NA,NA,NA
+"Stauromedusae",NA,NA,NA,NA
+"Terebratulida",NA,NA,NA,NA
+"Haplosclerida",NA,NA,NA,NA
+"Tetractinellida",NA,NA,NA,NA
+"Poecilosclerida",NA,NA,NA,NA
+"Suberitida",NA,NA,NA,NA
+"Bubarida",NA,NA,NA,NA
+"Axinellida",NA,NA,NA,NA
+"Biemnida",NA,NA,NA,NA
+"Verongiida",NA,NA,NA,NA
+"Tethyida",NA,NA,NA,NA
+"Leucosolenida",NA,NA,NA,NA
+"Clathrinida",NA,NA,NA,NA
+"Harrimaniidae order incertae sedis",NA,NA,NA,NA
+"Ptychoderidae order incertae sedis",NA,NA,NA,NA
+"Ctenostomatida",NA,NA,NA,NA
+"Cheilostomatida",27.845,NA,NA,NA
+"Cyclostomatida",NA,NA,NA,NA
+"Tubuliporida",NA,NA,NA,NA
+"Cydippida",NA,NA,NA,NA
+"Priapulidae order incertae sedis",NA,NA,NA,NA
+"Nemertodermatidae order incertae sedis",25.155,0.108480432402846,0.153097062579821,NA
+"Homalorhagida",NA,NA,NA,NA
+"Cyclorhagida",27.35,NA,NA,0.578703703703704
+"Monostilifera",26.22,2.63490908935413,1.18976749224594,3.16534722222222
+"Hoplonemertea",NA,NA,NA,NA
+"Macrodasyida",NA,NA,NA,NA
+"Chaetonotida",28.29,NA,NA,NA
+"Aphragmophora",NA,0.442658730158731,0.329638980113118,0.162037037037037
+"Phragmophora",NA,NA,NA,NA
+"Bursovaginoidea",NA,NA,NA,NA
+"Coloniales",NA,NA,NA,NA
+"Rhopaluridae order incertae sedis",NA,NA,NA,NA
+"Microascales",23,1.81064159140668,0.872598142066533,NA
+"Hypocreales",27.44,NA,NA,NA
+"Sordariomycetes incertae sedis",NA,NA,NA,NA
+"Sordariales",NA,NA,NA,NA
+"Xylariales",NA,NA,NA,NA
+"Boliniales",NA,NA,NA,NA
+"Pleosporales",NA,NA,NA,NA
+"Helotiales",NA,NA,NA,NA
+"Eurotiales",27.35,NA,NA,NA
+"Chaetothyriales",7.005,NA,NA,NA
+"Arachnomycetales",NA,NA,NA,NA
+"Pezizales",NA,NA,NA,NA
+"Cystofilobasidiales",NA,NA,NA,NA
+"Tremellales",NA,NA,NA,NA
+"Ustilaginales",NA,NA,NA,NA
+"Malasseziales",NA,NA,NA,NA
+"Exobasidiales",NA,NA,NA,NA
+"Blastocladiales",NA,NA,NA,NA
+"Spizellomycetales",9.135,NA,3.24828725797072,4.18416666666667
+"Rhizophydiales",7.03,2.35783131499726,2.33761729440339,4.035
+"Chytridiales",NA,2.63490908935413,NA,NA
+"Lobulomycetales",NA,NA,0.334259487319832,2.98953125
+"Rhizophlyctidales",NA,0.115739600437876,NA,NA
+"Monoblepharidales",NA,1.53475814176245,NA,NA
+"Zoopagales",28.92,NA,NA,NA
+"Mucorales",NA,NA,NA,NA
+"Basidiobolaceae order incertae sedis",NA,NA,NA,NA
+"OLI11041",NA,NA,NA,NA
+"Salpingoecidae order incertae sedis",22.525,2.42572223932677,1.87884035949948,1.03592592592593
+"Codonosigidae order incertae sedis",NA,NA,NA,NA
+"Codosigidae order incertae sedis",NA,NA,NA,NA
+"Stephanoecidae order incertae sedis",22.525,2.35783131499726,1.77096161740558,0.853148148148148
+"Acanthoecidae order incertae sedis",28.92,NA,NA,NA
+"Rozella order incertae sedis",NA,NA,NA,NA
+"Paramicrosporidium order incertae sedis",NA,NA,NA,NA
+"Pirum order incertae sedis",NA,NA,NA,NA
+"Nucleariidae order incertae sedis",NA,NA,NA,NA
+"Dermocystida",NA,NA,NA,NA
+"Ministeria order incertae sedis",NA,NA,NA,NA
+"Marine Group",NA,NA,NA,NA
+"AT4-11",NA,NA,NA,NA
+"Andalucia order incertae sedis",NA,NA,NA,NA
+"Rhynchopus order incertae sedis",NA,NA,NA,NA
+"Dysnectes order incertae sedis",NA,NA,NA,NA
+"Carpediemonas order incertae sedis",NA,NA,NA,NA
+"Oxymonadida",9.135,3.10183382081281,3.64231080237411,4.18416666666667
+"Trimastix order incertae sedis",NA,NA,NA,NA
+"Paratrimastix order incertae sedis",NA,NA,NA,NA
+"Piroplasmorida",NA,NA,NA,NA
+"Eugregarinorida",NA,NA,NA,3.16534722222222
+"Archigregarinorida",NA,NA,NA,NA
+"Cryptosporidium order incertae sedis",NA,NA,NA,NA
+"Eimeriorina",NA,NA,NA,NA
+"Gymnodiniphycidae",NA,NA,NA,NA
+"Prorocentrales",NA,NA,NA,NA
+"Dinophyceae incertae sedis",NA,NA,NA,NA
+"Dinophysiales",26.645,NA,NA,NA
+"SL163A10",NA,NA,NA,NA
+"D244",27.44,NA,NA,NA
+"B7",NA,NA,NA,NA
+"Gonyaulacales",NA,NA,NA,NA
+"Podolampadaceae order incertae sedis",NA,NA,NA,NA
+"Euplotia",NA,NA,NA,NA
+"Hypotrichia",NA,NA,NA,NA
+"Oligotrichia",27.845,NA,NA,NA
+"Choreotrichia",24.945,2.7220620809387,NA,NA
+"Protohypotrichia",NA,NA,NA,NA
+"Licnophoria",NA,NA,NA,NA
+"Protocruzia order incertae sedis",NA,NA,NA,NA
+"Mesodiniidae order incertae sedis",NA,NA,NA,NA
+"Armophorida",NA,NA,NA,NA
+"Cariaco Basin group 1",NA,NA,NA,NA
+"Anigsteinia order incertae sedis",NA,NA,NA,NA
+"Eufolliculina order incertae sedis",NA,NA,NA,NA
+"Scuticociliatia",NA,3.10183382081281,3.5157965158046,0.190509259259259
+"Apostomatia",27.35,NA,NA,NA
+"Peritrichia",NA,NA,NA,NA
+"Peniculia",NA,NA,NA,NA
+"Cryptocaryon order incertae sedis",NA,NA,NA,NA
+"Placus order incertae sedis",NA,NA,NA,NA
+"Platyophryida",NA,NA,NA,NA
+"Cyrtolophosidida",NA,NA,NA,NA
+"Plagiopylida",NA,NA,NA,NA
+"Odontostomatida",NA,NA,NA,NA
+"Suctoria",NA,NA,NA,NA
+"Zosterodasys order incertae sedis",NA,NA,NA,NA
+"Colponema order incertae sedis",NA,NA,NA,NA
+"Chromera order incertae sedis",NA,NA,NA,NA
+"Syndiniales Group II",27.44,NA,NA,NA
+"Syndiniales Group I",NA,3.10183382081281,NA,NA
+"Syndiniales Group III",NA,NA,NA,4.18416666666667
+"Syndiniales Group V",NA,NA,NA,NA
+"Hematodinium order incertae sedis",NA,NA,NA,NA
+"Amoebophrya order incertae sedis",NA,NA,NA,NA
+"Duboscquella order incertae sedis",NA,NA,NA,NA
+"NOR26",NA,NA,NA,NA
+"Minorisa order incertae sedis",NA,NA,NA,NA
+"Massisteria order incertae sedis",NA,NA,NA,NA
+"Maullinia order incertae sedis",NA,NA,NA,NA
+"Phagomyxa order incertae sedis",NA,NA,NA,NA
+"Spongomonadida",NA,3.10183382081281,3.5157965158046,NA
+"Marimonadida",NA,3.10183382081281,3.5157965158046,NA
+"p15D09",9.135,NA,NA,4.18416666666667
+"Novel Clade 3",NA,0.0912766830870279,3.64231080237411,NA
+"Nudifila order incertae sedis",NA,NA,NA,NA
+"Euglyphida",NA,NA,NA,NA
+"Thaumatomonadida",NA,NA,NA,NA
+"Thecofilosea incertae sedis",28.92,NA,NA,NA
+"DSGM-50",NA,0.112876299945265,NA,NA
+"BOLA322",27.845,2.27048653872468,NA,0.194444444444444
+"NIF-3A7",NA,NA,NA,NA
+"Metopion order incertae sedis",NA,NA,NA,NA
+"Vampyrellidae order incertae sedis",7.005,2.7220620809387,2.66197146962233,4.18416666666667
+"Cercomonadidae order incertae sedis",NA,NA,NA,NA
+"Glissomonadida",NA,NA,NA,NA
+"Minchinia order incertae sedis",NA,NA,NA,NA
+"Nassellaria",NA,NA,NA,NA
+"Spumellaria",NA,1.73761802134647,NA,NA
+"Chaunocanthida",27.35,1.4435960591133,0.36475050173326,NA
+"Arthracanthida",NA,NA,NA,NA
+"Holocanthida",NA,NA,NA,NA
+"Acantharea Group VI",28.92,NA,NA,NA
+"Acantharea Group I",27.35,NA,NA,NA
+"Acantharea Group II",27.845,NA,NA,NA
+"HE001005.112",27.35,2.54493384818008,2.40866648706897,3.03576388888889
+"D2P04F01",7.005,2.54493384818008,2.66197146962233,4.18416666666667
+"Amphitremida",26.95,NA,2.28683429118774,3.03576388888889
+"PW19",7.005,NA,3.24828725797072,4.07
+"TAGIRI-17",7.005,NA,NA,NA
+"TAGIRI-15",NA,3.10183382081281,3.24828725797072,NA
+"D52",NA,NA,NA,NA
+"AI5F15RM1E10",7.03,2.89433967911877,2.66197146962233,3.03576388888889
+"Thraustochytriaceae order incertae sedis",NA,NA,NA,NA
+"Labyrinthulaceae order incertae sedis",NA,NA,NA,NA
+"Pythium order incertae sedis",NA,NA,NA,NA
+"Phytophthora order incertae sedis",NA,NA,NA,NA
+"Aphanomyces order incertae sedis",NA,NA,NA,NA
+"Olpidiopsis order incertae sedis",NA,NA,NA,NA
+"Halodaphnea order incertae sedis",NA,NA,NA,NA
+"Bicosoecida",NA,0.303010399562123,2.66197146962233,4.18416666666667
+"Hyphochytriales",NA,NA,NA,NA
+"Fragilariales",NA,NA,NA,NA
+"Coscinodiscus order incertae sedis",NA,NA,NA,NA
+"Actinoptychus order incertae sedis",NA,NA,NA,NA
+"Actinocyclus order incertae sedis",NA,NA,NA,NA
+"CCMP2297",NA,NA,NA,NA
+"Navicula order incertae sedis",NA,NA,NA,NA
+"Amphora order incertae sedis",NA,NA,NA,NA
+"Sellaphora order incertae sedis",NA,NA,NA,NA
+"Rhaphoneis order incertae sedis",NA,NA,NA,NA
+"Asterionellopsis order incertae sedis",NA,NA,NA,NA
+"Haslea order incertae sedis",NA,NA,NA,NA
+"Chromulinales",NA,NA,NA,NA
+"LG21-05",NA,NA,NA,NA
+"LG01-09",NA,NA,NA,NA
+"I76",26.645,0.124524493705528,0.222843915343915,1.19180555555556
+"E222",NA,2.89433967911877,NA,NA
+"Chattonellales",NA,2.27048653872468,2.66197146962233,4.18416666666667
+"Phaeothamniales",NA,NA,NA,NA
+"Bolidomonas order incertae sedis",NA,NA,NA,NA
+"Vannellida",NA,NA,NA,NA
+"Flabellinia",27.35,NA,NA,NA
+"Euamoebida",7.005,3.10183382081281,3.5157965158046,0.0698148148148149
+"Leptomyxida",NA,NA,NA,NA
+"Protosporangium order incertae sedis",NA,NA,NA,NA
+"Acanthocystidae order incertae sedis",NA,NA,NA,NA
+"Heterophryidae order incertae sedis",NA,NA,NA,NA
+"Palpitomonas order incertae sedis",NA,NA,NA,NA
+"Amastigomonas order incertae sedis",NA,NA,NA,NA
+"Rigifilida",26,0.746763820470717,0.383190415374323,0.25462962962963
+"Chelonemonas order incertae sedis",NA,NA,NA,NA
+"Ancyromonadida order incertae sedis",NA,NA,NA,NA
+"Apusomonas order incertae sedis",NA,NA,NA,NA
+"NAMAKO-2",18.45,3.10183382081281,3.24828725797072,3.16534722222222
+"Subulatomonas order incertae sedis",NA,NA,NA,NA
+"Mantamonas order incertae sedis",NA,NA,NA,NA
+"Catenulidae",NA,NA,NA,NA
+"Prosorhynchoides family incertae sedis",NA,NA,NA,NA
+"Kalyptorhynchia",NA,NA,NA,NA
+"Neodalyellida",NA,NA,NA,NA
+"Dalyellioida",NA,NA,NA,NA
+"Typhloplanoida",NA,NA,NA,NA
+"Opheliidae",NA,3.10183382081281,3.5157965158046,3.66375
+"Orbiniidae",NA,0.108480432402846,0.394985708204099,NA
+"Paraonidae",27.845,3.10183382081281,2.28683429118774,3.16534722222222
+"Harrimaniidae",28.29,NA,NA,NA
+"Ptychoderidae",NA,NA,NA,NA
+"Priapulidae",NA,NA,NA,NA
+"Nemertodermatidae",28.92,NA,NA,NA
+"Dactylopodolidae",NA,NA,NA,NA
+"Barentsiidae",NA,NA,NA,NA
+"Rhopaluridae",NA,NA,NA,NA
+"Ascobolaceae",NA,NA,NA,NA
+"Cystofilobasidiaceae",NA,NA,NA,NA
+"Malasseziales incertae sedis",NA,NA,NA,NA
+"Basidiobolaceae",NA,NA,2.28683429118774,4.115
+"Salpingoecidae",NA,NA,NA,NA
+"Codonosigidae",NA,NA,NA,NA
+"Codosigidae",NA,NA,NA,NA
+"Stephanoecidae",NA,NA,NA,NA
+"Acanthoecidae",NA,0.108480432402846,NA,NA
+"Rozella family incertae sedis",NA,NA,NA,NA
+"Paramicrosporidium family incertae sedis",NA,3.10183382081281,3.5157965158046,NA
+"Pirum family incertae sedis",NA,NA,NA,NA
+"Nucleariidae",NA,NA,NA,NA
+"Rhinosporideacae",NA,NA,NA,NA
+"Ministeria family incertae sedis",NA,NA,NA,NA
+"Andalucia family incertae sedis",NA,NA,NA,NA
+"Rhynchopus family incertae sedis",NA,NA,NA,NA
+"Dysnectes family incertae sedis",NA,NA,NA,NA
+"Carpediemonas family incertae sedis",NA,NA,NA,NA
+"Dinenympha family incertae sedis",NA,NA,NA,NA
+"Trimastix family incertae sedis",NA,NA,NA,NA
+"Paratrimastix family incertae sedis",NA,NA,NA,NA
+"Lankesteria family incertae sedis",27.845,NA,NA,4.18416666666667
+"Pterospora family incertae sedis",NA,NA,NA,NA
+"Selenidium family incertae sedis",NA,NA,NA,NA
+"Cryptosporidium family incertae sedis",NA,NA,NA,NA
+"Eimeria family incertae sedis",NA,NA,NA,NA
+"Sarcocystis family incertae sedis",NA,NA,NA,NA
+"Margolisiella family incertae sedis",NA,NA,NA,NA
+"Goussia family incertae sedis",NA,NA,NA,NA
+"Rhytidocystis family incertae sedis",NA,NA,NA,NA
+"Suessiaceae",27.44,NA,NA,NA
+"SCM27C9",NA,NA,NA,NA
+"Prorocentrum family incertae sedis",NA,NA,NA,NA
+"Exuviaella family incertae sedis",NA,NA,NA,NA
+"Azadinium family incertae sedis",NA,NA,NA,NA
+"Halostylodinium family incertae sedis",NA,NA,NA,NA
+"Sabulodinium family incertae sedis",NA,NA,NA,NA
+"Madanidinium family incertae sedis",NA,NA,NA,NA
+"Sinophysis family incertae sedis",27.845,NA,NA,NA
+"Neoceratium family incertae sedis",NA,NA,NA,NA
+"Podolampadaceae",NA,NA,NA,NA
+"Euplotes family incertae sedis",NA,NA,NA,NA
+"Discocephalus family incertae sedis",NA,NA,NA,NA
+"Aspidisca family incertae sedis",NA,NA,NA,0.162037037037037
+"Diophrys family incertae sedis",18.45,2.54493384818008,2.40866648706897,3.03576388888889
+"Paradiophrys family incertae sedis",NA,NA,NA,NA
+"Pseudokeronopsis family incertae sedis",NA,NA,NA,NA
+"Holosticha family incertae sedis",NA,NA,NA,NA
+"Amphisiella family incertae sedis",NA,NA,NA,NA
+"Arcuseries family incertae sedis",NA,NA,NA,NA
+"Uronychia family incertae sedis",NA,NA,NA,NA
+"Protogastrostyla family incertae sedis",27.35,NA,NA,NA
+"Apokeronopsis family incertae sedis",NA,NA,NA,NA
+"Pseudoamphisiella family incertae sedis",NA,NA,NA,NA
+"Epiclintes family incertae sedis",NA,NA,NA,NA
+"Tunicothrix family incertae sedis",NA,NA,NA,NA
+"Spirotrachelostyla family incertae sedis",NA,NA,NA,NA
+"Trachelostyla family incertae sedis",NA,NA,NA,NA
+"Strombidium family incertae sedis",NA,NA,NA,NA
+"Strombidinopsis family incertae sedis",NA,NA,NA,NA
+"Pelagostrobilidium family incertae sedis",NA,NA,NA,NA
+"Licnophora family incertae sedis",NA,NA,NA,NA
+"Protocruzia family incertae sedis",NA,NA,NA,NA
+"Mesodiniidae",NA,NA,NA,NA
+"Metopus family incertae sedis",NA,NA,NA,NA
+"Anigsteinia family incertae sedis",NA,NA,NA,NA
+"Eufolliculina family incertae sedis",NA,NA,NA,NA
+"Histiobalantium family incertae sedis",NA,NA,NA,NA
+"Pleuronema family incertae sedis",NA,NA,NA,NA
+"Philaster family incertae sedis",NA,NA,NA,NA
+"Homalogastra family incertae sedis",NA,NA,NA,NA
+"Mesanophrys family incertae sedis",NA,NA,NA,NA
+"Cyclidium family incertae sedis",25,NA,NA,NA
+"Paratetrahymena family incertae sedis",NA,NA,NA,NA
+"Miamiensis family incertae sedis",NA,NA,NA,NA
+"Cardiostomatella family incertae sedis",NA,NA,NA,NA
+"Sathrophilus family incertae sedis",NA,NA,NA,NA
+"Hyalophysa family incertae sedis",NA,NA,NA,NA
+"Cinetochilum family incertae sedis",NA,NA,NA,NA
+"Cothurnia family incertae sedis",NA,NA,NA,NA
+"Apocarchesium family incertae sedis",NA,NA,NA,NA
+"Frontonia family incertae sedis",NA,NA,NA,NA
+"Cryptocaryon family incertae sedis",27.35,0.481581828133552,0.389816335218634,NA
+"Placus family incertae sedis",NA,NA,NA,NA
+"Platyophrya family incertae sedis",NA,NA,NA,NA
+"Aristerostoma family incertae sedis",NA,NA,NA,NA
+"RM1-SG02",NA,NA,NA,NA
+"Trimyema family incertae sedis",NA,NA,NA,NA
+"Epalxella family incertae sedis",NA,NA,NA,NA
+"Acineta family incertae sedis",NA,NA,NA,NA
+"Ephelota family incertae sedis",NA,NA,NA,NA
+"Zosterodasys family incertae sedis",NA,NA,NA,NA
+"Colponema family incertae sedis",NA,NA,NA,NA
+"Chromera family incertae sedis",14,NA,3.5157965158046,3.66375
+"Hematodinium family incertae sedis",NA,NA,NA,NA
+"Amoebophrya family incertae sedis",NA,NA,NA,0.190509259259259
+"Duboscquella family incertae sedis",NA,NA,NA,NA
+"Minorisa family incertae sedis",NA,NA,NA,NA
+"Massisteria family incertae sedis",28.92,NA,NA,NA
+"Maullinia family incertae sedis",27.35,2.42572223932677,NA,4.18416666666667
+"Phagomyxa family incertae sedis",NA,NA,NA,NA
+"Spongomonas family incertae sedis",NA,0.266697454844006,0.107337050720671,NA
+"NAMAKO-15",27.845,NA,NA,NA
+"Auranticordis",23.4,0.481581828133552,0.290982104847047,0.282407407407407
+"BB01-173",NA,0.110994800218938,0.168149250440917,NA
+"Pseudopirsonia family incertae sedis",NA,NA,2.40866648706897,4.035
+"Nudifila family incertae sedis",NA,NA,NA,NA
+"Cyphoderiidae",NA,NA,NA,NA
+"Thaumatomonadidae",7.005,3.10183382081281,3.5157965158046,4.18416666666667
+"Peregriniidae",26.645,NA,NA,0.0853703703703704
+"Metopion family incertae sedis",NA,NA,NA,NA
+"Vampyrellidae",NA,2.7220620809387,3.5157965158046,4.07
+"Cercomonadidae",NA,NA,NA,NA
+"Heteromita family incertae sedis",NA,NA,NA,NA
+"Proleptomonas family incertae sedis",NA,NA,NA,NA
+"Minchinia family incertae sedis",NA,NA,NA,NA
+"Pseudocubus family incertae sedis",NA,NA,NA,NA
+"Triastrum family incertae sedis",NA,NA,NA,NA
+"Rhizosphaera family incertae sedis",NA,NA,NA,NA
+"Amphiacon family incertae sedis",NA,NA,NA,NA
+"Acanthometra family incertae sedis",NA,NA,NA,NA
+"Thraustochytriaceae",NA,NA,NA,NA
+"Labyrinthulaceae",NA,NA,NA,NA
+"Pythium family incertae sedis",NA,NA,NA,NA
+"Phytophthora family incertae sedis",NA,NA,NA,NA
+"Aphanomyces family incertae sedis",NA,NA,NA,NA
+"Olpidiopsis family incertae sedis",NA,NA,NA,NA
+"Halodaphnea family incertae sedis",NA,2.27048653872468,1.77096161740558,0.282407407407407
+"P34.6",NA,1.08454946633826,1.05379633430639,NA
+"Rictus family incertae sedis",NA,NA,NA,NA
+"Cafeteria family incertae sedis",NA,NA,NA,NA
+"Bicosoeca family incertae sedis",NA,NA,NA,NA
+"Pseudobodo family incertae sedis",NA,NA,NA,NA
+"Rhizidiomyces family incertae sedis",NA,NA,NA,NA
+"Coscinodiscus family incertae sedis",NA,NA,NA,NA
+"Actinoptychus family incertae sedis",NA,NA,NA,NA
+"Actinocyclus family incertae sedis",NA,NA,NA,NA
+"Navicula family incertae sedis",24.045,0.110994800218938,2.15047643279055,2.98953125
+"Amphora family incertae sedis",NA,NA,NA,NA
+"Sellaphora family incertae sedis",NA,NA,NA,NA
+"Rhaphoneis family incertae sedis",NA,0.110994800218938,0.168149250440917,NA
+"Asterionellopsis family incertae sedis",NA,NA,NA,NA
+"Haslea family incertae sedis",NA,NA,NA,NA
+"Uroglena family incertae sedis",NA,NA,NA,NA
+"Bolidomonas family incertae sedis",27.35,NA,NA,NA
+"Platyamoeba family incertae sedis",NA,NA,NA,NA
+"Vannella family incertae sedis",NA,NA,NA,NA
+"Dactylopodida",28.92,NA,NA,NA
+"Stygamoebida",NA,2.42572223932677,3.64231080237411,4.18416666666667
+"BOLA868",NA,NA,NA,NA
+"Hartmannella family incertae sedis",NA,NA,NA,NA
+"NETC3-I",NA,NA,NA,NA
+"Protosporangium family incertae sedis",NA,NA,NA,NA
+"Acanthocystidae",NA,NA,NA,NA
+"Heterophryidae",28.92,NA,NA,NA
+"Palpitomonas family incertae sedis",NA,NA,NA,NA
+"Amastigomonas family incertae sedis",NA,NA,NA,NA
+"Chelonemonas family incertae sedis",NA,NA,NA,NA
+"Ancyromonadida",NA,NA,NA,NA
+"Apusomonas family incertae sedis",NA,NA,NA,NA
+"Subulatomonas family incertae sedis",NA,NA,NA,NA
+"Mantamonas family incertae sedis",NA,NA,NA,NA
+"Prosorhynchoides",NA,NA,NA,NA
+"Saccobolus",NA,NA,NA,NA
+"Ascobolus",NA,NA,NA,NA
+"Malassezia",NA,NA,NA,NA
+"Lagenoeca",NA,3.10183382081281,NA,NA
+"Marine Choanoflagellates 1",NA,NA,NA,NA
+"Stephanoeca",NA,NA,NA,NA
+"Diaphanoeca",NA,NA,NA,NA
+"FV23-1A4",28.415,NA,NA,0.537037037037036
+"Rozella",NA,NA,NA,NA
+"Paramicrosporidium",NA,NA,NA,NA
+"Pirum",NA,NA,NA,NA
+"Nuclearia",22.525,NA,2.28683429118774,1.41668981481481
+"Ministeria",NA,NA,NA,NA
+"Andalucia",18.45,2.89433967911877,3.64231080237411,3.16534722222222
+"Dysnectes",NA,NA,NA,NA
+"Carpediemonas",NA,NA,NA,NA
+"Dinenympha",NA,NA,NA,NA
+"Trimastix",NA,NA,NA,NA
+"Paratrimastix",NA,NA,NA,NA
+"Lankesteria",NA,NA,NA,3.16534722222222
+"Pterospora",25,0.112876299945265,0.168149250440917,NA
+"Selenidium",NA,NA,NA,NA
+"Cryptosporidium",NA,NA,NA,NA
+"Eimeria",NA,NA,NA,NA
+"Margolisiella",NA,NA,NA,NA
+"Goussia",NA,NA,NA,NA
+"Rhytidocystis",NA,NA,NA,NA
+"Symbiodinium",NA,NA,NA,NA
+"Protodinium",27.35,NA,2.40866648706897,4.115
+"Prorocentrum",NA,NA,NA,NA
+"Exuviaella",NA,NA,NA,NA
+"Azadinium",27.35,0.110994800218938,NA,NA
+"Halostylodinium",NA,NA,NA,NA
+"Sabulodinium",NA,NA,NA,NA
+"Sinophysis",27.845,NA,NA,NA
+"Neoceratium",NA,NA,NA,NA
+"Euplotes",NA,NA,NA,NA
+"Discocephalus",NA,0.0912766830870279,0.138038983153926,0.476851851851853
+"Aspidisca",NA,NA,NA,NA
+"Diophrys",NA,NA,NA,NA
+"Paradiophrys",NA,NA,NA,NA
+"Pseudokeronopsis",26.745,NA,NA,0.347222222222222
+"Holosticha",27.35,NA,NA,NA
+"Amphisiella",19.95,0.368397646414889,0.346139694702914,0.187962962962962
+"Arcuseries",NA,NA,NA,NA
+"Uronychia",19.95,1.14655856595512,1.05379633430639,0.299629629629629
+"Protogastrostyla",14,3.10183382081281,3.5157965158046,NA
+"Apokeronopsis",NA,NA,NA,NA
+"Pseudoamphisiella",27.845,NA,NA,NA
+"Epiclintes",NA,NA,NA,NA
+"Tunicothrix",NA,NA,NA,NA
+"Spirotrachelostyla",26.645,NA,NA,NA
+"Trachelostyla",NA,NA,NA,NA
+"Strombidium",NA,NA,NA,NA
+"Strombidinopsis",NA,0.111637931034483,NA,NA
+"Pelagostrobilidium",NA,NA,NA,NA
+"Licnophora",NA,NA,NA,NA
+"Protocruzia",28.92,NA,NA,NA
+"Anigsteinia",NA,NA,NA,NA
+"Eufolliculina",NA,1.72987222906404,NA,NA
+"Histiobalantium",NA,0.0912766830870279,0.168149250440917,NA
+"Pleuronema",NA,NA,NA,NA
+"Philaster",NA,NA,NA,NA
+"Homalogastra",NA,NA,NA,NA
+"Mesanophrys",NA,NA,NA,NA
+"Cyclidium",NA,NA,NA,NA
+"Paratetrahymena",NA,0.849870005473454,0.329638980113118,0.162037037037037
+"Cardiostomatella",NA,NA,NA,NA
+"Sathrophilus",NA,NA,NA,NA
+"Hyalophysa",NA,NA,NA,NA
+"Cothurnia",NA,NA,NA,NA
+"Apocarchesium",NA,NA,NA,NA
+"Frontonia",NA,NA,NA,NA
+"Cryptocaryon",NA,NA,NA,NA
+"Placus",NA,NA,NA,NA
+"Epalxella",NA,NA,NA,NA
+"Acineta",25,0.111637931034483,0.125445630359423,0.282407407407407
+"Ephelota",NA,NA,NA,NA
+"Zosterodasys",NA,NA,NA,NA
+"Colponema",NA,NA,NA,NA
+"Hematodinium",NA,NA,NA,NA
+"Amoebophrya",NA,NA,NA,NA
+"Duboscquella",27.845,NA,NA,NA
+"Minorisa",27.845,NA,NA,3.16534722222222
+"Massisteria",22.525,0.124524493705528,1.99575406803047,1.13453703703704
+"Maullinia",NA,1.72987222906404,1.05379633430639,0.190509259259259
+"Phagomyxa",NA,NA,NA,NA
+"Spongomonas",NA,NA,NA,NA
+"Auranticordis quadriverberis genus incertae sedis",NA,NA,NA,NA
+"Pseudopirsonia",27.35,0.111637931034483,3.5157965158046,NA
+"Nudifila",27.35,1.57365216201423,3.64231080237411,0.351851851851853
+"Cyphoderia",NA,NA,NA,NA
+"Thaumatomastix",26.645,1.5794326423098,NA,NA
+"Allas",NA,0.112876299945265,NA,NA
+"Metopion",26.645,3.10183382081281,3.5157965158046,0.0853703703703704
+"Cercomonas",7.005,NA,3.5157965158046,4.18416666666667
+"Eocercomonas",NA,NA,NA,NA
+"Heteromita",NA,NA,NA,NA
+"Proleptomonas",NA,NA,NA,NA
+"Pseudocubus",NA,NA,NA,NA
+"Rhizosphaera",NA,NA,NA,NA
+"Amphiacon",NA,NA,NA,NA
+"Acanthometra",NA,NA,NA,NA
+"Thraustochytrium",NA,3.10183382081281,3.24828725797072,NA
+"Schizochytrium",27.35,NA,NA,NA
+"Aplanochytrium",NA,NA,NA,NA
+"BS1",NA,NA,NA,NA
+"Labyrinthuloides",9.135,3.10183382081281,3.5157965158046,3.16534722222222
+"E170",NA,NA,NA,NA
+"Labyrinthula",NA,NA,NA,NA
+"Aphanomyces",NA,NA,NA,NA
+"Olpidiopsis",26.015,NA,NA,NA
+"Halodaphnea",NA,1.4058412014231,1.38852036200815,0.513888888888889
+"Rictus",NA,NA,NA,NA
+"Cafeteria",NA,NA,NA,NA
+"Bicosoeca",NA,NA,NA,1.03592592592593
+"Pseudobodo",NA,NA,NA,NA
+"Coscinodiscus",22.525,2.35783131499726,NA,0.63425925925926
+"Actinoptychus",NA,NA,NA,NA
+"Actinocyclus",NA,NA,NA,NA
+"Navicula",7.005,2.54493384818008,3.5157965158046,4.07
+"Amphora",NA,NA,NA,NA
+"Sellaphora",NA,NA,NA,NA
+"Rhaphoneis",27.35,NA,NA,NA
+"Asterionellopsis",NA,NA,NA,NA
+"Uroglena",NA,NA,NA,0.162037037037037
+"Bolidomonas",7.005,0.120364668856048,0.168149250440917,4.115
+"Platyamoeba",7.005,NA,2.15047643279055,4.07
+"Paramoeba",NA,NA,NA,NA
+"Pseudoparamoeba",NA,NA,NA,NA
+"Vermistella",NA,NA,NA,NA
+"Pterocystis",NA,NA,NA,NA
+"Choanocystis",NA,NA,NA,NA
+"Palpitomonas",18.45,2.89433967911877,3.24828725797072,3.03576388888889
+"Amastigomonas",7.03,NA,NA,NA
+"Chelonemonas",NA,NA,NA,NA
+"Ancyromonas",NA,NA,NA,NA
+"Apusomonas",NA,NA,NA,NA
+"Subulatomonas",NA,NA,3.24828725797072,NA
+"Mantamonas",NA,NA,NA,NA
+"Ascobolus crenulatus",NA,NA,NA,NA
+"Pirum gemmata",26,NA,NA,NA
+"Ministeria vibrans",NA,NA,NA,NA
+"Carpediemonas membranifera",NA,NA,NA,NA
+"Paratrimastix pyriformis ATCC50562",NA,NA,NA,NA
+"Lankesteria chelyosomae",NA,NA,NA,NA
+"Sabulodinium undulatum",NA,NA,NA,NA
+"Sinophysis ebriola",NA,NA,NA,NA
+"Sinophysis stenosoma",NA,NA,NA,NA
+"Euplotes vannus",NA,NA,NA,NA
+"Discocephalus pararotatorius",NA,NA,NA,NA
+"Diophrys apoligothrix",NA,NA,NA,0.138888888888889
+"Diophrys scutum",NA,NA,NA,NA
+"Paradiophrys irmgard",NA,NA,NA,NA
+"Amphisiella candida",NA,NA,NA,NA
+"Apokeronopsis ovalis",NA,NA,NA,NA
+"Spirotrachelostyla tani",NA,NA,NA,NA
+"Strombidium capitatum",NA,NA,NA,NA
+"Strombidinopsis acuminata",NA,3.10183382081281,NA,NA
+"Protocruzia adherens",27.845,NA,NA,NA
+"Protocruzia granulosa",28.415,NA,NA,NA
+"Anigsteinia clarissima",NA,NA,NA,NA
+"Mesanophrys carcini",NA,NA,NA,NA
+"Cyclidium plouneouri",NA,NA,NA,NA
+"Colponema vietnamica",NA,NA,NA,NA
+"Massisteria marina",NA,NA,NA,NA
+"Phagomyxa bellerocheae",NA,NA,NA,NA
+"Pseudopirsonia mucosa",NA,NA,NA,NA
+"Proleptomonas faecicola",NA,NA,NA,NA
+"Aplanochytrium stocchinoi",NA,NA,NA,NA
+"Labyrinthuloides haliotidis",27.35,NA,NA,NA
+"Halodaphnea panulirata",23.3,NA,NA,NA
+"Rictus lutensis",NA,NA,NA,NA
+"Bicosoeca kenaiensis",7.15,NA,1.99575406803047,2.33550347222222
+"Bicosoeca vacillans",NA,NA,NA,NA
+"Pseudobodo tremulans",NA,NA,NA,NA
+"Coscinodiscus radiatus",NA,NA,2.28683429118774,3.16534722222222
+"Coscinodiscus granii",NA,NA,NA,NA
+"Actinoptychus undulatus",NA,NA,NA,NA
+"Actinocyclus curvatulus",NA,NA,NA,NA
+"Asterionellopsis glacialis",NA,NA,NA,NA
+"Paramoeba aestuarina",NA,NA,NA,NA
+"Paramoeba pemaquidensis",NA,NA,NA,NA
+"Vermistella antarctica",NA,3.10183382081281,3.64231080237411,4.18416666666667
+"Pterocystis tropica",NA,NA,NA,NA
+"Amastigomonas mutabilis",NA,3.10183382081281,3.5157965158046,NA
+"Amastigomonas bermudensis",NA,NA,NA,NA
+"Chelonemonas geobuk",NA,NA,NA,NA
+"Apusomonas proboscidea",NA,NA,NA,3.16534722222222
+"Mantamonas plastica",NA,NA,NA,NA

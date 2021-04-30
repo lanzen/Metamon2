@@ -1,0 +1,780 @@
+"","NSI","pi","piHC","piMetals"
+"root",0,0,0,0
+"Cellular organisms",0,0,0,0
+"Eukaryota",0,0,0,0
+"Opisthokonta",0,0,0,0
+"Metazoa",0,0,0,0
+"Arthropoda",0,0,0,0
+"Annelida",0,0,0,0
+"Brachiopoda",0,0,0,0
+"Bryozoa",0,0,0,0
+"Chaetognatha",0,0,0,0
+"Chordata",62.71,0,0,0
+"Cnidaria",0,0,0,0
+"Echinodermata",0,0,0,0
+"Entoprocta",0,0,0,0
+"Gastrotricha",0,0,0,0
+"Gnathostomulida",0,0,0,0
+"Hemichordata",0,0,0,0
+"Mollusca",95.65,0,0,0
+"Nematoda",0,0,0,0
+"Nemertea",0,0,0,0
+"Onychophora",0,0,0,0
+"Platyhelminthes",0,0,0,0
+"Porifera",0,0,0,0
+"Priapulida",0,0,0,0
+"Rotifera",0,0,0,0
+"Malacostraca",0,0,0,0
+"Branchiopoda",0,54.15,0,65.36
+"Maxillopoda",0,38.86,0,41.03
+"Ostracoda",0,0,0,0
+"Hexanauplia",0,0,0,0
+"Diplopoda",0,0,0,0
+"Chilopoda",0,0,0,0
+"Pycnogonida",0,53.38,54.98,61.98
+"Clitellata",0,0,0,55.15
+"Polychaeta",84.33,87.26,74.68,77.14
+"Rhynchonellata",0,0,0,0
+"Gymnolaemata",0,0,0,0
+"Stenolaemata",0,0,0,0
+"Sagittoidea",0,0,0,0
+"Elasmobranchii",0,0,0,0
+"Ascidiacea",76.01,78.77,94.16,84.91
+"Thaliacea",0,0,0,0
+"Anthozoa",69.89,0,0,0
+"Hydrozoa",67.62,0,0,0
+"Staurozoa",0,0,0,0
+"Scyphozoa",73.88,0,0,0
+"Crinoidea",84.1,0,0,0
+"Echinoidea",0,0,0,0
+"Holothuroidea",0,0,0,0
+"Asteroidea",0,0,0,0
+"Ophiuroidea",0,0,0,0
+"Entoprocta cla",0,0,0,0
+"Gastrotricha cla",0,0,0,0
+"Gnathostomulida cla",0,0,0,0
+"Enteropneusta",0,0,0,0
+"Bivalvia",0,0,0,0
+"Gastropoda",77.66,86.21,84.17,0
+"Cephalopoda",0,0,0,0
+"Polyplacophora",0,0,0,0
+"Scaphopoda",0,0,0,0
+"Caudofoveata",0,0,0,0
+"Solenogastres",0,0,0,0
+"Chromadorea",0,0,0,0
+"Secernentea",0,0,0,0
+"Adenophorea",66.11,72.91,68.87,73.01
+"Anopla",0,0,0,0
+"Enopla",0,0,0,0
+"Onychophorida",0,0,0,0
+"Rhabditophora",0,64.52,0,68.32
+"Trematoda",0,0,0,0
+"Acoela",0,0,0,0
+"Nemertodermatida",0,0,0,0
+"Demospongiae",73.04,0,0,0
+"Hexactinellida",0,0,0,0
+"Priapulimorpha",0,0,0,0
+"Monogononta",0,0,0,0
+"Bdelloidea",0,0,0,0
+"Amphipoda",0,0,0,0
+"Decapoda",74.76,0,0,0
+"Mysida",0,0,0,0
+"Isopoda",0,0,0,0
+"Euphausiacea",0,0,0,0
+"Cumacea",0,0,0,0
+"Diplostraca",0,0,0,0
+"Sessilia",0,0,0,0
+"Harpacticoida",0,0,0,0
+"Poecilostomatoida",0,0,0,0
+"Pantopoda",0,0,0,0
+"Haplotaxida",0,0,0,0
+"Enchytraeida",0,0,0,0
+"Sabellida",0,0,0,0
+"Phyllodocida",0,0,0,0
+"Terebellida",0,0,0,0
+"Eunicida",0,0,0,0
+"Opheliida",0,0,0,0
+"Spionida",0,73.52,77.71,0
+"Polychaeta or",0,0,0,0
+"Amphinomida",0,0,0,0
+"Canalipalpata",0,0,0,0
+"Cheilostomatida",0,0,0,0
+"Cyclostomatida",0,0,0,0
+"Cyclostomata",0,0,0,0
+"Phragmophora",0,0,0,0
+"Carcharhiniformes",0,0,0,0
+"Enterogona",0,0,0,70.91
+"Scleractinia",0,0,0,0
+"Zoantharia",0,0,0,0
+"Alcyonacea",0,0,0,0
+"Actiniaria",0,34.64,0,40.12
+"Pennatulacea",0,0,0,0
+"Ceriantharia",0,0,0,0
+"Anthoathecata",86.67,0,0,0
+"Leptothecata",0,0,0,0
+"Limnomedusae",0,0,0,0
+"Siphonophorae",65.03,0,0,0
+"Trachymedusae",0,0,0,0
+"Narcomedusae",0,26.46,35.03,24.27
+"Stauromedusae",0,0,0,0
+"Rhizostomeae",0,0,0,0
+"Semaeostomeae",0,0,0,0
+"Comatulida",0,0,0,0
+"Echinoida",0,0,0,0
+"Spatangoida",0,0,0,0
+"Clypeasteroida",0,0,0,0
+"Camaradonta",0,0,0,0
+"Apodida",0,0,0,0
+"Dendrochirotida",0,0,0,0
+"Forcipulatida",0,0,0,0
+"Paxillosida",0,0,0,0
+"Valvatida",0,0,0,0
+"Ophiurida",0,0,0,0
+"Bursovaginoidea",0,0,0,0
+"Mytilida",0,0,0,0
+"Venerida",0,0,0,0
+"Veneroida",0,0,0,0
+"Cardiida",0,0,0,0
+"Ostreoida",0,0,0,0
+"Nuculida",0,0,0,0
+"Bivalvia or",0,0,0,0
+"Adapedonta",0,0,0,0
+"Euheterodonta",0,0,0,0
+"Nuculanoida",0,0,0,0
+"Pholadomyoida",0,0,0,0
+"Lucinoida",0,0,0,0
+"Limoida",0,0,0,0
+"Anomalodesmata",0,0,0,0
+"Carditoida",0,0,0,0
+"Littorinimorpha",0,0,0,0
+"Gastropoda or",0,0,0,0
+"Sorbeoconcha",0,0,0,0
+"Neogastropoda",0,0,0,0
+"Pulmonata",0,0,0,0
+"Nudibranchia",0,0,0,0
+"Caenogastropoda",0,0,0,0
+"Basommatophora",67.18,0,0,0
+"Stylommatophora",66.43,0,0,0
+"Architaenioglossa",0,25.52,0,27.93
+"Cephalaspidea",0,0,0,0
+"Gymnosomata",0,0,0,0
+"Anaspidea",0,0,0,0
+"Mesogastropoda",0,0,0,0
+"Sepiida",0,0,0,0
+"Octopoda",0,0,0,0
+"Chitonida",0,0,0,0
+"Lepidopleurida",0,0,0,0
+"Dentaliida",0,0,0,0
+"Chaetodermatida",0,0,0,0
+"Rhabditida",63.17,92.41,58.7,95.15
+"Strongylida",0,0,0,0
+"Aphelenchida",0,0,0,0
+"Tylenchida",0,0,0,0
+"Monhysterida",0,77.72,46.69,91.07
+"Enoplida",0,0,0,0
+"Chromadorida",70.4,0,0,0
+"Trefusiida",0,0,0,0
+"Palaeonemertea",0,0,0,0
+"Anopla or",46.67,0,0,0
+"Anura or",0,0,0,0
+"Heteronemertea",0,0,0,0
+"Monostilifera",0,59.32,0,58.63
+"Euonychophora",81.64,0,0,46.43
+"Tricladida",0,0,0,0
+"Macrostomida",0,0,0,0
+"Platyhelminthes or",0,0,0,0
+"Plagiorchiida",0,0,0,0
+"Childiidae order incertae sedis",54.9,64.93,58.88,63.91
+"Haploposthiidae order incertae sedis",0,0,0,0
+"Convolutidae order incertae sedis",0,0,0,0
+"Diopisthoporidae order incertae sedis",0,0,0,0
+"Isodiametridae order incertae sedis",0,0,0,0
+"Mecynostomidae order incertae sedis",0,0,0,0
+"Dakuidae order incertae sedis",0,0,0,0
+"Ascopariidae order incertae sedis",0,0,0,0
+"Nemertodermatidae order incertae sedis",0,0,0,0
+"Haplosclerida",0,0,0,0
+"Spirophorida",0,0,0,0
+"Astrophorida",0,0,0,0
+"Verongida",0,0,0,0
+"Poecilosclerida",87.6,0,0,0
+"Halichondrida",67.86,88.35,60.83,66.43
+"Hadromerida",0,0,0,0
+"Homosclerophorida",0,0,0,0
+"Priapulimorphida",0,0,0,0
+"Ploima",68.44,0,0,0
+"Niphargidae",0,0,0,0
+"Oedicerotidae",0,0,0,0
+"Lysianassidae",0,0,0,0
+"Aoridae",0,0,0,0
+"Ampeliscidae",0,0,0,0
+"Ischyroceridae",0,0,0,0
+"Phoxocephalidae",0,0,0,0
+"Urothoidae",0,0,0,0
+"Photidae",0,0,0,0
+"Bathyporeiidae",0,0,0,0
+"Oregoniidae",0,0,0,0
+"Aeglidae",0,0,0,0
+"Paguridae",0,0,0,0
+"Alpheidae",0,0,0,0
+"Crangonidae",0,0,0,0
+"Mysidae",0,0,0,0
+"Cirolanidae",0,0,0,0
+"Munnopsidae",0,0,0,0
+"Euphausiidae",0,0,0,0
+"Leuconidae",0,0,0,0
+"Podonidae",0,0,0,0
+"Balanidae",0,0,0,0
+"Verrucidae",0,0,0,0
+"Corycaeidae",0,0,0,0
+"Naididae",0,0,0,0
+"Enchytraeidae",0,0,0,0
+"Siboglinidae",0,0,0,0
+"Oweniidae",0,0,0,0
+"Sabellidae",0,0,0,0
+"Polynoidae",0,0,0,0
+"Hesionidae",0,0,0,0
+"Glyceridae",0,0,0,0
+"Nephtyidae",0,0,0,0
+"Pholoidae",0,0,0,0
+"Goniadidae",0,0,0,0
+"Sphaerodoridae",0,0,0,0
+"Phyllodocidae",0,0,0,0
+"Aphroditidae",0,0,0,0
+"Pectinariidae",0,0,0,0
+"Cirratulidae",0,0,0,0
+"Terebellidae",0,0,0,0
+"Ampharetidae",0,0,0,0
+"Ctenodrilidae",0,0,0,0
+"Onuphidae",0,0,0,0
+"Dorvilleidae",0,0,0,0
+"Opheliidae",0,0,0,0
+"Spionidae",0,0,0,0
+"Poecilochaetidae",0,0,0,0
+"Maldanidae",0,0,0,0
+"Paraonidae",0,0,0,0
+"Capitellidae",0,0,0,0
+"Orbiniidae",0,0,0,0
+"Amphinomidae",0,0,0,0
+"Polygordiidae",0,0,0,0
+"Eukrohniidae",0,0,0,0
+"Carcharhinidae",0,0,0,0
+"Ascidiidae",0,0,0,0
+"Caryophylliidae",0,0,0,0
+"Epizoanthidae",0,0,0,0
+"Alcyoniidae",0,0,0,0
+"Actinostolidae",0,0,0,0
+"Hormathiidae",0,0,0,0
+"Metridiidae",0,0,0,0
+"Edwardsiidae",0,0,0,0
+"Halcampidae",0,0,0,0
+"Pennatulidae",0,0,0,0
+"Virgulariidae",0,0,0,0
+"Cerianthidae",0,0,0,0
+"Arachnactidae",0,0,0,0
+"Hydractiniidae",0,0,0,0
+"Tubulariidae",0,0,0,0
+"Corynidae",0,0,0,0
+"Oceaniidae",0,0,0,0
+"Corymorphidae",0,0,0,0
+"Bougainvilliidae",0,0,0,0
+"Rathkeidae",0,0,0,0
+"Boreohydridae",0,0,0,0
+"Margelopsidae",0,0,0,0
+"Eirenidae",0,0,0,0
+"Campanulariidae",0,0,0,0
+"Aequoreidae",0,0,0,0
+"Haleciidae",0,0,0,0
+"Lafoeidae",0,0,0,0
+"Mitrocomidae",0,0,0,0
+"Olindiidae",0,0,0,0
+"Agalmatidae",0,0,0,0
+"Apolemiidae",0,0,0,0
+"Lucernariidae",0,0,0,0
+"Cyaneidae",0,0,0,0
+"Ulmaridae",0,0,0,0
+"Strongylocentrotidae",0,0,0,0
+"Loveniidae",0,0,0,0
+"Spatangidae",0,0,0,0
+"Brissidae",0,0,0,0
+"Fibulariidae",0,0,0,0
+"Echinidae",0,0,0,97.17
+"Synaptidae",0,0,0,0
+"Cucumariidae",0,0,0,0
+"Phyllophoridae",0,0,0,0
+"Asteriidae",0,0,34.41,0
+"Luidiidae",0,0,0,0
+"Poraniidae",0,0,0,0
+"Ophiuridae",0,0,0,0
+"Ophiactidae",0,0,0,0
+"Amphiuridae",0,0,0,0
+"Ophiotrichidae",0,0,0,0
+"Onychognathiidae",0,0,0,0
+"Mytilidae",0,0,0,0
+"Veneridae",0,0,0,0
+"Arcticidae",0,0,0,0
+"Cardiidae",0,0,0,0
+"Tellinidae",0,0,0,0
+"Semelidae",0,0,0,0
+"Nuculidae",0,0,0,0
+"Mactridae",0,0,0,0
+"Montacutidae",0,0,0,0
+"Pharidae",0,0,0,0
+"Hiatellidae",0,0,0,0
+"Yoldiidae",0,0,0,0
+"Cuspidariidae",0,0,0,0
+"Thyasiridae",0,0,0,0
+"Limidae",0,0,0,0
+"Astartidae",0,0,0,0
+"Naticidae",0,0,0,0
+"Aporrhaidae",0,0,0,0
+"Acteonidae",0,0,0,0
+"Terebridae",0,0,0,0
+"Buccinidae",0,0,0,0
+"Conidae",0,0,0,0
+"Dotidae",0,0,0,0
+"Flabellinidae",0,0,0,0
+"Polyceridae",0,0,0,0
+"Onchidorididae",0,0,0,0
+"Heroidae",0,0,0,0
+"Epitoniidae",0,0,0,0
+"Retusidae",0,0,0,0
+"Philinidae",0,0,0,0
+"Diaphanidae",0,0,0,0
+"Scaphandridae",0,0,0,0
+"Clionidae",0,0,0,0
+"Aplysiidae",0,0,0,0
+"Eulimidae",0,0,0,0
+"Dentaliidae",0,0,0,0
+"Limifossoridae",0,0,0,0
+"Chaetodermatidae",0,0,0,0
+"Chromadoridae",0,0,0,0
+"Cephalothricidae",0,0,0,0
+"Tubulanidae",0,0,0,0
+"Hubrechtidae",0,0,0,0
+"Lineidae",0,0,0,0
+"Cerebratulidae",0,0,0,0
+"Baseodiscidae",0,0,0,0
+"Oerstediidae",0,0,0,0
+"Haplopharyngidae",0,0,0,0
+"Heterophyidae",0,0,0,0
+"Childiidae",0,0,0,0
+"Haploposthiidae",0,0,0,0
+"Isodiametridae",0,0,0,0
+"Mecynostomidae",0,0,0,0
+"Ascopariidae",0,0,0,0
+"Nemertodermatidae",0,0,0,0
+"Ancorinidae",0,0,0,0
+"Pachastrellidae",0,0,0,0
+"Ianthellidae",0,0,0,0
+"Microcionidae",0,0,0,0
+"Hymedesmiidae",0,0,0,0
+"Raspailiidae",0,0,0,0
+"Desmacellidae",0,0,0,0
+"Crellidae",0,0,0,0
+"Cladorhizidae",0,0,0,0
+"Heteroxyidae",0,0,0,0
+"Axinellidae",0,0,0,0
+"Suberitidae",0,0,0,0
+"Polymastiidae",0,0,0,0
+"Priapulidae",0,0,0,0
+"Synchaetidae",0,0,0,0
+"Niphargus",0,0,0,0
+"Westwoodilla",0,0,0,0
+"Hippomedon",0,0,0,0
+"Ampelisca",0,0,0,0
+"Byblis",0,0,0,0
+"Jassa",0,0,0,0
+"Harpinia",0,0,0,0
+"Urothoe",0,0,0,0
+"Megamphopus",0,0,0,0
+"Bathyporeia",0,0,0,0
+"Hyas",0,0,0,0
+"Aegla",0,0,0,0
+"Pagurus",0,0,0,0
+"Alpheus",0,0,0,0
+"Crangon",0,0,0,0
+"Praunus",0,0,0,0
+"Natatolana",0,0,0,0
+"Notopais",0,0,0,0
+"Thysanoessa",0,0,0,0
+"Eudorella",0,0,0,0
+"Evadne",44.63,0,0,0
+"Podon",0,0,0,0
+"Balanus",0,0,0,0
+"Verruca",0,0,0,0
+"Ditrichocorycaeus",0,0,0,0
+"Tubificoides",0,0,0,0
+"Grania (Enchytraeidae)",0,0,0,0
+"Siboglinum",0,0,0,0
+"Owenia",0,0,0,0
+"Galathowenia",0,0,0,0
+"Chone",0,0,0,0
+"Euchone",0,0,0,0
+"Harmothoe",0,0,0,0
+"Gattyana",0,0,0,0
+"Bylgides",0,0,0,0
+"Nereimyra",0,0,0,0
+"Neogyptis",0,0,0,0
+"Glycera",0,0,0,0
+"Nephtys",0,0,0,0
+"Aglaophamus",0,0,0,0
+"Pholoe",0,0,0,0
+"Glycinde",0,0,0,0
+"Sphaerodorum",0,0,0,0
+"Sphaerodoropsis",0,0,0,0
+"Phyllodoce (Phyllodocidae)",0,0,0,0
+"Eumida",0,0,0,0
+"Sige",0,0,0,0
+"Laetmonice",0,0,0,0
+"Pectinaria",0,0,0,0
+"Cirratulus",0,0,0,0
+"Chaetozone",0,0,0,0
+"Tharyx",0,0,0,0
+"Polycirrus",0,0,0,0
+"Pista",0,0,0,0
+"Mugga",0,0,0,0
+"Anobothrus",0,0,0,0
+"Eclysippe",0,0,0,0
+"Raricirrus",0,0,0,0
+"Nothria",0,0,0,0
+"Paradiopatra",0,0,0,0
+"Ophryotrocha",96.09,81.47,85.41,60.89
+"Parougia",0,0,0,0
+"Ophelina",0,0,0,0
+"Prionospio",77.09,0,0,70.55
+"Spiophanes",0,0,0,0
+"Poecilochaetus",0,0,0,0
+"Praxillella",0,0,0,0
+"Aricidea",0,55.55,54.98,0
+"Levinsenia",0,0,0,0
+"Heteromastus",0,0,0,0
+"Barantolla",45.18,0,28.22,0
+"Dasybranchus",0,0,0,0
+"Scoloplos",0,0,0,55.67
+"Paramphinome",0,0,0,57.92
+"Polygordius",0,0,0,0
+"Eukrohnia",0,0,0,0
+"Galeocerdo",0,0,0,0
+"Phallusia",0,0,0,0
+"Caryophyllia",0,0,0,0
+"Epizoanthus",0,0,0,0
+"Alcyonium",0,0,0,0
+"Maractis",0,0,0,0
+"Hormathia",0,0,0,0
+"Actinauge",0,0,0,0
+"Metridium",0,53.13,51.01,65.88
+"Edwardsia",53.63,0,0,0
+"Halcampa",0,0,0,0
+"Pennatula",0,0,0,0
+"Virgularia",0,0,0,0
+"Pachycerianthus",0,0,0,0
+"Isarachnanthus",0,0,0,0
+"Hydractinia",0,0,0,0
+"Ectopleura",0,0,0,0
+"Sarsia",0,0,0,0
+"Merona",0,0,0,0
+"Corymorpha",0,0,0,0
+"Euphysa",0,0,0,0
+"Bougainvillia",0,0,0,0
+"Rathkea",0,0,0,43.8
+"Plotocnide",0,0,0,0
+"Margelopsis",0,0,0,0
+"Eutonina",0,0,0,0
+"Tima",0,0,0,0
+"Obelia",0,0,0,0
+"Clytia",0,0,0,0
+"Aequorea",0,0,0,0
+"Halecium",0,0,0,0
+"Lafoea",0,0,0,0
+"Mitrocomella",0,0,0,0
+"Gonionemus",0,0,0,0
+"Agalma",0,0,0,0
+"Nanomia",0,0,0,0
+"Apolemia",0,0,0,0
+"Lucernaria",0,0,0,0
+"Cyanea",26.06,24.07,40.62,21.67
+"Aurelia",0,0,0,0
+"Strongylocentrotus",0,0,0,0
+"Echinocardium",0,0,0,0
+"Spatangus",0,0,0,0
+"Brissopsis",0,45.94,0,56.73
+"Echinocyamus",0,0,0,0
+"Leptosynapta",0,55.19,55.34,0
+"Trachythyone",0,0,0,0
+"Pseudothyone",0,0,0,0
+"Thyone",0,0,0,0
+"Luidia",0,0,0,0
+"Porania",0,0,0,0
+"Ophiura",0,0,0,0
+"Ophiocten",0,0,0,0
+"Ophiopholis",0,0,0,0
+"Ophiactis",0,0,0,0
+"Amphipholis",0,0,0,0
+"Amphiura",0,0,0,0
+"Ophiothrix",0,0,0,0
+"Valvognathia",0,0,0,0
+"Mytilus",0,0,0,0
+"Modiolus",0,0,0,0
+"Dosinia",0,0,0,0
+"Timoclea",0,0,0,0
+"Arctica",0,0,0,0
+"Parvicardium",0,0,0,0
+"Acanthocardia",0,0,0,0
+"Moerella",0,0,0,0
+"Abra",0,0,0,0
+"Ennucula",0,0,0,0
+"Nucula",0,0,0,0
+"Spisula",0,0,0,0
+"Mysella",0,0,0,0
+"Phaxas",0,0,0,0
+"Hiatella",0,0,0,0
+"Yoldiella",0,0,0,0
+"Cardiomya",0,0,0,0
+"Cuspidaria",0,0,0,0
+"Thyasira",0,0,0,0
+"Lima",0,0,0,0
+"Astarte",0,0,0,0
+"Euspira",0,0,0,0
+"Cryptonatica",0,0,0,0
+"Aporrhais",0,0,0,0
+"Acteon",0,0,0,0
+"Duplicaria",0,32.84,0,38.92
+"Neptunea",0,0,0,0
+"Buccinum",0,0,0,0
+"Colus",0,0,0,0
+"Propebela",0,0,0,0
+"Doto",0,0,0,0
+"Flabellina",0,0,0,0
+"Polycera",0,0,0,0
+"Onchidoris",0,0,0,0
+"Hero",0,0,0,0
+"Epitonium",0,0,0,0
+"Retusa",0,0,0,0
+"Philine",0,0,0,0
+"Diaphana",0,0,0,0
+"Cylichna",0,0,0,0
+"Scaphander",0,0,0,0
+"Clione",0,0,0,0
+"Aplysia",0,0,0,0
+"Haliella",0,0,0,0
+"Antalis",0,0,0,0
+"Scutopus",0,0,0,0
+"Chaetoderma",0,0,0,0
+"Falcidens",0,0,0,0
+"Neochromadora",79.11,0,70.21,0
+"Cephalothrix",0,73.16,64.27,73.34
+"Tubulanus",51.08,0,0,0
+"Hubrechtella",0,0,0,0
+"Cerebratulus",0,0,0,0
+"Micrura",0,29.76,0,0
+"Pseudomicrura",0,0,0,0
+"Tenuilineus",0,0,0,0
+"Leucocephalonemertes",0,0,0,0
+"Oxypolia",0,0,0,0
+"Oerstedia",0,0,0,0
+"Haplopharynx",0,0,0,0
+"Cryptocotyle",0,0,0,0
+"Childia",0,0,0,0
+"Philactinoposthia",0,0,0,0
+"Actinoposthia",0,0,0,0
+"Haploposthia",0,0,0,0
+"Hallangia",0,0,0,0
+"Archaphanostoma",31.52,53.12,28.15,73.99
+"Pseudmecynostomum",0,0,0,0
+"Philomecynostomum",0,0,0,0
+"Ascoparia",0,0,0,0
+"Nemertoderma",0,0,0,0
+"Stelletta",0,0,0,0
+"Thenea",0,0,0,0
+"Hexadella",0,0,0,0
+"Clathria",0,0,0,0
+"Eurypon",0,0,0,0
+"Biemna",0,0,0,0
+"Crella",0,0,0,0
+"Asbestopluma",0,0,0,0
+"Desmoxya",0,0,0,0
+"Axinella",0,0,0,0
+"Suberites",0,0,0,0
+"Plicatellopsis",0,0,0,0
+"Polymastia",0,0,0,0
+"Priapulus",0,0,0,0
+"Synchaeta",40.18,40.9,0,42.62
+"Westwoodilla caecula",0,0,0,0
+"Ampelisca diadema",0,0,0,0
+"Byblis gaimardii",0,0,0,0
+"Jassa herdmani",0,0,0,0
+"Harpinia antennaria",0,0,0,0
+"Urothoe elegans",0,26.21,30.59,0
+"Megamphopus cornutus",0,0,0,0
+"Hyas coarctatus",0,0,0,0
+"Pagurus prideaux",0,0,0,0
+"Alpheus bellulus",0,0,0,0
+"Crangon allmanni",0,0,0,0
+"Praunus flexuosus",0,0,0,0
+"Natatolana borealis",0,0,0,0
+"Thysanoessa inermis",0,0,0,0
+"Eudorella emarginata",0,0,0,0
+"Evadne spinifera",0,0,0,0
+"Podon intermedius",0,20.34,0,0
+"Verruca stroemia",0,27.43,0,40.38
+"Ditrichocorycaeus anglicus",0,0,0,0
+"Tubificoides amplivasatus",0,0,0,0
+"Grania ovitheca",0,0,0,0
+"Grania postclitellochaeta",0,0,0,0
+"Siboglinum fiordicum",0,0,0,0
+"Owenia fusiformis",70.25,0,0,61.18
+"Galathowenia oculata",21.67,20,42.31,20
+"Euchone rosea",0,0,0,0
+"Harmothoe glabra",0,0,0,0
+"Gattyana cirrhosa",0,0,0,0
+"Nereimyra punctata",0,0,0,0
+"Nereimyra woodsholea",0,0,0,0
+"Neogyptis rosea",0,0,0,0
+"Glycera alba",0,0,0,0
+"Nephtys kersivalensis",0,47.72,43.38,44.26
+"Nephtys hystricis",0,0,0,0
+"Nephtys incisa",0,0,0,0
+"Pholoe baltica",0,0,0,0
+"Glycinde nordmanni",0,0,0,0
+"Sphaerodoropsis cf. philippi",0,0,0,0
+"Eumida bahusiensis",28.1,0,0,0
+"Eumida ockelmanni",0,0,0,0
+"Sige fusigera",0,0,0,0
+"Laetmonice filicornis",0,0,0,0
+"Pectinaria koreni",72.52,0,0,0
+"Pectinaria auricoma",0,48.47,0,48.29
+"Cirratulus cirratus",58.32,52.16,51.6,61.94
+"Chaetozone gibber",0,0,0,0
+"Polycirrus arcticus",0,0,0,0
+"Mugga wahrbergi",0,0,0,0
+"Anobothrus gracilis",0,0,0,0
+"Eclysippe vanelli",0,0,0,0
+"Raricirrus beryli",0,0,0,0
+"Nothria conchylega CMC02",0,0,0,0
+"Paradiopatra quadricuspis",0,0,0,0
+"Parougia eliasoni",0,0,0,0
+"Ophelina acuminata CMC02",0,0,0,0
+"Ophelina cylindricaudata",0,26.86,0,31.14
+"Prionospio dubia",0,0,0,0
+"Spiophanes bombyx",70.14,0,0,0
+"Spiophanes kroyeri",0,0,0,0
+"Poecilochaetus serpens",0,0,0,0
+"Aricidea laubieri",0,0,0,0
+"Levinsenia gracilis",0,0,0,0
+"Capitella capitata",95.89,95.28,95.28,83.94
+"Scoloplos armiger",0,0,0,0
+"Paramphinome jeffreysii",0,0,0,65.8
+"Polygordius appendiculatus",0,0,0,0
+"Caryophyllia smithii",0,0,0,0
+"Epizoanthus paxi",0,0,0,0
+"Epizoanthus paguricola",0,0,0,0
+"Edwardsia longicornis",0,0,0,0
+"Halcampa cf. duodecimcirrata",0,0,0,0
+"Pennatula phosphorea",0,0,0,0
+"Virgularia mirabilis",0,0,30.63,0
+"Pachycerianthus borealis",0,0,0,0
+"Hydractinia echinata",0,0,0,0
+"Ectopleura larynx",0,0,0,0
+"Sarsia princeps",0,0,0,0
+"Sarsia tubulosa",0,0,0,0
+"Merona cornucopiae",0,0,0,0
+"Corymorpha nutans",0,0,0,0
+"Euphysa aurata",0,27.33,36.81,0
+"Bougainvillia muscus",0,0,0,0
+"Plotocnide borealis",74.41,71.76,0,72.07
+"Eutonina indicans",0,0,0,0
+"Tima bairdii",0,0,0,0
+"Clytia languida",0,0,0,45.91
+"Halecium halecinum",0,0,0,0
+"Mitrocomella polydiademata",46.82,48.53,0,75.33
+"Agalma elegans",0,0,0,0
+"Nanomia cara",43.66,55.3,0,83.91
+"Cyanea capillata",0,0,0,0
+"Aurelia aurita",0,0,0,0
+"Echinocardium flavescens",0,62.76,0,61.31
+"Echinocardium cordatum",67.9,0,0,0
+"Spatangus purpureus",0,0,0,0
+"Brissopsis lyrifera",0,42.34,42.84,37.28
+"Echinocyamus pusillus",0,0,0,0
+"Trachythyone elongata",0,0,0,0
+"Pseudothyone raphanus",0,0,0,0
+"Luidia sarsi",0,0,0,0
+"Porania pulvillus",0,0,0,0
+"Ophiura ophiura",0,0,0,0
+"Ophiura sarsii",87.28,0,0,0
+"Ophiocten affinis",0,0,0,0
+"Ophiopholis aculeata",0,0,0,0
+"Amphiura filiformis",0,62.4,0,81.98
+"Amphiura chiajei",0,22.03,0,21.5
+"Ophiothrix fragilis",0,0,0,0
+"Valvognathia pogonostoma",0,0,0,0
+"Mytilus edulis",0,0,0,0
+"Modiolus modiolus",0,0,0,0
+"Dosinia lupinus",0,0,0,0
+"Timoclea ovata",0,0,0,0
+"Arctica islandica",0,0,0,76.77
+"Parvicardium minimum",0,0,0,0
+"Acanthocardia echinata",0,0,0,0
+"Moerella pygmaea",0,0,0,0
+"Abra nitida",0,0,0,0
+"Abra prismatica",20,0,0,35.47
+"Abra longicallus",0,0,0,0
+"Ennucula tenuis",0,0,0,0
+"Nucula nucleus",0,0,0,0
+"Nucula tumidula",0,0,0,0
+"Spisula elliptica",0,0,0,0
+"Mysella bidentata",0,0,0,0
+"Phaxas pellucidus",0,0,0,0
+"Yoldiella frigida",0,0,0,0
+"Cuspidaria cuspidata",0,0,0,0
+"Thyasira obsoleta",0,0,0,0
+"Thyasira equalis",0,0,0,0
+"Thyasira ferruginea",0,0,0,0
+"Thyasira flexuosa",0,0,0,0
+"Lima loscombi",0,0,0,0
+"Astarte borealis",0,0,0,0
+"Euspira fusca",0,0,0,0
+"Euspira nitida",0,0,0,0
+"Aporrhais pespelecani",0,0,0,0
+"Acteon tornatilis",0,0,0,0
+"Neptunea antiqua",0,0,0,0
+"Buccinum undatum",0,0,0,0
+"Doto coronata",0,0,0,0
+"Flabellina pellucida",0,0,0,0
+"Polycera quadrilineata",0,0,0,0
+"Hero formosa",0,0,0,0
+"Epitonium trevelyanum",0,0,0,0
+"Retusa umbilicata",0,0,0,0
+"Philine scabra",0,0,0,0
+"Philine indistincta",28.88,30.26,34.08,0
+"Diaphana minuta",0,0,0,0
+"Cylichna cylindracea",0,0,0,0
+"Scaphander lignarius",0,0,0,0
+"Clione limacina",0,0,0,0
+"Aplysia punctata",0,0,0,0
+"Antalis entalis",0,41.08,0,0
+"Scutopus ventrolineatus",0,0,0,0
+"Chaetoderma nitidulum",0,0,0,0
+"Falcidens crossotus",0,0,0,0
+"Tubulanus annulatus",0,0,0,0
+"Hubrechtella dubia",0,55.78,61.42,54.04
+"Micrura fasciolata",0,0,0,0
+"Micrura varicolor",0,0,0,0
+"Pseudomicrura afzelii",0,0,0,0
+"Tenuilineus albocinctus",0,0,0,0
+"Leucocephalonemertes aurantiaca",0,0,0,0
+"Oxypolia beaumontiana",0,0,0,0
+"Oerstedia dorsalis",0,0,0,0
+"Cryptocotyle lingua",0,0,0,0
+"Childia macroposthium",0,0,0,0
+"Actinoposthia haplovata",0,0,0,0
+"Haploposthia lactomaculata",0,0,0,0
+"Hallangia proporoides",0,0,0,0
+"Stelletta normani",0,0,0,0
+"Hexadella dedritifera",0,0,0,0
+"Eurypon clavigerum",0,0,0,0
+"Axinella infundibuliformis",0,0,0,0
+"Plicatellopsis fragilis",0,0,0,0
+"Polymastia cf. conigera AP2013",0,0,0,0
+"Priapulus caudatus",0,38.43,31.21,54.73

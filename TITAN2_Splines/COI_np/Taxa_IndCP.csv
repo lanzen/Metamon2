@@ -1,0 +1,780 @@
+"","NSI","pi","piHC","piMetals"
+"root",NA,NA,NA,NA
+"Cellular organisms",NA,NA,NA,NA
+"Eukaryota",NA,NA,NA,NA
+"Opisthokonta",NA,NA,NA,NA
+"Metazoa",NA,NA,NA,NA
+"Arthropoda",NA,NA,NA,NA
+"Annelida",NA,NA,NA,NA
+"Brachiopoda",NA,NA,NA,NA
+"Bryozoa",NA,NA,NA,NA
+"Chaetognatha",NA,NA,NA,NA
+"Chordata",27.35,NA,NA,NA
+"Cnidaria",NA,NA,NA,NA
+"Echinodermata",NA,NA,NA,NA
+"Entoprocta",NA,NA,NA,NA
+"Gastrotricha",NA,NA,NA,NA
+"Gnathostomulida",NA,NA,NA,NA
+"Hemichordata",NA,NA,NA,NA
+"Mollusca",27.35,NA,NA,NA
+"Nematoda",NA,NA,NA,NA
+"Nemertea",NA,NA,NA,NA
+"Onychophora",NA,NA,NA,NA
+"Platyhelminthes",NA,NA,NA,NA
+"Porifera",NA,NA,NA,NA
+"Priapulida",NA,NA,NA,NA
+"Rotifera",NA,NA,NA,NA
+"Malacostraca",NA,NA,NA,NA
+"Branchiopoda",NA,0.168149250440917,NA,0.120364668856048
+"Maxillopoda",NA,0.215550538222952,NA,0.0835351669403394
+"Ostracoda",NA,NA,NA,NA
+"Hexanauplia",NA,NA,NA,NA
+"Diplopoda",NA,NA,NA,NA
+"Chilopoda",NA,NA,NA,NA
+"Pycnogonida",NA,1.87884035949948,4.17416666666667,1.72987222906404
+"Clitellata",NA,NA,NA,0.120364668856048
+"Polychaeta",22.525,3.5157965158046,2.33550347222222,2.9177750410509
+"Rhynchonellata",NA,NA,NA,NA
+"Gymnolaemata",NA,NA,NA,NA
+"Stenolaemata",NA,NA,NA,NA
+"Sagittoidea",NA,NA,NA,NA
+"Elasmobranchii",NA,NA,NA,NA
+"Ascidiacea",7.005,3.24828725797072,4.07,2.35783131499726
+"Thaliacea",NA,NA,NA,NA
+"Anthozoa",7.005,NA,NA,NA
+"Hydrozoa",28.415,NA,NA,NA
+"Staurozoa",NA,NA,NA,NA
+"Scyphozoa",7.15,NA,NA,NA
+"Crinoidea",27.35,NA,NA,NA
+"Echinoidea",NA,NA,NA,NA
+"Holothuroidea",NA,NA,NA,NA
+"Asteroidea",NA,NA,NA,NA
+"Ophiuroidea",NA,NA,NA,NA
+"Entoprocta cla",NA,NA,NA,NA
+"Gastrotricha cla",NA,NA,NA,NA
+"Gnathostomulida cla",NA,NA,NA,NA
+"Enteropneusta",NA,NA,NA,NA
+"Bivalvia",NA,NA,NA,NA
+"Gastropoda",7.15,3.24828725797072,3.66375,NA
+"Cephalopoda",NA,NA,NA,NA
+"Polyplacophora",NA,NA,NA,NA
+"Scaphopoda",NA,NA,NA,NA
+"Caudofoveata",NA,NA,NA,NA
+"Solenogastres",NA,NA,NA,NA
+"Chromadorea",NA,NA,NA,NA
+"Secernentea",NA,NA,NA,NA
+"Adenophorea",7.005,2.28683429118774,4.07,2.35783131499726
+"Anopla",NA,NA,NA,NA
+"Enopla",NA,NA,NA,NA
+"Onychophorida",NA,NA,NA,NA
+"Rhabditophora",NA,0.168149250440917,NA,0.110994800218938
+"Trematoda",NA,NA,NA,NA
+"Acoela",NA,NA,NA,NA
+"Nemertodermatida",NA,NA,NA,NA
+"Demospongiae",28.92,NA,NA,NA
+"Hexactinellida",NA,NA,NA,NA
+"Priapulimorpha",NA,NA,NA,NA
+"Monogononta",NA,NA,NA,NA
+"Bdelloidea",NA,NA,NA,NA
+"Amphipoda",NA,NA,NA,NA
+"Decapoda",28.92,NA,NA,NA
+"Mysida",NA,NA,NA,NA
+"Isopoda",NA,NA,NA,NA
+"Euphausiacea",NA,NA,NA,NA
+"Cumacea",NA,NA,NA,NA
+"Diplostraca",NA,NA,NA,NA
+"Sessilia",NA,NA,NA,NA
+"Harpacticoida",NA,NA,NA,NA
+"Poecilostomatoida",NA,NA,NA,NA
+"Pantopoda",NA,NA,NA,NA
+"Haplotaxida",NA,NA,NA,NA
+"Enchytraeida",NA,NA,NA,NA
+"Sabellida",NA,NA,NA,NA
+"Phyllodocida",NA,NA,NA,NA
+"Terebellida",NA,NA,NA,NA
+"Eunicida",NA,NA,NA,NA
+"Opheliida",NA,NA,NA,NA
+"Spionida",NA,3.5157965158046,3.66375,NA
+"Polychaeta or",NA,NA,NA,NA
+"Amphinomida",NA,NA,NA,NA
+"Canalipalpata",NA,NA,NA,NA
+"Cheilostomatida",NA,NA,NA,NA
+"Cyclostomatida",NA,NA,NA,NA
+"Cyclostomata",NA,NA,NA,NA
+"Phragmophora",NA,NA,NA,NA
+"Carcharhiniformes",NA,NA,NA,NA
+"Enterogona",NA,NA,NA,1.70553845101259
+"Scleractinia",NA,NA,NA,NA
+"Zoantharia",NA,NA,NA,NA
+"Alcyonacea",NA,NA,NA,NA
+"Actiniaria",NA,0.872598142066533,NA,2.01418479748221
+"Pennatulacea",NA,NA,NA,NA
+"Ceriantharia",NA,NA,NA,NA
+"Anthoathecata",7.005,NA,NA,NA
+"Leptothecata",NA,NA,NA,NA
+"Limnomedusae",NA,NA,NA,NA
+"Siphonophorae",12.135,NA,NA,NA
+"Trachymedusae",NA,NA,NA,NA
+"Narcomedusae",NA,0.329638980113118,0.148148148148148,0.442658730158731
+"Stauromedusae",NA,NA,NA,NA
+"Rhizostomeae",NA,NA,NA,NA
+"Semaeostomeae",NA,NA,NA,NA
+"Comatulida",NA,NA,NA,NA
+"Echinoida",NA,NA,NA,NA
+"Spatangoida",NA,NA,NA,NA
+"Clypeasteroida",NA,NA,NA,NA
+"Camaradonta",NA,NA,NA,NA
+"Apodida",NA,NA,NA,NA
+"Dendrochirotida",NA,NA,NA,NA
+"Forcipulatida",NA,NA,NA,NA
+"Paxillosida",NA,NA,NA,NA
+"Valvatida",NA,NA,NA,NA
+"Ophiurida",NA,NA,NA,NA
+"Bursovaginoidea",NA,NA,NA,NA
+"Mytilida",NA,NA,NA,NA
+"Venerida",NA,NA,NA,NA
+"Veneroida",NA,NA,NA,NA
+"Cardiida",NA,NA,NA,NA
+"Ostreoida",NA,NA,NA,NA
+"Nuculida",NA,NA,NA,NA
+"Bivalvia or",NA,NA,NA,NA
+"Adapedonta",NA,NA,NA,NA
+"Euheterodonta",NA,NA,NA,NA
+"Nuculanoida",NA,NA,NA,NA
+"Pholadomyoida",NA,NA,NA,NA
+"Lucinoida",NA,NA,NA,NA
+"Limoida",NA,NA,NA,NA
+"Anomalodesmata",NA,NA,NA,NA
+"Carditoida",NA,NA,NA,NA
+"Littorinimorpha",NA,NA,NA,NA
+"Gastropoda or",NA,NA,NA,NA
+"Sorbeoconcha",NA,NA,NA,NA
+"Neogastropoda",NA,NA,NA,NA
+"Pulmonata",NA,NA,NA,NA
+"Nudibranchia",NA,NA,NA,NA
+"Caenogastropoda",NA,NA,NA,NA
+"Basommatophora",7.005,NA,NA,NA
+"Stylommatophora",28.92,NA,NA,NA
+"Architaenioglossa",NA,0.100644157088123,NA,1.08454946633826
+"Cephalaspidea",NA,NA,NA,NA
+"Gymnosomata",NA,NA,NA,NA
+"Anaspidea",NA,NA,NA,NA
+"Mesogastropoda",NA,NA,NA,NA
+"Sepiida",NA,NA,NA,NA
+"Octopoda",NA,NA,NA,NA
+"Chitonida",NA,NA,NA,NA
+"Lepidopleurida",NA,NA,NA,NA
+"Dentaliida",NA,NA,NA,NA
+"Chaetodermatida",NA,NA,NA,NA
+"Rhabditida",12.135,2.97169262281062,3.66375,2.7220620809387
+"Strongylida",NA,NA,NA,NA
+"Aphelenchida",NA,NA,NA,NA
+"Tylenchida",NA,NA,NA,NA
+"Monhysterida",NA,0.168149250440917,0.117407407407407,0.108480432402846
+"Enoplida",NA,NA,NA,NA
+"Chromadorida",27.35,NA,NA,NA
+"Trefusiida",NA,NA,NA,NA
+"Palaeonemertea",NA,NA,NA,NA
+"Anopla or",23.46,NA,NA,NA
+"Anura or",NA,NA,NA,NA
+"Heteronemertea",NA,NA,NA,NA
+"Monostilifera",NA,2.33761729440339,NA,2.9177750410509
+"Euonychophora",28.92,NA,NA,0.120364668856048
+"Tricladida",NA,NA,NA,NA
+"Macrostomida",NA,NA,NA,NA
+"Platyhelminthes or",NA,NA,NA,NA
+"Plagiorchiida",NA,NA,NA,NA
+"Childiidae order incertae sedis",24.945,0.28354314906039,0.282407407407407,0.112876299945265
+"Haploposthiidae order incertae sedis",NA,NA,NA,NA
+"Convolutidae order incertae sedis",NA,NA,NA,NA
+"Diopisthoporidae order incertae sedis",NA,NA,NA,NA
+"Isodiametridae order incertae sedis",NA,NA,NA,NA
+"Mecynostomidae order incertae sedis",NA,NA,NA,NA
+"Dakuidae order incertae sedis",NA,NA,NA,NA
+"Ascopariidae order incertae sedis",NA,NA,NA,NA
+"Nemertodermatidae order incertae sedis",NA,NA,NA,NA
+"Haplosclerida",NA,NA,NA,NA
+"Spirophorida",NA,NA,NA,NA
+"Astrophorida",NA,NA,NA,NA
+"Verongida",NA,NA,NA,NA
+"Poecilosclerida",27.35,NA,NA,NA
+"Halichondrida",28.92,3.5157965158046,3.66375,2.54493384818008
+"Hadromerida",NA,NA,NA,NA
+"Homosclerophorida",NA,NA,NA,NA
+"Priapulimorphida",NA,NA,NA,NA
+"Ploima",28.92,NA,NA,NA
+"Niphargidae",NA,NA,NA,NA
+"Oedicerotidae",NA,NA,NA,NA
+"Lysianassidae",NA,NA,NA,NA
+"Aoridae",NA,NA,NA,NA
+"Ampeliscidae",NA,NA,NA,NA
+"Ischyroceridae",NA,NA,NA,NA
+"Phoxocephalidae",NA,NA,NA,NA
+"Urothoidae",NA,NA,NA,NA
+"Photidae",NA,NA,NA,NA
+"Bathyporeiidae",NA,NA,NA,NA
+"Oregoniidae",NA,NA,NA,NA
+"Aeglidae",NA,NA,NA,NA
+"Paguridae",NA,NA,NA,NA
+"Alpheidae",NA,NA,NA,NA
+"Crangonidae",NA,NA,NA,NA
+"Mysidae",NA,NA,NA,NA
+"Cirolanidae",NA,NA,NA,NA
+"Munnopsidae",NA,NA,NA,NA
+"Euphausiidae",NA,NA,NA,NA
+"Leuconidae",NA,NA,NA,NA
+"Podonidae",NA,NA,NA,NA
+"Balanidae",NA,NA,NA,NA
+"Verrucidae",NA,NA,NA,NA
+"Corycaeidae",NA,NA,NA,NA
+"Naididae",NA,NA,NA,NA
+"Enchytraeidae",NA,NA,NA,NA
+"Siboglinidae",NA,NA,NA,NA
+"Oweniidae",NA,NA,NA,NA
+"Sabellidae",NA,NA,NA,NA
+"Polynoidae",NA,NA,NA,NA
+"Hesionidae",NA,NA,NA,NA
+"Glyceridae",NA,NA,NA,NA
+"Nephtyidae",NA,NA,NA,NA
+"Pholoidae",NA,NA,NA,NA
+"Goniadidae",NA,NA,NA,NA
+"Sphaerodoridae",NA,NA,NA,NA
+"Phyllodocidae",NA,NA,NA,NA
+"Aphroditidae",NA,NA,NA,NA
+"Pectinariidae",NA,NA,NA,NA
+"Cirratulidae",NA,NA,NA,NA
+"Terebellidae",NA,NA,NA,NA
+"Ampharetidae",NA,NA,NA,NA
+"Ctenodrilidae",NA,NA,NA,NA
+"Onuphidae",NA,NA,NA,NA
+"Dorvilleidae",NA,NA,NA,NA
+"Opheliidae",NA,NA,NA,NA
+"Spionidae",NA,NA,NA,NA
+"Poecilochaetidae",NA,NA,NA,NA
+"Maldanidae",NA,NA,NA,NA
+"Paraonidae",NA,NA,NA,NA
+"Capitellidae",NA,NA,NA,NA
+"Orbiniidae",NA,NA,NA,NA
+"Amphinomidae",NA,NA,NA,NA
+"Polygordiidae",NA,NA,NA,NA
+"Eukrohniidae",NA,NA,NA,NA
+"Carcharhinidae",NA,NA,NA,NA
+"Ascidiidae",NA,NA,NA,NA
+"Caryophylliidae",NA,NA,NA,NA
+"Epizoanthidae",NA,NA,NA,NA
+"Alcyoniidae",NA,NA,NA,NA
+"Actinostolidae",NA,NA,NA,NA
+"Hormathiidae",NA,NA,NA,NA
+"Metridiidae",NA,NA,NA,NA
+"Edwardsiidae",NA,NA,NA,NA
+"Halcampidae",NA,NA,NA,NA
+"Pennatulidae",NA,NA,NA,NA
+"Virgulariidae",NA,NA,NA,NA
+"Cerianthidae",NA,NA,NA,NA
+"Arachnactidae",NA,NA,NA,NA
+"Hydractiniidae",NA,NA,NA,NA
+"Tubulariidae",NA,NA,NA,NA
+"Corynidae",NA,NA,NA,NA
+"Oceaniidae",NA,NA,NA,NA
+"Corymorphidae",NA,NA,NA,NA
+"Bougainvilliidae",NA,NA,NA,NA
+"Rathkeidae",NA,NA,NA,NA
+"Boreohydridae",NA,NA,NA,NA
+"Margelopsidae",NA,NA,NA,NA
+"Eirenidae",NA,NA,NA,NA
+"Campanulariidae",NA,NA,NA,NA
+"Aequoreidae",NA,NA,NA,NA
+"Haleciidae",NA,NA,NA,NA
+"Lafoeidae",NA,NA,NA,NA
+"Mitrocomidae",NA,NA,NA,NA
+"Olindiidae",NA,NA,NA,NA
+"Agalmatidae",NA,NA,NA,NA
+"Apolemiidae",NA,NA,NA,NA
+"Lucernariidae",NA,NA,NA,NA
+"Cyaneidae",NA,NA,NA,NA
+"Ulmaridae",NA,NA,NA,NA
+"Strongylocentrotidae",NA,NA,NA,NA
+"Loveniidae",NA,NA,NA,NA
+"Spatangidae",NA,NA,NA,NA
+"Brissidae",NA,NA,NA,NA
+"Fibulariidae",NA,NA,NA,NA
+"Echinidae",NA,NA,NA,0.0835351669403394
+"Synaptidae",NA,NA,NA,NA
+"Cucumariidae",NA,NA,NA,NA
+"Phyllophoridae",NA,NA,NA,NA
+"Asteriidae",NA,NA,0.490740740740742,NA
+"Luidiidae",NA,NA,NA,NA
+"Poraniidae",NA,NA,NA,NA
+"Ophiuridae",NA,NA,NA,NA
+"Ophiactidae",NA,NA,NA,NA
+"Amphiuridae",NA,NA,NA,NA
+"Ophiotrichidae",NA,NA,NA,NA
+"Onychognathiidae",NA,NA,NA,NA
+"Mytilidae",NA,NA,NA,NA
+"Veneridae",NA,NA,NA,NA
+"Arcticidae",NA,NA,NA,NA
+"Cardiidae",NA,NA,NA,NA
+"Tellinidae",NA,NA,NA,NA
+"Semelidae",NA,NA,NA,NA
+"Nuculidae",NA,NA,NA,NA
+"Mactridae",NA,NA,NA,NA
+"Montacutidae",NA,NA,NA,NA
+"Pharidae",NA,NA,NA,NA
+"Hiatellidae",NA,NA,NA,NA
+"Yoldiidae",NA,NA,NA,NA
+"Cuspidariidae",NA,NA,NA,NA
+"Thyasiridae",NA,NA,NA,NA
+"Limidae",NA,NA,NA,NA
+"Astartidae",NA,NA,NA,NA
+"Naticidae",NA,NA,NA,NA
+"Aporrhaidae",NA,NA,NA,NA
+"Acteonidae",NA,NA,NA,NA
+"Terebridae",NA,NA,NA,NA
+"Buccinidae",NA,NA,NA,NA
+"Conidae",NA,NA,NA,NA
+"Dotidae",NA,NA,NA,NA
+"Flabellinidae",NA,NA,NA,NA
+"Polyceridae",NA,NA,NA,NA
+"Onchidorididae",NA,NA,NA,NA
+"Heroidae",NA,NA,NA,NA
+"Epitoniidae",NA,NA,NA,NA
+"Retusidae",NA,NA,NA,NA
+"Philinidae",NA,NA,NA,NA
+"Diaphanidae",NA,NA,NA,NA
+"Scaphandridae",NA,NA,NA,NA
+"Clionidae",NA,NA,NA,NA
+"Aplysiidae",NA,NA,NA,NA
+"Eulimidae",NA,NA,NA,NA
+"Dentaliidae",NA,NA,NA,NA
+"Limifossoridae",NA,NA,NA,NA
+"Chaetodermatidae",NA,NA,NA,NA
+"Chromadoridae",NA,NA,NA,NA
+"Cephalothricidae",NA,NA,NA,NA
+"Tubulanidae",NA,NA,NA,NA
+"Hubrechtidae",NA,NA,NA,NA
+"Lineidae",NA,NA,NA,NA
+"Cerebratulidae",NA,NA,NA,NA
+"Baseodiscidae",NA,NA,NA,NA
+"Oerstediidae",NA,NA,NA,NA
+"Haplopharyngidae",NA,NA,NA,NA
+"Heterophyidae",NA,NA,NA,NA
+"Childiidae",NA,NA,NA,NA
+"Haploposthiidae",NA,NA,NA,NA
+"Isodiametridae",NA,NA,NA,NA
+"Mecynostomidae",NA,NA,NA,NA
+"Ascopariidae",NA,NA,NA,NA
+"Nemertodermatidae",NA,NA,NA,NA
+"Ancorinidae",NA,NA,NA,NA
+"Pachastrellidae",NA,NA,NA,NA
+"Ianthellidae",NA,NA,NA,NA
+"Microcionidae",NA,NA,NA,NA
+"Hymedesmiidae",NA,NA,NA,NA
+"Raspailiidae",NA,NA,NA,NA
+"Desmacellidae",NA,NA,NA,NA
+"Crellidae",NA,NA,NA,NA
+"Cladorhizidae",NA,NA,NA,NA
+"Heteroxyidae",NA,NA,NA,NA
+"Axinellidae",NA,NA,NA,NA
+"Suberitidae",NA,NA,NA,NA
+"Polymastiidae",NA,NA,NA,NA
+"Priapulidae",NA,NA,NA,NA
+"Synchaetidae",NA,NA,NA,NA
+"Niphargus",NA,NA,NA,NA
+"Westwoodilla",NA,NA,NA,NA
+"Hippomedon",NA,NA,NA,NA
+"Ampelisca",NA,NA,NA,NA
+"Byblis",NA,NA,NA,NA
+"Jassa",NA,NA,NA,NA
+"Harpinia",NA,NA,NA,NA
+"Urothoe",NA,NA,NA,NA
+"Megamphopus",NA,NA,NA,NA
+"Bathyporeia",NA,NA,NA,NA
+"Hyas",NA,NA,NA,NA
+"Aegla",NA,NA,NA,NA
+"Pagurus",NA,NA,NA,NA
+"Alpheus",NA,NA,NA,NA
+"Crangon",NA,NA,NA,NA
+"Praunus",NA,NA,NA,NA
+"Natatolana",NA,NA,NA,NA
+"Notopais",NA,NA,NA,NA
+"Thysanoessa",NA,NA,NA,NA
+"Eudorella",NA,NA,NA,NA
+"Evadne",23.165,NA,NA,NA
+"Podon",NA,NA,NA,NA
+"Balanus",NA,NA,NA,NA
+"Verruca",NA,NA,NA,NA
+"Ditrichocorycaeus",NA,NA,NA,NA
+"Tubificoides",NA,NA,NA,NA
+"Grania (Enchytraeidae)",NA,NA,NA,NA
+"Siboglinum",NA,NA,NA,NA
+"Owenia",NA,NA,NA,NA
+"Galathowenia",NA,NA,NA,NA
+"Chone",NA,NA,NA,NA
+"Euchone",NA,NA,NA,NA
+"Harmothoe",NA,NA,NA,NA
+"Gattyana",NA,NA,NA,NA
+"Bylgides",NA,NA,NA,NA
+"Nereimyra",NA,NA,NA,NA
+"Neogyptis",NA,NA,NA,NA
+"Glycera",NA,NA,NA,NA
+"Nephtys",NA,NA,NA,NA
+"Aglaophamus",NA,NA,NA,NA
+"Pholoe",NA,NA,NA,NA
+"Glycinde",NA,NA,NA,NA
+"Sphaerodorum",NA,NA,NA,NA
+"Sphaerodoropsis",NA,NA,NA,NA
+"Phyllodoce (Phyllodocidae)",NA,NA,NA,NA
+"Eumida",NA,NA,NA,NA
+"Sige",NA,NA,NA,NA
+"Laetmonice",NA,NA,NA,NA
+"Pectinaria",NA,NA,NA,NA
+"Cirratulus",NA,NA,NA,NA
+"Chaetozone",NA,NA,NA,NA
+"Tharyx",NA,NA,NA,NA
+"Polycirrus",NA,NA,NA,NA
+"Pista",NA,NA,NA,NA
+"Mugga",NA,NA,NA,NA
+"Anobothrus",NA,NA,NA,NA
+"Eclysippe",NA,NA,NA,NA
+"Raricirrus",NA,NA,NA,NA
+"Nothria",NA,NA,NA,NA
+"Paradiopatra",NA,NA,NA,NA
+"Ophryotrocha",18.45,2.28683429118774,3.16534722222222,2.42572223932677
+"Parougia",NA,NA,NA,NA
+"Ophelina",NA,NA,NA,NA
+"Prionospio",26.37,NA,NA,0.0912766830870279
+"Spiophanes",NA,NA,NA,NA
+"Poecilochaetus",NA,NA,NA,NA
+"Praxillella",NA,NA,NA,NA
+"Aricidea",NA,0.215550538222952,0.853148148148148,NA
+"Levinsenia",NA,NA,NA,NA
+"Heteromastus",NA,NA,NA,NA
+"Barantolla",28.29,NA,0.152777777777778,NA
+"Dasybranchus",NA,NA,NA,NA
+"Scoloplos",NA,NA,NA,0.102138067870826
+"Paramphinome",NA,NA,NA,0.112876299945265
+"Polygordius",NA,NA,NA,NA
+"Eukrohnia",NA,NA,NA,NA
+"Galeocerdo",NA,NA,NA,NA
+"Phallusia",NA,NA,NA,NA
+"Caryophyllia",NA,NA,NA,NA
+"Epizoanthus",NA,NA,NA,NA
+"Alcyonium",NA,NA,NA,NA
+"Maractis",NA,NA,NA,NA
+"Hormathia",NA,NA,NA,NA
+"Actinauge",NA,NA,NA,NA
+"Metridium",NA,1.25536645533054,0.548888888888889,1.81064159140668
+"Edwardsia",23.425,NA,NA,NA
+"Halcampa",NA,NA,NA,NA
+"Pennatula",NA,NA,NA,NA
+"Virgularia",NA,NA,NA,NA
+"Pachycerianthus",NA,NA,NA,NA
+"Isarachnanthus",NA,NA,NA,NA
+"Hydractinia",NA,NA,NA,NA
+"Ectopleura",NA,NA,NA,NA
+"Sarsia",NA,NA,NA,NA
+"Merona",NA,NA,NA,NA
+"Corymorpha",NA,NA,NA,NA
+"Euphysa",NA,NA,NA,NA
+"Bougainvillia",NA,NA,NA,NA
+"Rathkea",NA,NA,NA,1.61401204159825
+"Plotocnide",NA,NA,NA,NA
+"Margelopsis",NA,NA,NA,NA
+"Eutonina",NA,NA,NA,NA
+"Tima",NA,NA,NA,NA
+"Obelia",NA,NA,NA,NA
+"Clytia",NA,NA,NA,NA
+"Aequorea",NA,NA,NA,NA
+"Halecium",NA,NA,NA,NA
+"Lafoea",NA,NA,NA,NA
+"Mitrocomella",NA,NA,NA,NA
+"Gonionemus",NA,NA,NA,NA
+"Agalma",NA,NA,NA,NA
+"Nanomia",NA,NA,NA,NA
+"Apolemia",NA,NA,NA,NA
+"Lucernaria",NA,NA,NA,NA
+"Cyanea",24.945,0.329638980113118,0.166666666666667,0.788478379857691
+"Aurelia",NA,NA,NA,NA
+"Strongylocentrotus",NA,NA,NA,NA
+"Echinocardium",NA,NA,NA,NA
+"Spatangus",NA,NA,NA,NA
+"Brissopsis",NA,0.429567749194186,NA,0.382159961685824
+"Echinocyamus",NA,NA,NA,NA
+"Leptosynapta",NA,1.34969496898376,0.541666666666667,NA
+"Trachythyone",NA,NA,NA,NA
+"Pseudothyone",NA,NA,NA,NA
+"Thyone",NA,NA,NA,NA
+"Luidia",NA,NA,NA,NA
+"Porania",NA,NA,NA,NA
+"Ophiura",NA,NA,NA,NA
+"Ophiocten",NA,NA,NA,NA
+"Ophiopholis",NA,NA,NA,NA
+"Ophiactis",NA,NA,NA,NA
+"Amphipholis",NA,NA,NA,NA
+"Amphiura",NA,NA,NA,NA
+"Ophiothrix",NA,NA,NA,NA
+"Valvognathia",NA,NA,NA,NA
+"Mytilus",NA,NA,NA,NA
+"Modiolus",NA,NA,NA,NA
+"Dosinia",NA,NA,NA,NA
+"Timoclea",NA,NA,NA,NA
+"Arctica",NA,NA,NA,NA
+"Parvicardium",NA,NA,NA,NA
+"Acanthocardia",NA,NA,NA,NA
+"Moerella",NA,NA,NA,NA
+"Abra",NA,NA,NA,NA
+"Ennucula",NA,NA,NA,NA
+"Nucula",NA,NA,NA,NA
+"Spisula",NA,NA,NA,NA
+"Mysella",NA,NA,NA,NA
+"Phaxas",NA,NA,NA,NA
+"Hiatella",NA,NA,NA,NA
+"Yoldiella",NA,NA,NA,NA
+"Cardiomya",NA,NA,NA,NA
+"Cuspidaria",NA,NA,NA,NA
+"Thyasira",NA,NA,NA,NA
+"Lima",NA,NA,NA,NA
+"Astarte",NA,NA,NA,NA
+"Euspira",NA,NA,NA,NA
+"Cryptonatica",NA,NA,NA,NA
+"Aporrhais",NA,NA,NA,NA
+"Acteon",NA,NA,NA,NA
+"Duplicaria",NA,1.38852036200815,NA,2.01418479748221
+"Neptunea",NA,NA,NA,NA
+"Buccinum",NA,NA,NA,NA
+"Colus",NA,NA,NA,NA
+"Propebela",NA,NA,NA,NA
+"Doto",NA,NA,NA,NA
+"Flabellina",NA,NA,NA,NA
+"Polycera",NA,NA,NA,NA
+"Onchidoris",NA,NA,NA,NA
+"Hero",NA,NA,NA,NA
+"Epitonium",NA,NA,NA,NA
+"Retusa",NA,NA,NA,NA
+"Philine",NA,NA,NA,NA
+"Diaphana",NA,NA,NA,NA
+"Cylichna",NA,NA,NA,NA
+"Scaphander",NA,NA,NA,NA
+"Clione",NA,NA,NA,NA
+"Aplysia",NA,NA,NA,NA
+"Haliella",NA,NA,NA,NA
+"Antalis",NA,NA,NA,NA
+"Scutopus",NA,NA,NA,NA
+"Chaetoderma",NA,NA,NA,NA
+"Falcidens",NA,NA,NA,NA
+"Neochromadora",27.845,NA,3.16534722222222,NA
+"Cephalothrix",NA,2.62087399938424,4.07,1.34809455391352
+"Tubulanus",27.2,NA,NA,NA
+"Hubrechtella",NA,NA,NA,NA
+"Cerebratulus",NA,NA,NA,NA
+"Micrura",NA,0.168149250440917,NA,NA
+"Pseudomicrura",NA,NA,NA,NA
+"Tenuilineus",NA,NA,NA,NA
+"Leucocephalonemertes",NA,NA,NA,NA
+"Oxypolia",NA,NA,NA,NA
+"Oerstedia",NA,NA,NA,NA
+"Haplopharynx",NA,NA,NA,NA
+"Cryptocotyle",NA,NA,NA,NA
+"Childia",NA,NA,NA,NA
+"Philactinoposthia",NA,NA,NA,NA
+"Actinoposthia",NA,NA,NA,NA
+"Haploposthia",NA,NA,NA,NA
+"Hallangia",NA,NA,NA,NA
+"Archaphanostoma",25.05,0.168149250440917,0.282407407407407,0.108480432402846
+"Pseudmecynostomum",NA,NA,NA,NA
+"Philomecynostomum",NA,NA,NA,NA
+"Ascoparia",NA,NA,NA,NA
+"Nemertoderma",NA,NA,NA,NA
+"Stelletta",NA,NA,NA,NA
+"Thenea",NA,NA,NA,NA
+"Hexadella",NA,NA,NA,NA
+"Clathria",NA,NA,NA,NA
+"Eurypon",NA,NA,NA,NA
+"Biemna",NA,NA,NA,NA
+"Crella",NA,NA,NA,NA
+"Asbestopluma",NA,NA,NA,NA
+"Desmoxya",NA,NA,NA,NA
+"Axinella",NA,NA,NA,NA
+"Suberites",NA,NA,NA,NA
+"Plicatellopsis",NA,NA,NA,NA
+"Polymastia",NA,NA,NA,NA
+"Priapulus",NA,NA,NA,NA
+"Synchaeta",7.005,2.97169262281062,NA,2.9177750410509
+"Westwoodilla caecula",NA,NA,NA,NA
+"Ampelisca diadema",NA,NA,NA,NA
+"Byblis gaimardii",NA,NA,NA,NA
+"Jassa herdmani",NA,NA,NA,NA
+"Harpinia antennaria",NA,NA,NA,NA
+"Urothoe elegans",NA,1.34969496898376,0.553518518518519,NA
+"Megamphopus cornutus",NA,NA,NA,NA
+"Hyas coarctatus",NA,NA,NA,NA
+"Pagurus prideaux",NA,NA,NA,NA
+"Alpheus bellulus",NA,NA,NA,NA
+"Crangon allmanni",NA,NA,NA,NA
+"Praunus flexuosus",NA,NA,NA,NA
+"Natatolana borealis",NA,NA,NA,NA
+"Thysanoessa inermis",NA,NA,NA,NA
+"Eudorella emarginata",NA,NA,NA,NA
+"Evadne spinifera",NA,NA,NA,NA
+"Podon intermedius",NA,0.100644157088123,NA,NA
+"Verruca stroemia",NA,1.27996158604725,NA,2.10914922003284
+"Ditrichocorycaeus anglicus",NA,NA,NA,NA
+"Tubificoides amplivasatus",NA,NA,NA,NA
+"Grania ovitheca",NA,NA,NA,NA
+"Grania postclitellochaeta",NA,NA,NA,NA
+"Siboglinum fiordicum",NA,NA,NA,NA
+"Owenia fusiformis",23.3,NA,NA,0.414757799671593
+"Galathowenia oculata",25,0.324375114030287,0.166666666666667,0.788478379857691
+"Euchone rosea",NA,NA,NA,NA
+"Harmothoe glabra",NA,NA,NA,NA
+"Gattyana cirrhosa",NA,NA,NA,NA
+"Nereimyra punctata",NA,NA,NA,NA
+"Nereimyra woodsholea",NA,NA,NA,NA
+"Neogyptis rosea",NA,NA,NA,NA
+"Glycera alba",NA,NA,NA,NA
+"Nephtys kersivalensis",NA,1.34969496898376,0.548888888888889,2.01418479748221
+"Nephtys hystricis",NA,NA,NA,NA
+"Nephtys incisa",NA,NA,NA,NA
+"Pholoe baltica",NA,NA,NA,NA
+"Glycinde nordmanni",NA,NA,NA,NA
+"Sphaerodoropsis cf. philippi",NA,NA,NA,NA
+"Eumida bahusiensis",23.4,NA,NA,NA
+"Eumida ockelmanni",NA,NA,NA,NA
+"Sige fusigera",NA,NA,NA,NA
+"Laetmonice filicornis",NA,NA,NA,NA
+"Pectinaria koreni",26,NA,NA,NA
+"Pectinaria auricoma",NA,0.168149250440917,NA,0.200992063492063
+"Cirratulus cirratus",22.525,1.77096161740558,4.17416666666667,2.35783131499726
+"Chaetozone gibber",NA,NA,NA,NA
+"Polycirrus arcticus",NA,NA,NA,NA
+"Mugga wahrbergi",NA,NA,NA,NA
+"Anobothrus gracilis",NA,NA,NA,NA
+"Eclysippe vanelli",NA,NA,NA,NA
+"Raricirrus beryli",NA,NA,NA,NA
+"Nothria conchylega CMC02",NA,NA,NA,NA
+"Paradiopatra quadricuspis",NA,NA,NA,NA
+"Parougia eliasoni",NA,NA,NA,NA
+"Ophelina acuminata CMC02",NA,NA,NA,NA
+"Ophelina cylindricaudata",NA,0.349429392446634,NA,0.336884236453201
+"Prionospio dubia",NA,NA,NA,NA
+"Spiophanes bombyx",27.35,NA,NA,NA
+"Spiophanes kroyeri",NA,NA,NA,NA
+"Poecilochaetus serpens",NA,NA,NA,NA
+"Aricidea laubieri",NA,NA,NA,NA
+"Levinsenia gracilis",NA,NA,NA,NA
+"Capitella capitata",12.135,3.24828725797072,3.66375,2.9177750410509
+"Scoloplos armiger",NA,NA,NA,NA
+"Paramphinome jeffreysii",NA,NA,NA,2.16796319102354
+"Polygordius appendiculatus",NA,NA,NA,NA
+"Caryophyllia smithii",NA,NA,NA,NA
+"Epizoanthus paxi",NA,NA,NA,NA
+"Epizoanthus paguricola",NA,NA,NA,NA
+"Edwardsia longicornis",NA,NA,NA,NA
+"Halcampa cf. duodecimcirrata",NA,NA,NA,NA
+"Pennatula phosphorea",NA,NA,NA,NA
+"Virgularia mirabilis",NA,NA,0.0737962962962963,NA
+"Pachycerianthus borealis",NA,NA,NA,NA
+"Hydractinia echinata",NA,NA,NA,NA
+"Ectopleura larynx",NA,NA,NA,NA
+"Sarsia princeps",NA,NA,NA,NA
+"Sarsia tubulosa",NA,NA,NA,NA
+"Merona cornucopiae",NA,NA,NA,NA
+"Corymorpha nutans",NA,NA,NA,NA
+"Euphysa aurata",NA,0.125445630359423,0.0698148148148149,NA
+"Bougainvillia muscus",NA,NA,NA,NA
+"Plotocnide borealis",7.005,3.24828725797072,NA,2.42572223932677
+"Eutonina indicans",NA,NA,NA,NA
+"Tima bairdii",NA,NA,NA,NA
+"Clytia languida",NA,NA,NA,1.76719861795293
+"Halecium halecinum",NA,NA,NA,NA
+"Mitrocomella polydiademata",25,0.168149250440917,NA,0.110994800218938
+"Agalma elegans",NA,NA,NA,NA
+"Nanomia cara",25.05,0.168149250440917,NA,0.110994800218938
+"Cyanea capillata",NA,NA,NA,NA
+"Aurelia aurita",NA,NA,NA,NA
+"Echinocardium flavescens",NA,2.62087399938424,NA,2.16796319102354
+"Echinocardium cordatum",25,NA,NA,NA
+"Spatangus purpureus",NA,NA,NA,NA
+"Brissopsis lyrifera",NA,0.339639968375601,0.166666666666667,0.112876299945265
+"Echinocyamus pusillus",NA,NA,NA,NA
+"Trachythyone elongata",NA,NA,NA,NA
+"Pseudothyone raphanus",NA,NA,NA,NA
+"Luidia sarsi",NA,NA,NA,NA
+"Porania pulvillus",NA,NA,NA,NA
+"Ophiura ophiura",NA,NA,NA,NA
+"Ophiura sarsii",28.92,NA,NA,NA
+"Ophiocten affinis",NA,NA,NA,NA
+"Ophiopholis aculeata",NA,NA,NA,NA
+"Amphiura filiformis",NA,0.215550538222952,NA,0.120364668856048
+"Amphiura chiajei",NA,0.698527298850574,NA,0.788478379857691
+"Ophiothrix fragilis",NA,NA,NA,NA
+"Valvognathia pogonostoma",NA,NA,NA,NA
+"Mytilus edulis",NA,NA,NA,NA
+"Modiolus modiolus",NA,NA,NA,NA
+"Dosinia lupinus",NA,NA,NA,NA
+"Timoclea ovata",NA,NA,NA,NA
+"Arctica islandica",NA,NA,NA,0.112876299945265
+"Parvicardium minimum",NA,NA,NA,NA
+"Acanthocardia echinata",NA,NA,NA,NA
+"Moerella pygmaea",NA,NA,NA,NA
+"Abra nitida",NA,NA,NA,NA
+"Abra prismatica",24,NA,NA,0.115739600437876
+"Abra longicallus",NA,NA,NA,NA
+"Ennucula tenuis",NA,NA,NA,NA
+"Nucula nucleus",NA,NA,NA,NA
+"Nucula tumidula",NA,NA,NA,NA
+"Spisula elliptica",NA,NA,NA,NA
+"Mysella bidentata",NA,NA,NA,NA
+"Phaxas pellucidus",NA,NA,NA,NA
+"Yoldiella frigida",NA,NA,NA,NA
+"Cuspidaria cuspidata",NA,NA,NA,NA
+"Thyasira obsoleta",NA,NA,NA,NA
+"Thyasira equalis",NA,NA,NA,NA
+"Thyasira ferruginea",NA,NA,NA,NA
+"Thyasira flexuosa",NA,NA,NA,NA
+"Lima loscombi",NA,NA,NA,NA
+"Astarte borealis",NA,NA,NA,NA
+"Euspira fusca",NA,NA,NA,NA
+"Euspira nitida",NA,NA,NA,NA
+"Aporrhais pespelecani",NA,NA,NA,NA
+"Acteon tornatilis",NA,NA,NA,NA
+"Neptunea antiqua",NA,NA,NA,NA
+"Buccinum undatum",NA,NA,NA,NA
+"Doto coronata",NA,NA,NA,NA
+"Flabellina pellucida",NA,NA,NA,NA
+"Polycera quadrilineata",NA,NA,NA,NA
+"Hero formosa",NA,NA,NA,NA
+"Epitonium trevelyanum",NA,NA,NA,NA
+"Retusa umbilicata",NA,NA,NA,NA
+"Philine scabra",NA,NA,NA,NA
+"Philine indistincta",23.32,1.34969496898376,0.231481481481481,NA
+"Diaphana minuta",NA,NA,NA,NA
+"Cylichna cylindracea",NA,NA,NA,NA
+"Scaphander lignarius",NA,NA,NA,NA
+"Clione limacina",NA,NA,NA,NA
+"Aplysia punctata",NA,NA,NA,NA
+"Antalis entalis",NA,0.119274539317643,NA,NA
+"Scutopus ventrolineatus",NA,NA,NA,NA
+"Chaetoderma nitidulum",NA,NA,NA,NA
+"Falcidens crossotus",NA,NA,NA,NA
+"Tubulanus annulatus",NA,NA,NA,NA
+"Hubrechtella dubia",NA,0.329638980113118,0.236111111111111,0.0835351669403394
+"Micrura fasciolata",NA,NA,NA,NA
+"Micrura varicolor",NA,NA,NA,NA
+"Pseudomicrura afzelii",NA,NA,NA,NA
+"Tenuilineus albocinctus",NA,NA,NA,NA
+"Leucocephalonemertes aurantiaca",NA,NA,NA,NA
+"Oxypolia beaumontiana",NA,NA,NA,NA
+"Oerstedia dorsalis",NA,NA,NA,NA
+"Cryptocotyle lingua",NA,NA,NA,NA
+"Childia macroposthium",NA,NA,NA,NA
+"Actinoposthia haplovata",NA,NA,NA,NA
+"Haploposthia lactomaculata",NA,NA,NA,NA
+"Hallangia proporoides",NA,NA,NA,NA
+"Stelletta normani",NA,NA,NA,NA
+"Hexadella dedritifera",NA,NA,NA,NA
+"Eurypon clavigerum",NA,NA,NA,NA
+"Axinella infundibuliformis",NA,NA,NA,NA
+"Plicatellopsis fragilis",NA,NA,NA,NA
+"Polymastia cf. conigera AP2013",NA,NA,NA,NA
+"Priapulus caudatus",NA,0.153097062579821,0.263888888888889,0.112876299945265
