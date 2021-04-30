@@ -36,8 +36,10 @@ library(vegan)
 
 
 ### IMPORT 18S DATA  ###
-md.18S = read.table("C:/Users/anba/OneDrive - NORCE/OneDrive-Documents/06_METAMON/GITHUB/Metamon/WP1/co-occurence_networks/Manuscript/data/Metadata_all_reps_w_PIs_from_pooled.csv",row.names=1,header=T,sep=",")
-otus.18S = read.table("C:/Users/anba/OneDrive - NORCE/OneDrive-Documents/06_METAMON/GITHUB/Metamon/WP1/SWARM_WP1_20200826_18S/CREST_NoPlankton/All_Assignments.tsv",header=T,sep="\t")
+md.18S = read.table("co-occurence_networks/Manuscript/data/Metadata_all_reps_w_PIs_from_pooled.csv",
+                    row.names=1,header=T,sep=",")
+otus.18S = read.table("SWARM_WP1_20200826_18S/CREST_NoPlankton/All_Assignments.tsv",
+                      header=T,sep="\t")
 ## Should contain 963 18S taxa in 296 samples with 28 metadata variables
 
 
@@ -53,7 +55,7 @@ table(row.names(md.18S) == row.names(otus.18S.t)) ## check if TRUE for all 296 s
 
 
 ### SPLIT THE OTU TABLES - IMPACTED & NON-IMPACTED ###
-outpath = "C:/Users/anba/OneDrive - NORCE/OneDrive-Documents/06_METAMON/GITHUB/Metamon/WP1/co-occurence_networks/Manuscript/analysis_and_scripts/SplitNetwork/18S_All_assignments/commonStations/"
+outpath = "co-occurence_networks/Manuscript/analysis_and_scripts/SplitNetwork/18S_All_assignments/commonStations/"
 
 ## Select only region II and III samples 
 otus.sel = otus.18S.t[md.18S$Region=="II"|md.18S$Region=="III",]  ## Samples are rows
@@ -120,7 +122,8 @@ colSums=colSums(imp.taxa.inc) ## MAX is 52 = number of sample -> OK
 indices.prev=which(colSums>=1)
 otus.f <- as.data.frame(otus.18S.nonimp[,indices.prev]) ## Samples are rows
 otus.f.t <- as.data.frame(t(otus.f)) ## Taxa are rows
-write.table(otus.f.t, file=file.path(outpath,"split_18S_separateRep_nonImpacted_abundances.txt"), quote = F, sep = "\t") ## Rows are taxa - read numbers
+write.table(otus.f.t, file=file.path(outpath,"split_18S_separateRep_nonImpacted_abundances.txt"), 
+            quote = F, sep = "\t") ## Rows are taxa -  numbers
 ## Need to be formatted for CoNet - two taxa from Cercozoa: 7-2.3 and 7-5.4 names need to be changed Cercozoa-07.02.2003 and Cercozoa-07.05.2004
 
 
@@ -195,14 +198,14 @@ taxa.df[238, 1] = "Cercozoa-07.05.2004" ## rename as done for CoNet input tables
 ##--------------------------------------------------##
 
 ## Import data
-bioInd = read.table("C:/Users/anba/OneDrive - NORCE/OneDrive-Documents/06_METAMON/GITHUB/Metamon/WP1/co-occurence_networks/Manuscript/data/Taxa_IndGroup_18S_PI_Cytoscape_dash and Cercozoa_corrected.txt",row.names=1,header=T,sep="\t")
+bioInd = read.table("co-occurence_networks/Manuscript/data/Taxa_IndGroup_18S_PI_Cytoscape_dash and Cercozoa_corrected.txt",row.names=1,header=T,sep="\t")
 bioInd = filter(bioInd, bioInd$pi > 0) ## select only those assigned EG I-V
 bioInd$shared.name = rownames(bioInd) ## Bioindicators- 18S
 
-impNode = read.table("C:/Users/anba/OneDrive - NORCE/OneDrive-Documents/06_METAMON/GITHUB/Metamon/WP1/co-occurence_networks/Manuscript/analysis_and_scripts/SplitNetwork/18S_All_assignments/commonStations/18S_impacted_network_node_table.csv",header=T,sep=",")
+impNode = read.table("co-occurence_networks/Manuscript/analysis_and_scripts/SplitNetwork/18S_All_assignments/commonStations/18S_impacted_network_node_table.csv",header=T,sep=",")
 rownames(impNode)=impNode$name ## Nodes from the impacted network
 
-nonimpNode = read.table("C:/Users/anba/OneDrive - NORCE/OneDrive-Documents/06_METAMON/GITHUB/Metamon/WP1/co-occurence_networks/Manuscript/analysis_and_scripts/SplitNetwork/18S_All_assignments/commonStations/18S_nonimpacted_network_node_table.csv",header=T,sep=",")
+nonimpNode = read.table("co-occurence_networks/Manuscript/analysis_and_scripts/SplitNetwork/18S_All_assignments/commonStations/18S_nonimpacted_network_node_table.csv",header=T,sep=",")
 rownames(nonimpNode)=nonimpNode$name ## Nodes from the non-Impacted network
 
 ## define the lists for Venn diagram
@@ -415,11 +418,11 @@ rm(df, df.f, taxa.df, node.df, bioInd, common,
 ##---------------------------##
 
 ## Import edge tables
-impEdge = read.table("C:/Users/anba/OneDrive - NORCE/OneDrive-Documents/06_METAMON/GITHUB/Metamon/WP1/co-occurence_networks/Manuscript/analysis_and_scripts/SplitNetwork/18S_All_assignments/commonStations/18S_impacted_network_edge_table.csv",header=T,sep=",")
+impEdge = read.table("co-occurence_networks/Manuscript/analysis_and_scripts/SplitNetwork/18S_All_assignments/commonStations/18S_impacted_network_edge_table.csv",header=T,sep=",")
 rownames(impEdge)=impEdge$Label ## Impacted network
 vennSet1 = impEdge$Label
 
-nonimpEdge = read.table("C:/Users/anba/OneDrive - NORCE/OneDrive-Documents/06_METAMON/GITHUB/Metamon/WP1/co-occurence_networks/Manuscript/analysis_and_scripts/SplitNetwork/18S_All_assignments/commonStations/18S_nonimpacted_network_edge_table.csv",header=T,sep=",")
+nonimpEdge = read.table("co-occurence_networks/Manuscript/analysis_and_scripts/SplitNetwork/18S_All_assignments/commonStations/18S_nonimpacted_network_edge_table.csv",header=T,sep=",")
 rownames(nonimpEdge)=nonimpEdge$Label ## Non-impacted network
 vennSet2 = nonimpEdge$Label
 
@@ -544,12 +547,12 @@ rm(common, df.edge, df.edge.f,edge.df, edge.df.imp, edge.df.nonimp,
 #******************************#
 
 
-outpath = "C:/Users/anba/OneDrive - NORCE/OneDrive-Documents/06_METAMON/GITHUB/Metamon/WP1/co-occurence_networks/Manuscript/analysis_and_scripts/SplitNetwork/COI_All_assignments"
+outpath = "co-occurence_networks/Manuscript/analysis_and_scripts/SplitNetwork/COI_All_assignments"
 
 
 ### IMPORT COI data ###
-md.COI = read.table("C:/Users/anba/OneDrive - NORCE/OneDrive-Documents/06_METAMON/GITHUB/Metamon/WP1/co-occurence_networks/Manuscript/data/samplesCategorized.txt",header = T, sep = "\t")
-otus.COI = read.table("C:/Users/anba/OneDrive - NORCE/OneDrive-Documents/06_METAMON/GITHUB/Metamon/WP1/SWARM_WP1_20200722_COI/CREST_NoPlankton/All_Assignments.tsv",header=T,sep="\t")
+md.COI = read.table("co-occurence_networks/Manuscript/data/samplesCategorized.txt",header = T, sep = "\t")
+otus.COI = read.table("SWARM_WP1_20200722_COI/CREST_NoPlankton/All_Assignments.tsv",header=T,sep="\t")
 
 
 ## clean and split OTUs
@@ -696,19 +699,19 @@ rm(obj,VENN.LIST,venn.plot)
 #------------------------------#
 
 ### Working with network analysis tables and bioindicators
-bioInd = read.table("C:/Users/anba/OneDrive - NORCE/OneDrive-Documents/06_METAMON/GITHUB/Metamon/WP1/co-occurence_networks/Manuscript/data/Taxa_IndGroup_COI_PI.csv",row.names=1,header=T,sep=",")
+bioInd = read.table("co-occurence_networks/Manuscript/data/Taxa_IndGroup_COI_PI.csv",row.names=1,header=T,sep=",")
 bioInd = filter(bioInd, bioInd$pi > 0)
 bioInd$shared.name = rownames(bioInd)
 bioInd$shared.name <- gsub("\\ ","\\-",bioInd$shared.name) ## Names need to be "dashed"
 rownames(bioInd) = bioInd$shared.name
 
 ## Impacted network split
-impNode = read.table("C:/Users/anba/OneDrive - NORCE/OneDrive-Documents/06_METAMON/GITHUB/Metamon/WP1/co-occurence_networks/Manuscript/analysis_and_scripts/SplitNetwork/COI_All_assignments/COI_impacted_network_node_table.csv",header=T,sep=",")
+impNode = read.table("co-occurence_networks/Manuscript/analysis_and_scripts/SplitNetwork/COI_All_assignments/COI_impacted_network_node_table.csv",header=T,sep=",")
 rownames(impNode)=impNode$name
 ## write.table(impNode, file=file.path(outpath,"COI_impacted_node_table.txt"), quote = F, sep = "\t")
 
 ## Non-Impacted network split
-nonimpNode = read.table("C:/Users/anba/OneDrive - NORCE/OneDrive-Documents/06_METAMON/GITHUB/Metamon/WP1/co-occurence_networks/Manuscript/analysis_and_scripts/SplitNetwork/COI_All_assignments/COI_nonimpacted_network_node_table.csv",header=T,sep=",")
+nonimpNode = read.table("co-occurence_networks/Manuscript/analysis_and_scripts/SplitNetwork/COI_All_assignments/COI_nonimpacted_network_node_table.csv",header=T,sep=",")
 rownames(nonimpNode)=nonimpNode$name
 ## write.table(nonimpNode, file=file.path(outpath,"COI_non-impacted_node_table.txt"), quote = F, sep = "\t")
 
@@ -845,7 +848,7 @@ df = df %>% left_join(node.df, by = "shared.name") ## add info whether taxa were
 
 colnames(df)
 
-## setwd("C:/Users/anba/OneDrive - NORCE/OneDrive-Documents/06_METAMON/GITHUB/Metamon/WP1/co-occurence_networks/Manuscript/results")
+## setwd("co-occurence_networks/Manuscript/results")
 ## write.table(df, file = "COI_all_combined.txt", sep = "\t", quote = F)
 
 
@@ -914,12 +917,12 @@ p +
 #------------------------------#
 
 ## Impacted network split
-impEdge = read.table("C:/Users/anba/OneDrive - NORCE/OneDrive-Documents/06_METAMON/GITHUB/Metamon/WP1/co-occurence_networks/Manuscript/analysis_and_scripts/SplitNetwork/COI_All_assignments/COI_impacted_network_edge_table.csv",header=T,sep=",")
+impEdge = read.table("co-occurence_networks/Manuscript/analysis_and_scripts/SplitNetwork/COI_All_assignments/COI_impacted_network_edge_table.csv",header=T,sep=",")
 rownames(impEdge)=impEdge$Label
 vennSet1 = impEdge$Label
 
 ## Non-Impacted network split
-nonimpEdge = read.table("C:/Users/anba/OneDrive - NORCE/OneDrive-Documents/06_METAMON/GITHUB/Metamon/WP1/co-occurence_networks/Manuscript/analysis_and_scripts/SplitNetwork/COI_All_assignments/COI_nonimpacted_network_edge_table.csv",header=T,sep=",")
+nonimpEdge = read.table("co-occurence_networks/Manuscript/analysis_and_scripts/SplitNetwork/COI_All_assignments/COI_nonimpacted_network_edge_table.csv",header=T,sep=",")
 rownames(nonimpEdge)=nonimpEdge$Label
 vennSet2 = nonimpEdge$Label
 
