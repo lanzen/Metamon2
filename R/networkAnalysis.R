@@ -36,7 +36,7 @@ library(vegan)
 
 
 ### IMPORT 18S DATA  ###
-md.18S = read.table("co-occurence_networks/Manuscript/data/Metadata_all_reps_w_PIs_from_pooled.csv",
+md.18S = read.table("co-occurence_networks/Metadata_all_reps_w_PIs_from_pooled.csv",
                     row.names=1,header=T,sep=",")
 otus.18S = read.table("SWARM_WP1_20200826_18S/CREST_NoPlankton/All_Assignments.tsv",
                       header=T,sep="\t")
@@ -198,14 +198,14 @@ taxa.df[238, 1] = "Cercozoa-07.05.2004" ## rename as done for CoNet input tables
 ##--------------------------------------------------##
 
 ## Import data
-bioInd = read.table("co-occurence_networks/Manuscript/data/Taxa_IndGroup_18S_PI_Cytoscape_dash and Cercozoa_corrected.txt",row.names=1,header=T,sep="\t")
+bioInd = read.table("co-occurence_networks/Taxa_IndGroup_18S_PI_Cytoscape_dash and Cercozoa_corrected.txt",row.names=1,header=T,sep="\t")
 bioInd = filter(bioInd, bioInd$pi > 0) ## select only those assigned EG I-V
 bioInd$shared.name = rownames(bioInd) ## Bioindicators- 18S
 
-impNode = read.table("co-occurence_networks/Manuscript/analysis_and_scripts/SplitNetwork/18S_All_assignments/commonStations/18S_impacted_network_node_table.csv",header=T,sep=",")
+impNode = read.table("co-occurence_networks/18S_impacted_network_node_table.csv",header=T,sep=",")
 rownames(impNode)=impNode$name ## Nodes from the impacted network
 
-nonimpNode = read.table("co-occurence_networks/Manuscript/analysis_and_scripts/SplitNetwork/18S_All_assignments/commonStations/18S_nonimpacted_network_node_table.csv",header=T,sep=",")
+nonimpNode = read.table("co-occurence_networks/18S_nonimpacted_network_node_table.csv",header=T,sep=",")
 rownames(nonimpNode)=nonimpNode$name ## Nodes from the non-Impacted network
 
 ## define the lists for Venn diagram
@@ -418,11 +418,11 @@ rm(df, df.f, taxa.df, node.df, bioInd, common,
 ##---------------------------##
 
 ## Import edge tables
-impEdge = read.table("co-occurence_networks/Manuscript/analysis_and_scripts/SplitNetwork/18S_All_assignments/commonStations/18S_impacted_network_edge_table.csv",header=T,sep=",")
+impEdge = read.table("co-occurence_networks/18S_impacted_network_edge_table.csv",header=T,sep=",")
 rownames(impEdge)=impEdge$Label ## Impacted network
 vennSet1 = impEdge$Label
 
-nonimpEdge = read.table("co-occurence_networks/Manuscript/analysis_and_scripts/SplitNetwork/18S_All_assignments/commonStations/18S_nonimpacted_network_edge_table.csv",header=T,sep=",")
+nonimpEdge = read.table("co-occurence_networks/18S_nonimpacted_network_edge_table.csv",header=T,sep=",")
 rownames(nonimpEdge)=nonimpEdge$Label ## Non-impacted network
 vennSet2 = nonimpEdge$Label
 
@@ -551,8 +551,9 @@ outpath = "co-occurence_networks/Manuscript/analysis_and_scripts/SplitNetwork/CO
 
 
 ### IMPORT COI data ###
-md.COI = read.table("co-occurence_networks/Manuscript/data/samplesCategorized.txt",header = T, sep = "\t")
-otus.COI = read.table("SWARM_WP1_20200722_COI/CREST_NoPlankton/All_Assignments.tsv",header=T,sep="\t")
+md.COI = read.table("co-occurence_networks/samplesCategorized.txt",header = T, sep = "\t")
+otus.COI = read.table("SWARM_WP1_20200722_COI/CREST_NoPlankton/All_Assignments.tsv",
+                      header=T,sep="\t")
 
 
 ## clean and split OTUs
@@ -699,19 +700,19 @@ rm(obj,VENN.LIST,venn.plot)
 #------------------------------#
 
 ### Working with network analysis tables and bioindicators
-bioInd = read.table("co-occurence_networks/Manuscript/data/Taxa_IndGroup_COI_PI.csv",row.names=1,header=T,sep=",")
+bioInd = read.table("co-occurence_networks/Taxa_IndGroup_COI_PI.csv",row.names=1,header=T,sep=",")
 bioInd = filter(bioInd, bioInd$pi > 0)
 bioInd$shared.name = rownames(bioInd)
 bioInd$shared.name <- gsub("\\ ","\\-",bioInd$shared.name) ## Names need to be "dashed"
 rownames(bioInd) = bioInd$shared.name
 
 ## Impacted network split
-impNode = read.table("co-occurence_networks/Manuscript/analysis_and_scripts/SplitNetwork/COI_All_assignments/COI_impacted_network_node_table.csv",header=T,sep=",")
+impNode = read.table("co-occurence_networks/COI_impacted_network_node_table.csv",header=T,sep=",")
 rownames(impNode)=impNode$name
 ## write.table(impNode, file=file.path(outpath,"COI_impacted_node_table.txt"), quote = F, sep = "\t")
 
 ## Non-Impacted network split
-nonimpNode = read.table("co-occurence_networks/Manuscript/analysis_and_scripts/SplitNetwork/COI_All_assignments/COI_nonimpacted_network_node_table.csv",header=T,sep=",")
+nonimpNode = read.table("co-occurence_networks/COI_nonimpacted_network_node_table.csv",header=T,sep=",")
 rownames(nonimpNode)=nonimpNode$name
 ## write.table(nonimpNode, file=file.path(outpath,"COI_non-impacted_node_table.txt"), quote = F, sep = "\t")
 
@@ -917,12 +918,12 @@ p +
 #------------------------------#
 
 ## Impacted network split
-impEdge = read.table("co-occurence_networks/Manuscript/analysis_and_scripts/SplitNetwork/COI_All_assignments/COI_impacted_network_edge_table.csv",header=T,sep=",")
+impEdge = read.table("co-occurence_networks/COI_impacted_network_edge_table.csv",header=T,sep=",")
 rownames(impEdge)=impEdge$Label
 vennSet1 = impEdge$Label
 
 ## Non-Impacted network split
-nonimpEdge = read.table("co-occurence_networks/Manuscript/analysis_and_scripts/SplitNetwork/COI_All_assignments/COI_nonimpacted_network_edge_table.csv",header=T,sep=",")
+nonimpEdge = read.table("co-occurence_networks/COI_nonimpacted_network_edge_table.csv",header=T,sep=",")
 rownames(nonimpEdge)=nonimpEdge$Label
 vennSet2 = nonimpEdge$Label
 
